@@ -15,7 +15,7 @@ class MostFinals < Statistic
         SELECT
           personId wca_id,
           COUNT(*) finals_count
-        FROM IrishResultssultssultssultssults
+        FROM IrishResults
         JOIN RoundTypes round_type ON round_type.id = roundTypeId
         WHERE round_type.final = 1
         GROUP BY personId
