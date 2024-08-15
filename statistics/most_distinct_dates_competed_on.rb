@@ -19,7 +19,7 @@ class MostDistinctDatesCompetedOn < Statistic
           personId,
           GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
-          SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
+          SELECT IrishResults.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
           FROM IrishResults
           JOIN (
             SELECT
@@ -30,7 +30,7 @@ class MostDistinctDatesCompetedOn < Statistic
               SELECT 0 AS num UNION ALL SELECT 1 UNION ALL SELECT 2 UNION ALL SELECT 3 UNION ALL SELECT 4 UNION ALL SELECT 5 UNION ALL SELECT 6 UNION ALL SELECT 7 UNION ALL SELECT 8 UNION ALL SELECT 9
             ) AS nums
             WHERE DATE_ADD(Competitions.start_date, INTERVAL nums.num DAY) <= Competitions.end_date
-          ) AS competition_dates ON competition_dates.competitionId = Results.competitionId
+          ) AS competition_dates ON competition_dates.competitionId = IrishResults.competitionId
         ) AS competitions_dates
         GROUP BY personId
         HAVING attended_dates >= 100
