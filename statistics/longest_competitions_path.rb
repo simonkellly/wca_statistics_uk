@@ -15,7 +15,7 @@ class LongestCompetitionsPath < Statistic
         RADIANS(longitude / 1000000) longitude_radians
       FROM (
         SELECT DISTINCT personId, competitionId
-        FROM Results
+        FROM IrishResults
       ) AS people_with_competitions
       JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId

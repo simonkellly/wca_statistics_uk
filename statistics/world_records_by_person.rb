@@ -15,7 +15,7 @@ class WorldRecordsByPerson < Statistic
         SELECT
           personId,
           SUM((IF(regionalSingleRecord = 'WR', 1, 0) + IF(regionalAverageRecord = 'WR', 1, 0))) wrs_count
-        FROM Results
+        FROM IrishResults
         GROUP BY personId
         HAVING wrs_count > 0
       ) AS wrs_count_by_person

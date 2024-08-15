@@ -14,7 +14,7 @@ class RecordsInMostEvents < GroupedStatistic
         regionalAverageRecord regional_average_record,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         event.name event_name
-      FROM Results
+      FROM IrishResults
       JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Events event ON event.id = eventId
       WHERE (regionalSingleRecord IS NOT NULL AND regionalSingleRecord != '')

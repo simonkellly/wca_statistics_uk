@@ -17,7 +17,7 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
         pos place,
         round_type.final is_final,
         best
-      FROM Results
+      FROM IrishResults
       JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId

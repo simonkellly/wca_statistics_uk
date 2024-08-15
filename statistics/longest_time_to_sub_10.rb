@@ -18,13 +18,13 @@ class LongestTimeToSub10 < Statistic
       ) AS sub_10_person
       JOIN (
         SELECT personId, MIN(start_date) start_date
-        FROM Results
+        FROM IrishResults
         JOIN Competitions competition ON competition.id = competitionId
         GROUP BY personId
       ) AS first_competition ON first_competition.personId = sub_10_person.personId
       JOIN (
         SELECT personId, MIN(start_date) start_date
-        FROM Results
+        FROM IrishResults
         JOIN Competitions competition ON competition.id = competitionId
         WHERE eventId = '333' AND average > 0 AND average < 1000
         GROUP BY personId

@@ -19,7 +19,7 @@ class AverageEventCountByCompetition < Statistic
           competitionId,
           personId,
           COUNT(DISTINCT eventId) event_count
-        FROM Results
+        FROM IrishResults
         GROUP BY competitionId, personId
       ) AS competitors_with_event_count
       JOIN Competitions competition ON competition.id = competitionId

@@ -18,7 +18,7 @@ class CompetitionsPerYearByPerson < Statistic
             COUNT(DISTINCT competitionId) competitions,
             (DATEDIFF(CURDATE(), MIN(start_date)) / 365.25) years,
             personId wca_id
-          FROM Results result
+          FROM IrishResults result
           JOIN Competitions competition ON competition.id = competitionId
           GROUP BY personId
           HAVING years >= 1

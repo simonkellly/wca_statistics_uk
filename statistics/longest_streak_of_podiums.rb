@@ -18,7 +18,7 @@ class LongestStreakOfPodiums < Statistic
         round_type.final is_final,
         pos place,
         best single
-      FROM Results
+      FROM IrishResults
       JOIN Events event ON event.id = eventId
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId

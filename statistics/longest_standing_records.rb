@@ -20,7 +20,7 @@ class LongestStandingRecords < GroupedStatistic
         competition.start_date competition_date,
         eventId event_id,
         continent.name continent
-      FROM Results result
+      FROM IrishResults result
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = result.countryId

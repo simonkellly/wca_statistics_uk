@@ -20,7 +20,7 @@ class WorldChampionshipPodiumsByCountry < Statistic
           SUM(IF(pos = 1, 1, 0)) gold_medals,
           SUM(IF(pos = 2, 1, 0)) silver_medals,
           SUM(IF(pos = 3, 1, 0)) bronze_medals
-        FROM Results result
+        FROM IrishResults result
         JOIN Competitions competition ON competition.id = competitionId
         JOIN championships ON championships.competition_id = competitionId
         WHERE 1

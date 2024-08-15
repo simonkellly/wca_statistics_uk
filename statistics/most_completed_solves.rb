@@ -17,7 +17,7 @@ class MostCompletedSolves < GroupedStatistic
         continent.name continent,
         YEAR(competition.start_date) year,
         event.name event
-      FROM Results result
+      FROM IrishResults result
       JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = competition.countryId

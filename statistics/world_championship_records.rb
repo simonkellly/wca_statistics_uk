@@ -18,7 +18,7 @@ class WorldChampionshipRecords < GroupedStatistic
         country.name country_name,
         best single,
         average
-      FROM Results
+      FROM IrishResults
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = person.countryId

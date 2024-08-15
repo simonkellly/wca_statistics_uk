@@ -25,7 +25,7 @@ class DnfRateByEvent < Statistic
           + IF(value4 NOT IN (-2, 0), 1, 0)
           + IF(value5 NOT IN (-2, 0), 1, 0)
         ) attempts
-      FROM Results
+      FROM IrishResults
       GROUP BY eventId
     SQL
   end

@@ -15,7 +15,7 @@ class MostVisitedContinents < Statistic
         SELECT
           personId,
           COUNT(DISTINCT continentId) visited_continents
-        FROM Results
+        FROM IrishResults
         JOIN Competitions competition ON competition.id = competitionId
         JOIN Countries country ON country.id = competition.countryId
         WHERE continentId != "_Multiple Continents"

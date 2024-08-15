@@ -15,7 +15,7 @@ class MostVisitedCountries < Statistic
         SELECT
           personId,
           COUNT(DISTINCT competition.countryId) visited_countries
-        FROM Results result
+        FROM IrishResultssults result
         JOIN Competitions competition ON competition.id = competitionId
         WHERE competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
           NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')

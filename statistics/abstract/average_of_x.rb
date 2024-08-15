@@ -22,7 +22,7 @@ class AverageOfX < GroupedStatistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         result.eventId event_id,
         value1, value2, value3, value4, value5
-      FROM Results result
+      FROM IrishResults result
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId

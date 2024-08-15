@@ -14,7 +14,7 @@ class LongestStreakOfPersonalRecords < Statistic
         eventId event_id,
         best single,
         average
-      FROM Results
+      FROM IrishResults
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId

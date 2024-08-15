@@ -16,7 +16,7 @@ class Most4thPlaces < Statistic
         SELECT
           personId wca_id,
           COUNT(*) 4th_places_count
-        FROM Results
+        FROM IrishResults
         JOIN RoundTypes round_type ON round_type.id = roundTypeId
         WHERE round_type.final = 1 AND pos = 4 AND best > 0
         GROUP BY personId

@@ -16,7 +16,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
           personId,
           competitionId,
           start_date
-        FROM Results
+        FROM IrishResults
         JOIN Competitions competition ON competition.id = competitionId
       ) AS competition_dates_with_people
       JOIN Persons person ON person.wca_id = personId AND subId = 1

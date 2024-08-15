@@ -20,7 +20,7 @@ class MostDistinctDatesCompetedOn < Statistic
           GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
           SELECT Results.personId, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
-          FROM Results
+          FROM IrishResults
           JOIN (
             SELECT
               Competitions.id AS competitionId,
