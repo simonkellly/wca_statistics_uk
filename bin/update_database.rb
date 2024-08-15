@@ -92,7 +92,17 @@ Dir.mktmpdir do |tmp_direcory|
     extra_query_1 = "create table IrishResults like Results"
     `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_1}" #{filter_out_mysql_warning}`
 
-    extra_query_2 = "insert into IrishResults select * FROM IrishResults where (personId in (select personId from (select distinct personName, personId, competitionId FROM IrishResults where countryId != 'Ireland' ) data group by personName, personId having 2 * sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) > count(*)) ) or (countryId = 'Ireland')"
-    `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_1}" #{filter_out_mysql_warning}`
+    extra_query_2 = "insert into IrishResults select * from Results where
+      (personId in (
+        select personId
+        from
+            (select distinct personName, personId, competitionId
+            from Results
+            where countryId != 'Ireland'
+            ) data
+        group by personName, personId
+        having 2 * sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) > count(*))
+        ) or (countryId = 'Ireland')"
+    `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_2}" #{filter_out_mysql_warning}`
   end
 end
