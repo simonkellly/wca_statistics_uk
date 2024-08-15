@@ -89,7 +89,7 @@ Dir.mktmpdir do |tmp_direcory|
     store_metadata_sql = "CREATE TABLE wca_statistics_metadata (field varchar(255), value varchar(255)); INSERT INTO wca_statistics_metadata (field, value) VALUES ('export_timestamp', '#{export_timestamp.iso8601}')"
     `#{mysql_with_credentials} #{config["database"]} -e "#{store_metadata_sql}" #{filter_out_mysql_warning}`
     
-    extra_query = "delete from Results where(personId not in ( select personName, personId, count(*) comps, sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) as isIreland from (select distinct personName, personId, competitionId from Results where countryId != 'Ireland') data group by personName, personId having 2 * isIreland > comps)) and (countryId != 'Ireland')"
+    extra_query = "delete from Results where (personId not in (select personId from (select distinct personName, personId, competitionId from Results where countryId != 'Ireland') data group by personName, personId having 2 * sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) > count(*))) and (countryId != 'Ireland')"
     `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query}" #{filter_out_mysql_warning}`
   end
 end
