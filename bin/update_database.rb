@@ -98,11 +98,11 @@ Dir.mktmpdir do |tmp_direcory|
         from
             (select distinct personName, personId, competitionId
             from Results
-            where countryId != 'Ireland'
+            where countryId != 'United Kingdom'
             ) data
         group by personName, personId
-        having 2 * sum(if(competitionId in (select id from Competitions where countryId='Ireland'), 1, 0)) > count(*))
-        ) or (countryId = 'Ireland')"
+        having 2 * sum(if(competitionId in (select id from Competitions where countryId='United Kingdom'), 1, 0)) > count(*))
+        ) or (countryId = 'United Kingdom')"
     `#{mysql_with_credentials} #{config["database"]} -e "#{extra_query_2}" #{filter_out_mysql_warning}`
   end
 end

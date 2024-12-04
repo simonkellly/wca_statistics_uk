@@ -40,7 +40,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
       JOIN Results result ON result.personId = all_events_people.personId
       JOIN Persons person ON person.wca_id = result.personId and person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
-      where person.countryId='Ireland'
+      where person.countryId='United Kingdom'
       ORDER BY start_date
     SQL
   end
