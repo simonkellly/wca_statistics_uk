@@ -174,8 +174,8 @@
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 6 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
-| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
+| [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |
 
@@ -319,15 +319,15 @@
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 9 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 9 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 8 |
-| [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 7 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
+| [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 7 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 7 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 6 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 6 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 5 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4 |
-| [Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05) | 4 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | 4 |
+| [Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05) | 4 |
 
 ### Square-1
 
