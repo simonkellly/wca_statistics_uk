@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -27,11 +27,11 @@
 | 0.98 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018ALON07) |
 | 1.00 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2020BURN06) |
 | 1.02 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Leicestershire Autumn 2024](https://www.worldcubeassociation.org/competitions/LeicestershireAutumn2024/results/by_person#2020BURN06) |
+| 1.05 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2023TULL04) |
 | 1.06 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020BURN06) |
 | 1.07 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023/results/by_person#2020BURN06) |
 | 1.08 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/by_person#2020BURN06) |
 | 1.09 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2020BURN06) |
-| 1.09 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2023TULL04) |
 
 ### 4x4x4 Cube
 
@@ -69,14 +69,14 @@
 | ---: | :--- | :--- |
 | 8.15 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023/results/by_person#2020ARCH01) |
 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
+| 8.50 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024/results/by_person#2020ARCH01) |
 | 8.54 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2020ARCH01) |
 | 8.55 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2020ARCH01) |
+| 8.56 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024/results/by_person#2020ARCH01) |
 | 8.57 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 8.59 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Glasgow Spring 2024](https://www.worldcubeassociation.org/competitions/GlasgowSpring2024/results/by_person#2020ARCH01) |
 | 8.60 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 8.69 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020ARCH01) |
-| 8.72 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Bolton Summer 2024](https://www.worldcubeassociation.org/competitions/BoltonSummer2024/results/by_person#2020ARCH01) |
-| 8.72 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 
 ### Megaminx
 

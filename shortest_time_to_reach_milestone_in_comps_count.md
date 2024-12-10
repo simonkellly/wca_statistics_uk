@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### 200 Competitions
@@ -78,6 +78,8 @@
 | 505 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 511 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) |
 | 531 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) |
+| 568 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) |
+| 568 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) |
 | 575 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 581 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 603 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) |
@@ -86,13 +88,12 @@
 | 688 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 736 | [Alex Pennington](https://www.worldcubeassociation.org/persons/2022PENN04) |
 | 743 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) |
-| 750 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
-| 757 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) |
 
 ### 10 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 113 | [Zachary Trimble](https://www.worldcubeassociation.org/persons/2024TRIM01) |
 | 120 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 161 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 | 162 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
@@ -112,7 +113,6 @@
 | 267 | [Elliot Allen](https://www.worldcubeassociation.org/persons/2023ALLE16) |
 | 268 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 274 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
-| 275 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 
 ### 5 Competitions
 

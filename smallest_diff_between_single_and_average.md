@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -145,6 +145,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.05 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | 3.63 | 3.68 | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024/results/by_person#2024CORK01) |
 | 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 4.47 | 4.53 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022CALD07) |
+| 0.08 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 4.75 | 4.83 | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2018ALON07) |
 | 0.09 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.71 | 1.80 | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023/results/by_person#2018BURG03) |
 | 0.10 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 2.03 | 2.13 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2018BURG03) |
 | 0.10 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 2.23 | 2.33 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2018BURG03) |
@@ -152,7 +153,6 @@
 | 0.10 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 3.77 | 3.87 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2012SEVE01) |
 | 0.10 | [Edward Morrissey](https://www.worldcubeassociation.org/persons/2018MORR09) | 7.87 | 7.97 | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019/results/by_person#2018MORR09) |
 | 0.10 | [Jan Laidler](https://www.worldcubeassociation.org/persons/2018LAID01) | 11.12 | 11.22 | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018/results/by_person#2018LAID01) |
-| 0.11 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 2.37 | 2.48 | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/by_person#2016HARL01) |
 
 ### Rubik's Clock
 

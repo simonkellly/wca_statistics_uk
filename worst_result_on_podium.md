@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -118,11 +118,11 @@
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 33 | **39.00** | [Irish Championship FMC 2023](https://www.worldcubeassociation.org/competitions/IrishChampionshipFMC2023/results/podiums#e333fm) | 2 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 35 | **38.67** | [Kidderminster Summer BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterSummerBBO2022/results/podiums#e333fm) | 3 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 30 | **37.33** | [N8W8 Summer 2015](https://www.worldcubeassociation.org/competitions/N8W8Summer2015/results/podiums#e333fm) | 3 |
+| [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | 34 | **35.33** | [Riga Special 2018](https://www.worldcubeassociation.org/competitions/RigaSpecial2018/results/podiums#e333fm) | 1 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 31 | **35.33** | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014/results/podiums#e333fm) | 3 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 32 | **34.67** | [Finnish Championship 2016](https://www.worldcubeassociation.org/competitions/FinnishChampionship2016/results/podiums#e333fm) | 2 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 31 | **34.67** | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/podiums#e333fm) | 3 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 32 | **34.33** | [Swedish Championship 2017](https://www.worldcubeassociation.org/competitions/SwedishChampionship2017/results/podiums#e333fm) | 3 |
-| [Mark Skelton](https://www.worldcubeassociation.org/persons/2013SKEL01) | 29 | **34.33** | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

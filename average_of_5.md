@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube
@@ -91,18 +91,18 @@
 | 21.33 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 26, 21, 20, 23 |
 | 22.00 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 21, 23, 20, DNF, 22 |
 | 22.00 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22, 22, 26, 21, 22 |
+| 22.67 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) | 19, 23, 25, 23, 22 |
 | 23.33 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 25, 21, 26, 22, 23 |
-| 23.67 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) | 27, 19, 23, 25, 23 |
 | 25.33 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 24, 26, 29, 24, 26 |
 | 25.67 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 23, 27, 24, 30, 26 |
 | 28.33 | [Ben Coppin](https://www.worldcubeassociation.org/persons/2013COPP01) | 38, 29, 20, 27, 29 |
-| 29.67 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 26, 22, 33, 37, 30 |
+| 29.67 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 31, DNF, 31, 27, 27 |
 
 ### 3x3x3 One-Handed
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 8.55 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 10.10, 8.33, 6.34, 8.57, 8.76 |
+| 8.22 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.60, 7.50, 9.42, 8.56, 7.16 |
 | 10.22 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 13.10, 10.05, 9.91, 8.55, 10.71 |
 | 10.28 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 8.00, 11.86, 9.87, 14.72, 9.12 |
 | 10.41 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 12.08, 10.21, 9.30, 11.42, 9.59 |
@@ -118,6 +118,7 @@
 | 36.69 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 36.06, 33.49, 43.10, 38.86, 35.15 |
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |
 | 39.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 41.54, 40.17, 42.28, 36.69, 35.87 |
+| 41.00 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 46.97, 45.15, 36.17, 37.01, 40.83 |
 | 43.14 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 40.46, 45.58, 43.38, 46.68, 38.80 |
 | 44.36 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 45.48, 36.80, 47.73, 42.40, 45.20 |
 | 46.07 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 47.64, 48.40, 42.44, 46.35, 44.22 |

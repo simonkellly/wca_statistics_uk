@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Pairs
@@ -99,6 +99,7 @@
 | 10 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) & [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 9 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) & [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 9 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
+| 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 9 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 9 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 9 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) & [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
@@ -106,7 +107,6 @@
 | 9 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 9 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) & [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 9 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 9 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 
 ### Triples
 

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -141,6 +141,7 @@
 | 1 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Sandnes Open 2022](https://www.worldcubeassociation.org/competitions/SandnesOpen2022) |
 | 1 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) |
 | 1 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | Hong Kong, China | [Hong Kong Blind Legends 2024](https://www.worldcubeassociation.org/competitions/HongKongBlindLegends2024) |
+| 1 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | Hong Kong, China | [Please Don't DNF Singapore 2024](https://www.worldcubeassociation.org/competitions/PleaseDontDNFSingapore2024) |
 | 1 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | United Kingdom | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) |
 | 1 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | United Kingdom | [Italian Open 2007](https://www.worldcubeassociation.org/competitions/ItalianOpen2007) |
 | 1 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | United Kingdom | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024) |
@@ -156,6 +157,8 @@
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024) |
 | 1 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | United Kingdom | [LYN Cubing Days 2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019) |
 | 1 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) | United Kingdom | [Bengaluru Cool Down 2019](https://www.worldcubeassociation.org/competitions/BengaluruCoolDown2019) |
+| 1 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | Ukraine | [Riga Special 2018](https://www.worldcubeassociation.org/competitions/RigaSpecial2018) |
+| 1 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | Ukraine | [Ukrainian Nationals 2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [FMC Europe 2019](https://www.worldcubeassociation.org/competitions/FMCEurope2019) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [British Blind Off 2019](https://www.worldcubeassociation.org/competitions/TGBBO2019) |

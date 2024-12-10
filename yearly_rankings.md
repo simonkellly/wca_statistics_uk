@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -14,10 +14,10 @@
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **4.88** | United Kingdom | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024) | 6.33, 4.88, 7.09, 9.94, 5.30 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **5.28** | United Kingdom | [Crewe Spring 2024](https://www.worldcubeassociation.org/competitions/CreweSpring2024) | 7.03, 5.28, 7.55, 7.86, 8.53 |
 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | **5.41** | United Kingdom | [Glasgow 3x3 Evening 2024](https://www.worldcubeassociation.org/competitions/Glasgow3x3Evening2024) | 7.14, 7.38, 5.41, 7.58, 8.17 |
+| [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) | **5.49** | United Kingdom | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 5.49, 8.62, 8.37, 9.23, 9.64 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **5.51** | United Kingdom | [Wakefield Summer 2024](https://www.worldcubeassociation.org/competitions/WakefieldSummer2024) | 8.89, 5.51, 8.55, 6.98, 10.07 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **5.57** | United Kingdom | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 6.83, 8.61, 5.57, 7.49, 7.30 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **5.64** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 9.88, 5.64, 9.87, 9.56, 9.17 |
-| [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) | **5.68** | Ukraine | [Bristol Summer 2024](https://www.worldcubeassociation.org/competitions/BristolSummer2024) | 5.68, 7.88, 7.51, 9.59, 7.52 |
 
 ### Rubik's Cube - Average
 
@@ -40,29 +40,29 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **0.70** | United Kingdom | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 1.49, 1.61, 3.46, 2.04, 0.70 |
 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | **0.80** | United Kingdom | [Stevenage August 2024](https://www.worldcubeassociation.org/competitions/StevenageAugust2024) | 1.54, 1.77, 2.09, 0.80, DNF |
+| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **0.84** | United Kingdom | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 0.84, 1.05, 1.32, 1.25, 4.52 |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **0.85** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 0.85, 4.85, 1.36, 0.86, 1.44 |
-| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **0.86** | United Kingdom | [Stevenage Beginners Sep A 2024](https://www.worldcubeassociation.org/competitions/StevenageBeginnersSepA2024) | 1.35, 2.40, 0.86, 1.65, 2.52 |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **0.92** | United Kingdom | [Wiltshire March 2024](https://www.worldcubeassociation.org/competitions/WiltshireMarch2024) | 1.76, DNF, 0.92, 2.00, 5.15 |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | **0.92** | United Kingdom | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024) | 3.16, 3.96, 2.79, 0.92, 3.19 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **0.92** | United Kingdom | [Wakefield Summer 2024](https://www.worldcubeassociation.org/competitions/WakefieldSummer2024) | 2.00, 1.81, 0.92, 4.44, 2.13 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **0.98** | United Kingdom | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) | 2.22, 4.40, 0.98, 2.03, 7.23 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **1.00** | United Kingdom | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024) | 2.74, 4.22, 3.54, 5.16, 1.00 |
-| [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | **1.01** | United Kingdom | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024) | 1.01, 2.64, 1.49, 1.93, 1.50 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **1.00** | Hong Kong, China | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | DNF, 1.00, 1.56, 3.19, 2.62 |
 
 ### 2x2x2 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **1.20** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 0.98, 0.98, 1.50, 1.26, 1.37 |
+| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.21** | United Kingdom | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 0.84, 1.05, 1.32, 1.25, 4.52 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **1.22** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 0.87, 1.58, 4.33, 0.93, 1.15 |
-| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.29** | United Kingdom | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 1.11, 1.17, 1.93, 1.57, 1.12 |
 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | **1.35** | United Kingdom | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024) | 1.45, DNF, 0.87, 1.30, 1.30 |
 | [Harry Allen](https://www.worldcubeassociation.org/persons/2023ALLE01) | **1.45** | United Kingdom | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) | 1.77, 1.56, 1.09, 1.30, 1.48 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **1.49** | United Kingdom | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) | 1.53, 1.64, 1.15, 1.57, 1.36 |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | **1.53** | United Kingdom | [Stevenage Beginners Sep A 2024](https://www.worldcubeassociation.org/competitions/StevenageBeginnersSepA2024) | 1.47, 1.58, 1.35, 1.53, 1.70 |
 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | **1.53** | United Kingdom | [Lincolnshire Autumn 2024](https://www.worldcubeassociation.org/competitions/LincolnshireAutumn2024) | 1.69, 1.14, 1.12, 6.07, 1.75 |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **1.54** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 1.22, 1.32, 2.10, 1.46, 1.85 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **1.60** | United Kingdom | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024) | 1.63, 1.60, 1.40, 3.61, 1.57 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **1.57** | Hong Kong, China | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 1.49, 1.40, 4.63, 1.83, 1.39 |
 
 ### 4x4x4 Cube - Single
 
@@ -196,8 +196,8 @@
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **20.73** | China | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 20.73, DNF, DNF |
 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | **22.85** | United Kingdom | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 22.85, 38.07, 33.70 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **25.90** | United Kingdom | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024) | 25.90, DNF, DNF |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **26.59** | United Kingdom | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024) | 26.59, DNF, DNF |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **27.58** | Ireland | [Mind Sports Olympiad London 2024](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadLondon2024) | 1:06.97, DNF, 27.58 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **28.09** | United Kingdom | [Bristol Summer 2024](https://www.worldcubeassociation.org/competitions/BristolSummer2024) | 57.58, 28.09, DNF |
 
 ### 3x3x3 Blindfolded - Average
 
@@ -283,9 +283,9 @@
 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | **29.59** | United Kingdom | [Hampshire Autumn 2024](https://www.worldcubeassociation.org/competitions/HampshireAutumn2024) | 40.58, 43.73, 43.29, 29.59, 38.33 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **33.49** | United Kingdom | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024) | 33.49, 43.10, 38.86, 35.15, 44.34 |
 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | **34.11** | United Kingdom | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 48.84, 52.02, 48.84, 43.87, 34.11 |
+| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **36.17** | Egypt | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 45.15, 36.17, 37.01, 40.83, 45.29 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **36.32** | United Kingdom | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) | 43.98, 36.32, 53.84, 48.20, 47.64 |
 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **36.80** | United Kingdom | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024) | 45.54, 45.48, 36.80, 47.73, 42.40 |
-| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **37.74** | Egypt | [Chichester Summer 2024](https://www.worldcubeassociation.org/competitions/ChichesterSummer2024) | 48.65, 43.54, 39.71, 37.74, 49.88 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **37.91** | United Kingdom | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024) | 42.11, 37.91, 43.20, 45.47, 47.34 |
 | [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **38.04** | United Kingdom | [Manchester August 2024](https://www.worldcubeassociation.org/competitions/ManchesterAugust2024) | 42.86, 46.64, 51.09, 38.04, 45.40 |
 
@@ -297,10 +297,10 @@
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **30.99** | United Kingdom | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024) | 31.91, 28.08, 30.14, 30.93, 33.39 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **37.93** | United Kingdom | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024) | 35.53, 35.95, 42.32, 43.56, 33.60 |
 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | **38.95** | United Kingdom | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024) | 35.92, 40.32, 38.70, 38.81, 39.35 |
+| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **41.00** | Egypt | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) | 45.15, 36.17, 37.01, 40.83, 45.29 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **42.76** | United Kingdom | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) | 42.00, 46.04, 39.00, 41.99, 44.29 |
 | [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **43.57** | United Kingdom | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024) | 44.49, 38.63, 48.60, 43.52, 42.71 |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | **43.87** | United Kingdom | [Lincolnshire Autumn 2024](https://www.worldcubeassociation.org/competitions/LincolnshireAutumn2024) | 41.90, 41.27, 44.79, 46.52, 44.93 |
-| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **43.97** | Egypt | [Chichester Summer 2024](https://www.worldcubeassociation.org/competitions/ChichesterSummer2024) | 48.65, 43.54, 39.71, 37.74, 49.88 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **44.47** | United Kingdom | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024) | 44.03, 44.32, 54.19, 45.07, 42.98 |
 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **44.47** | United Kingdom | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024) | 45.54, 45.48, 36.80, 47.73, 42.40 |
 

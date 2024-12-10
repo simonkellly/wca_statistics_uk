@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  7 December 2024*
+*Updated on 10 December 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -25,15 +25,15 @@
 | 37 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | [Guildford Open 2016](https://www.worldcubeassociation.org/competitions/GuildfordOpen2016) | [Kewbz UK Championship FMC 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionshipFMC2022) |
 | 37 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | [Manchester Open 2017](https://www.worldcubeassociation.org/competitions/ManchesterOpen2017) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) |
 | 36 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
+| 36 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |  |
+| 36 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |  |
 | 36 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022) | [Newham Autumn - BBO 2023](https://www.worldcubeassociation.org/competitions/NewhamAutumnBBO2023) |
 | 35 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) | [Crawley Open 2017](https://www.worldcubeassociation.org/competitions/CrawleyOpen2017) |
-| 35 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |  |
 | 35 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) | [Stevenage September 2023](https://www.worldcubeassociation.org/competitions/StevenageSeptember2023) |
-| 35 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) |  |
 | 35 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | [Wiltshire Summer 2023](https://www.worldcubeassociation.org/competitions/WiltshireSummer2023) | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024) |
 | 34 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
 | 34 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [Cheltenham Summer 2022](https://www.worldcubeassociation.org/competitions/CheltenhamSummer2022) |
-| 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) |  |
+| 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) |
 | 33 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
 | 33 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) |
 | 33 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) |
@@ -50,12 +50,12 @@
 | 29 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023) |
 | 29 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |  |
 | 29 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) | [Manchester June 2024](https://www.worldcubeassociation.org/competitions/ManchesterJune2024) |
+| 29 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |  |
 | 29 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) | [Aberdeen Autumn 2023](https://www.worldcubeassociation.org/competitions/AberdeenAutumn2023) |
 | 29 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |  |
 | 28 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015) |
 | 28 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | [Cyber Open 2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |
 | 28 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | [Zentralschweiz 2018](https://www.worldcubeassociation.org/competitions/Zentralschweiz2018) |  |
-| 28 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |  |
 | 28 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) |  |
 | 27 | [Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01) | [Cambridge Open 2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
 | 27 | [Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) |
