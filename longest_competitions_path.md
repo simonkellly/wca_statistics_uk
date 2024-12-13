@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -145,6 +145,7 @@
 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | 16 929 km |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 16 912 km |
 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) | 16 845 km |
+| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 16 739 km |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | 16 409 km |
 | [Oscar Jones](https://www.worldcubeassociation.org/persons/2015JONE07) | 16 367 km |
 | [Ollie Turner](https://www.worldcubeassociation.org/persons/2022TURN11) | 16 232 km |
@@ -155,7 +156,6 @@
 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) | 15 893 km |
 | [Ruben da Costa](https://www.worldcubeassociation.org/persons/2018COST09) | 15 745 km |
 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) | 15 634 km |
-| [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | 15 508 km |
 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 15 481 km |
 | [Sam Jones](https://www.worldcubeassociation.org/persons/2023JONE09) | 15 476 km |
 | [Nicky Sim](https://www.worldcubeassociation.org/persons/2022SIMN02) | 15 362 km |

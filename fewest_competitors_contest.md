@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -762,6 +762,7 @@
 | 1 | [Poznań Fanatic Cube 2018](https://www.worldcubeassociation.org/competitions/PoznanFanaticCube2018) |
 | 1 | [Poznan Open 2009](https://www.worldcubeassociation.org/competitions/PoznanOpen2009) |
 | 1 | [Poznan Open 2014](https://www.worldcubeassociation.org/competitions/PoznanOpen2014) |
+| 1 | [Prague CubeMas 2024](https://www.worldcubeassociation.org/competitions/PragueCubeMas2024) |
 | 1 | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015) |
 | 1 | [Pretzel Mania Summer 2023](https://www.worldcubeassociation.org/competitions/PretzelManiaSummer2023) |
 | 1 | [Prienai Open 2022](https://www.worldcubeassociation.org/competitions/PrienaiOpen2022) |

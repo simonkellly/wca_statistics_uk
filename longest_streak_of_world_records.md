@@ -1,10 +1,10 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
-| 5 | 4x4x4 Blindfolded | Single | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |  | 10.57 |
+| 5 | 4x4x4 Blindfolded | Single | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |  | 10.58 |
 | 2 | 4x4x4 Blindfolded | Single | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) | 2.80 |
 | 2 | 5x5x5 Blindfolded | Single | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) |  | 10.42 |
 

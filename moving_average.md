@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 December 2024*
+*Updated on 13 December 2024*
 
 
 ### Rubik's Cube
@@ -264,10 +264,10 @@
 | 2:11.37 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 2:12.09 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 2:12.86 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 2:13.47 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 | 2:13.49 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 2:13.93 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) |
 | 2:14.10 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
-| 2:14.49 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 | 2:14.66 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 2:14.79 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 2:15.33 | [Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01) |
@@ -324,9 +324,9 @@
 | 3:25.07 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 3:25.83 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
 | 3:28.82 | [Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01) |
+| 3:29.35 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 | 3:30.15 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 3:31.37 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
-| 3:33.50 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 | 3:33.82 | [Jonathan Pugsley](https://www.worldcubeassociation.org/persons/2018PUGS01) |
 | 3:36.03 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 3:37.02 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
