@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -42,17 +42,18 @@
 | 40.26 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 41.73 | [Eunyul Ko (고은율)](https://www.worldcubeassociation.org/persons/2023KOEU01) |
 | 41.84 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
+| 42.28 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 42.67 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) |
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 44.23 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) |
 | 44.83 | [Ray Chen](https://www.worldcubeassociation.org/persons/2022CHEN10) |
 | 45.35 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
-| 45.37 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 
 ### 5x5x5 Cube
 
 | First average | Person |
 | ---: | :--- |
+| 1:08.83 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 1:10.25 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 1:12.23 | [Etim Okpoyo](https://www.worldcubeassociation.org/persons/2024OKPO01) |
 | 1:12.88 | [Bochang Lu (卢伯畅)](https://www.worldcubeassociation.org/persons/2018LUBO01) |
@@ -62,7 +63,6 @@
 | 1:21.11 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
 | 1:22.44 | [Leo Palfrey](https://www.worldcubeassociation.org/persons/2016PALF01) |
 | 1:22.79 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
-| 1:23.16 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 
 ### 6x6x6 Cube
 
@@ -124,16 +124,16 @@
 
 | First average | Person |
 | ---: | :--- |
+| 16.50 | [Xavier Austin](https://www.worldcubeassociation.org/persons/2024AUST04) |
 | 16.97 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 17.08 | [Jason Hoang Vu](https://www.worldcubeassociation.org/persons/2024VUJA01) |
 | 17.68 | [Danyar Ahmed](https://www.worldcubeassociation.org/persons/2024AHME22) |
 | 17.70 | [Ivo Morley](https://www.worldcubeassociation.org/persons/2024MORL01) |
 | 17.85 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 18.83 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
+| 18.88 | [Isaac Davies](https://www.worldcubeassociation.org/persons/2024DAVI66) |
 | 20.23 | [Kino Deligero](https://www.worldcubeassociation.org/persons/2018DELI01) |
 | 20.51 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
-| 20.78 | [Patryk Cendrzak](https://www.worldcubeassociation.org/persons/2022CEND01) |
-| 21.06 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 
 ### Megaminx
 

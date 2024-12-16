@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -59,24 +59,24 @@
 | 12 | [Mark Rivers](https://www.worldcubeassociation.org/persons/2015RIVE05) |
 | 11 | [Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01) |
 | 11 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) |
+| 11 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 10 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
-| 10 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 10 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 10 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 10 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) |
-| 10 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
+| 10 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |
 | 10 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) |
 | 10 | [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) |
 | 10 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 10 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 10 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |
-| 9 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
-| 9 | [Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04) |
-| 9 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
+| 10 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 9 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
+| 9 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
+| 9 | [Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04) |
+| 9 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
 | 8 | [Kris Lim](https://www.worldcubeassociation.org/persons/2022LIMK01) |
-| 8 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 8 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) |
+| 8 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 7 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 7 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
 | 7 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) |

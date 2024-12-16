@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -120,6 +120,7 @@
 | 1 | [Big N Blind Bangalore April 2024](https://www.worldcubeassociation.org/competitions/BigNBlindBangaloreApril2024) |
 | 1 | [Bjerringbro Open 2023](https://www.worldcubeassociation.org/competitions/BjerringbroOpen2023) |
 | 1 | [Blandede Bolsjer i Lejre 2023](https://www.worldcubeassociation.org/competitions/BlandedeBolsjeriLejre2023) |
+| 1 | [Blindmas Landvetter 2024](https://www.worldcubeassociation.org/competitions/BlindmasLandvetter2024) |
 | 1 | [BlithCube Open 2023](https://www.worldcubeassociation.org/competitions/BlithCubeOpen2023) |
 | 1 | [Bobcat Battle 2023](https://www.worldcubeassociation.org/competitions/BobcatBattle2023) |
 | 1 | [Borneo Championship 2017](https://www.worldcubeassociation.org/competitions/BorneoChampionship2017) |
@@ -391,6 +392,7 @@
 | 1 | [Hamilton Spring 2017](https://www.worldcubeassociation.org/competitions/HamiltonSpring2017) |
 | 1 | [Hamilton Winter 2016](https://www.worldcubeassociation.org/competitions/HamiltonWinter2016) |
 | 1 | [Hampton Park Summer Sat 2023](https://www.worldcubeassociation.org/competitions/HamptonParkSummerSaturday2023) |
+| 1 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) |
 | 1 | [Harold Park Classic 2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019) |
 | 1 | [Harvard Fall 2011](https://www.worldcubeassociation.org/competitions/HarvardFall2011) |
 | 1 | [Harvard Fall 2012](https://www.worldcubeassociation.org/competitions/HarvardFall2012) |
@@ -659,6 +661,7 @@
 | 1 | [New Zealand Nationals 2020](https://www.worldcubeassociation.org/competitions/NewZealandNationals2020) |
 | 1 | [NZ Nationals 2022](https://www.worldcubeassociation.org/competitions/NewZealandNationals2022) |
 | 1 | [New Zealand Nationals 2023](https://www.worldcubeassociation.org/competitions/NewZealandNationals2023) |
+| 1 | [New Zealand Nationals 2024](https://www.worldcubeassociation.org/competitions/NewZealandNationals2024) |
 | 1 | [Nexus Summer Open Saturday 2023](https://www.worldcubeassociation.org/competitions/NexusSummerOpenSaturday2023) |
 | 1 | [Nexus Winter Open 2022](https://www.worldcubeassociation.org/competitions/NexusWinterOpen2022) |
 | 1 | [Niagara Select 2018](https://www.worldcubeassociation.org/competitions/NiagaraSelect2018) |

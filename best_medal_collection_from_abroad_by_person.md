@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -20,7 +20,7 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **18** | 5 | 1 | 24 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **14** | 17 | 31 | 62 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **13** | 10 | 4 | 27 |
-| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **10** | 17 | 24 | 51 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **10** | 18 | 26 | 54 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | **10** | 6 | 1 | 17 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | **9** | 6 | 4 | 19 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **7** | 6 | 8 | 21 |
@@ -33,9 +33,10 @@
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | **4** | 10 | 15 | 29 |
 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | **4** | 10 | 11 | 25 |
 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | **4** | 6 | 15 | 25 |
-| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **4** | 6 | 6 | 16 |
+| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **4** | 6 | 7 | 17 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **4** | 4 | 1 | 9 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4** | 3 | 4 | 11 |
+| [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **4** | 1 | 3 | 8 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | **3** | 6 | 3 | 12 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | **3** | 4 | 5 | 12 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **3** | 3 | 1 | 7 |
@@ -50,7 +51,6 @@
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **2** | 2 | 1 | 5 |
 | [Zhiyuan Li (李致远)](https://www.worldcubeassociation.org/persons/2019LIZH08) | **2** | 2 | 0 | 4 |
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **2** | 1 | 6 | 9 |
-| [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **2** | 1 | 3 | 6 |
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | **2** | 1 | 2 | 5 |
 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) | **2** | 1 | 1 | 4 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **2** | 1 | 0 | 3 |
@@ -75,8 +75,8 @@
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | **1** | 2 | 0 | 3 |
 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1** | 2 | 0 | 3 |
 | [Shane Newman](https://www.worldcubeassociation.org/persons/2013NEWM02) | **1** | 2 | 0 | 3 |
+| [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) | **1** | 1 | 1 | 3 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 1 | 1 | 3 |
-| [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) | **1** | 1 | 0 | 2 |
 | [Krishna Sookun](https://www.worldcubeassociation.org/persons/2017SOOK01) | **1** | 1 | 0 | 2 |
 | [Subhadeep Sarkar](https://www.worldcubeassociation.org/persons/2017SARK01) | **1** | 0 | 5 | 6 |
 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | **1** | 0 | 4 | 5 |

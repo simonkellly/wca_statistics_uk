@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -41,12 +41,12 @@
 | 24.83 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 24.88 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 25.14 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022DAVI06) |
+| 25.63 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | [Bristol Winter Open 2024](https://www.worldcubeassociation.org/competitions/BristolWinterOpen2024/results/by_person#2022CHIU06) |
 | 25.72 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/by_person#2019MORG10) |
 | 25.87 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2014JAYE01) |
 | 25.96 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 26.18 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 26.21 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2017CHAM09) |
-| 26.24 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 
 ### 5x5x5 Cube
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -172,11 +172,11 @@
 | 7.23 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 6.46, 9.26, 7.75, 7.32, 6.61 |
 | 7.70 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7.52, 7.48, 7.22, 9.27, 8.10 |
 | 7.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.68, 6.28, 10.64, 8.33, 6.85 |
+| 8.65 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 7.98, 10.40, 9.45, 8.38, 8.13 |
 | 9.09 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 6.90, 9.55, 9.23, 16.08, 8.50 |
 | 9.43 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.99, 10.34, 11.96, 6.30, 10.97 |
 | 9.49 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 9.15, 13.65, 9.54, 7.71, 9.77 |
 | 10.04 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 8.78, 10.43, 10.45, 12.18, 9.24 |
-| 11.29 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 9.84, 11.11, 12.64, 11.76, 11.01 |
 
 ### 4x4x4 Blindfolded
 

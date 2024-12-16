@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -45,6 +45,7 @@
 | 6 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
 | 6 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
 | 6 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
+| 6 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 5 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |
 | 5 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) |
@@ -58,7 +59,6 @@
 | 5 | [Ronald Mansveld](https://www.worldcubeassociation.org/persons/2015MANS04) |
 | 5 | [Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01) |
 | 5 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
-| 5 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 5 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 5 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 5 | [Shane Newman](https://www.worldcubeassociation.org/persons/2013NEWM02) |

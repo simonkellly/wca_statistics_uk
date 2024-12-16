@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -103,6 +103,7 @@
 | 1 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) | Russia | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022) |
 | 1 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | United Kingdom | [Israel Open 2024](https://www.worldcubeassociation.org/competitions/IsraelOpen2024) |
 | 1 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | United Kingdom | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
+| 1 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | United Kingdom | [Bristol Winter Beginners 2024](https://www.worldcubeassociation.org/competitions/BristolWinterBeginners2024) |
 | 1 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | United Kingdom | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Canadian Open 2011](https://www.worldcubeassociation.org/competitions/CanadianOpen2011) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [German Nationals 2011](https://www.worldcubeassociation.org/competitions/GermanNationals2011) |

@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **12465** | 13101 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10233** | 10851 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10266** | 10888 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10031** | 10300 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **9166** | 9796 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **8237** | 8791 |
@@ -44,11 +44,11 @@
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **7557** | 8098 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **7031** | 7343 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **6688** | 7134 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **5665** | 6452 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **5692** | 6480 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **5613** | 5964 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **5575** | 5908 |
-| [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5424** | 5844 |
-| [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **5383** | 5610 |
+| [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5455** | 5877 |
+| [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **5413** | 5643 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **4730** | 5008 |
 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | **4687** | 5076 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **4497** | 4824 |
@@ -57,7 +57,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United Kingdom | **766218** | 805989 |
+| United Kingdom | **768731** | 808609 |
 | Ireland | **16026** | 16901 |
 | Denmark | **10824** | 11483 |
 | Spain | **8507** | 8949 |
@@ -65,12 +65,12 @@
 | United States | **6007** | 6337 |
 | Australia | **5117** | 5373 |
 | France | **4861** | 5171 |
-| Sweden | **4415** | 4715 |
+| Sweden | **4448** | 4752 |
 | Germany | **3314** | 3548 |
 | Norway | **3144** | 3322 |
 | Belgium | **2908** | 3113 |
 | India | **2654** | 2729 |
-| New Zealand | **2349** | 2468 |
+| New Zealand | **2371** | 2490 |
 | Netherlands | **2170** | 2322 |
 | Malaysia | **2105** | 2221 |
 | Poland | **1789** | 1874 |
@@ -82,9 +82,9 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **839447** | 883516 |
-| Asia | **10004** | 10549 |
-| Oceania | **7466** | 7841 |
+| Europe | **841993** | 886173 |
+| Asia | **10095** | 10645 |
+| Oceania | **7488** | 7863 |
 | North America | **6539** | 6901 |
 | South America | **684** | 709 |
 | Africa | **568** | 599 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **233554** | 245271 |
-| 2024 | **215809** | 226648 |
+| 2024 | **218468** | 229423 |
 | 2022 | **128165** | 134676 |
 | 2019 | **66762** | 70637 |
 | 2018 | **54925** | 57731 |
@@ -119,24 +119,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **238455** | 242963 |
-| 2x2x2 Cube | **146506** | 150002 |
-| Pyraminx | **94558** | 96785 |
-| 4x4x4 Cube | **77996** | 81567 |
-| Skewb | **63999** | 65483 |
-| 3x3x3 One-Handed | **62282** | 64358 |
-| 5x5x5 Cube | **52487** | 54165 |
-| Clock | **31729** | 36552 |
+| 3x3x3 Cube | **239750** | 244283 |
+| 2x2x2 Cube | **146798** | 150297 |
+| Pyraminx | **94824** | 97055 |
+| 4x4x4 Cube | **78215** | 81794 |
+| Skewb | **64019** | 65503 |
+| 3x3x3 One-Handed | **62510** | 64593 |
+| 5x5x5 Cube | **52662** | 54346 |
+| Clock | **31743** | 36567 |
 | Megaminx | **30629** | 32168 |
-| Square-1 | **26971** | 28100 |
+| Square-1 | **27103** | 28235 |
 | 6x6x6 Cube | **11409** | 11841 |
 | 7x7x7 Cube | **9625** | 10033 |
-| 3x3x3 Blindfolded | **8172** | 20045 |
+| 3x3x3 Blindfolded | **8188** | 20118 |
 | 3x3x3 Fewest Moves | **3409** | 4466 |
 | 3x3x3 With Feet | **1684** | 1866 |
 | Magic | **1326** | 1467 |
-| 3x3x3 Multi-Blind | **1320** | 1966 |
-| 4x4x4 Blindfolded | **1098** | 3796 |
+| 3x3x3 Multi-Blind | **1321** | 1967 |
+| 4x4x4 Blindfolded | **1099** | 3799 |
 | Master Magic | **781** | 820 |
 | 5x5x5 Blindfolded | **484** | 1943 |
 

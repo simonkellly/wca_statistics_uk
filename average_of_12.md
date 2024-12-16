@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -169,11 +169,11 @@
 | 8.18 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 9.48, 6.91, 6.54, 12.69, 8.40, 7.01, 9.28, 7.28, 10.72, 7.30, 7.29, 8.09 |
 | 8.42 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 8.57, 8.27, 8.91, 7.61, 14.70, 10.76, 7.52, 7.48, 7.22, 9.27, 8.10, 7.74 |
 | 8.61 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.24, 7.34, 16.06, 7.81, 9.64, 9.79, 7.22, 7.34, 10.81, 7.45, 10.02, 7.62 |
+| 9.06 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 8.58, 9.49, 7.25, 9.55, 8.55, 10.62, 7.98, 10.40, 9.45, 8.38, 8.13, 10.13 |
 | 10.10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 11.26, 11.05, 8.34, 12.29, 11.70, 8.77, 7.03, 13.85, 11.20, 8.92, 8.69, 8.80 |
 | 10.54 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 10.06, 11.99, 12.28, 11.04, 8.78, 10.43, 10.45, 12.18, 9.24, 8.70, 15.33, 8.92 |
 | 10.65 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 12.27, 11.46, 18.90, 8.97, 10.44, 9.22, 12.04, 9.15, 13.65, 9.54, 7.71, 9.77 |
 | 10.79 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 8.59, 10.10, 12.05, 13.20, 11.03, 9.11, 13.57, 12.72, 8.05, 11.85, 8.40, 10.89 |
-| 12.31 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 12.32, 14.68, 14.46, 11.24, 11.89, 12.23, 13.38, 9.61, 11.61, 12.25, 12.75, 10.96 |
 
 ### 4x4x4 Blindfolded
 

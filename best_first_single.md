@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 December 2024*
+*Updated on 16 December 2024*
 
 
 ### Rubik's Cube
@@ -45,15 +45,16 @@
 | 42.24 | [Zachary Gold Hanif](https://www.worldcubeassociation.org/persons/2023HANI01) |
 | 42.32 | [Etim Okpoyo](https://www.worldcubeassociation.org/persons/2024OKPO01) |
 | 42.87 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
+| 42.97 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 43.38 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 43.47 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
-| 44.68 | [Franklyn Bensley](https://www.worldcubeassociation.org/persons/2023BENS02) |
 
 ### 5x5x5 Cube
 
 | First single | Person |
 | ---: | :--- |
 | 1:06.85 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
+| 1:08.02 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 1:12.27 | [Bertie Cartwright](https://www.worldcubeassociation.org/persons/2015CART01) |
 | 1:12.76 | [Ivo Morley](https://www.worldcubeassociation.org/persons/2024MORL01) |
 | 1:13.12 | [Bochang Lu (卢伯畅)](https://www.worldcubeassociation.org/persons/2018LUBO01) |
@@ -62,7 +63,6 @@
 | 1:19.24 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 1:20.19 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 1:20.49 | [Leo Palfrey](https://www.worldcubeassociation.org/persons/2016PALF01) |
-| 1:24.37 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 
 ### 6x6x6 Cube
 
@@ -101,13 +101,13 @@
 | 1:04.77 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 1:32.95 | [Jay Dhiru](https://www.worldcubeassociation.org/persons/2015DHIR02) |
 | 1:37.89 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
+| 1:49.48 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 2:01.63 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 2:04.08 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 2:06.52 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 2:09.73 | [Lewis White](https://www.worldcubeassociation.org/persons/2019WHIT10) |
 | 2:10.22 | [Thomas Dooley](https://www.worldcubeassociation.org/persons/2017DOOL01) |
 | 2:23.75 | [Joe Akehurst](https://www.worldcubeassociation.org/persons/2019AKEH01) |
-| 2:27.82 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) |
 
 ### 3x3x3 Fewest Moves
 
@@ -131,13 +131,13 @@
 | 15.14 | [Jason Hoang Vu](https://www.worldcubeassociation.org/persons/2024VUJA01) |
 | 15.66 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
 | 16.93 | [Danyar Ahmed](https://www.worldcubeassociation.org/persons/2024AHME22) |
+| 17.12 | [Isaac Davies](https://www.worldcubeassociation.org/persons/2024DAVI66) |
+| 17.52 | [Xavier Austin](https://www.worldcubeassociation.org/persons/2024AUST04) |
 | 17.81 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 18.29 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 18.47 | [Ryan Tang](https://www.worldcubeassociation.org/persons/2022TANG05) |
 | 18.77 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 19.08 | [Kino Deligero](https://www.worldcubeassociation.org/persons/2018DELI01) |
-| 19.65 | [Eshan Ram Ananth](https://www.worldcubeassociation.org/persons/2023ANAN20) |
-| 19.68 | [Alexander Yip](https://www.worldcubeassociation.org/persons/2015YIPA01) |
 
 ### Megaminx
 
