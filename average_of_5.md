@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -34,7 +34,7 @@
 | 27.27 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 28.09, 34.95, 23.17, 25.72, 28.00 |
 | 27.64 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 22.22, 27.82, 30.10, 29.09, 26.01 |
 | 27.96 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 39.27, 28.70, 26.44, 27.89, 27.28 |
-| 28.31 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 26.21, 28.32, 30.79, 30.41, 23.48 |
+| 28.20 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 24.34, 30.30, 30.34, 27.94, 26.37 |
 
 ### 5x5x5 Cube
 
@@ -81,7 +81,7 @@
 | 25.79 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 27.69, 23.93, 25.75, 37.32, 21.72 |
 | 26.75 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 25.61, 24.84, 26.75, DNF, 27.89 |
 | 27.76 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) | 25.19, 31.26, 29.25, 28.84, 24.54 |
-| 32.22 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | DNF, 26.74, 37.00, 30.64, 29.03 |
+| 30.76 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 30.64, 29.03, DNF, 32.61, 25.99 |
 
 ### 3x3x3 Fewest Moves
 
@@ -118,11 +118,11 @@
 | 36.69 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 36.06, 33.49, 43.10, 38.86, 35.15 |
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |
 | 39.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 41.54, 40.17, 42.28, 36.69, 35.87 |
+| 40.98 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 33.85, 45.19, 43.39, 40.50, 39.06 |
 | 41.00 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 46.97, 45.15, 36.17, 37.01, 40.83 |
 | 43.14 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 40.46, 45.58, 43.38, 46.68, 38.80 |
 | 44.36 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 45.48, 36.80, 47.73, 42.40, 45.20 |
 | 46.07 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 47.64, 48.40, 42.44, 46.35, 44.22 |
-| 47.25 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 45.71, 50.52, 47.79, 47.57, 46.40 |
 
 ### Pyraminx
 
@@ -157,7 +157,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 2.13 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.87, 2.49, 2.03, 3.72, 1.77 |
+| 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.17, 4.39, 1.68, 2.28, 1.80 |
 | 2.41 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 6.77, 1.96, 2.85, 2.43, 1.84 |
 | 2.47 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 1.41, 5.56, 2.33, 3.26, 1.83 |
 | 3.58 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 2.86, 3.66, 5.89, 3.15, 3.92 |
@@ -173,10 +173,10 @@
 | 7.70 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7.52, 7.48, 7.22, 9.27, 8.10 |
 | 7.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.68, 6.28, 10.64, 8.33, 6.85 |
 | 8.65 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 7.98, 10.40, 9.45, 8.38, 8.13 |
-| 9.09 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 6.90, 9.55, 9.23, 16.08, 8.50 |
 | 9.43 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.99, 10.34, 11.96, 6.30, 10.97 |
 | 9.49 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 9.15, 13.65, 9.54, 7.71, 9.77 |
 | 10.04 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 8.78, 10.43, 10.45, 12.18, 9.24 |
+| 11.29 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 9.84, 11.11, 12.64, 11.76, 11.01 |
 
 ### 4x4x4 Blindfolded
 

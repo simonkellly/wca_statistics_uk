@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -150,6 +150,7 @@
 | 1 | [Canberra Spring 2017](https://www.worldcubeassociation.org/competitions/CanberraSpring2017) |
 | 1 | [Cannes FIJ 2018](https://www.worldcubeassociation.org/competitions/CannesFIJ2018) |
 | 1 | [Cape Cod 2023](https://www.worldcubeassociation.org/competitions/CapeCod2023) |
+| 1 | [Cape Cubes Challenge 2024](https://www.worldcubeassociation.org/competitions/CapeCubesChallenge2024) |
 | 1 | [Capital Cubing Canberra Sat 2024](https://www.worldcubeassociation.org/competitions/CapitalCubingCanberraSat2024) |
 | 1 | [Cardinal Bird 2018](https://www.worldcubeassociation.org/competitions/CardinalBirdFiesta2018) |
 | 1 | [Carolina Clock 'Stravaganza 2022](https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2022) |
@@ -442,6 +443,7 @@
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [HUST Special Cubes Open 2017](https://www.worldcubeassociation.org/competitions/HUSTSpecialCubesOpen2017) |
 | 1 | [Huzhou Open 2024](https://www.worldcubeassociation.org/competitions/HuzhouOpen2024) |
+| 1 | [HDC Dec - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingDecemberFyn2024) |
 | 1 | [Hverdagscubing - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingFyn2024) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
@@ -921,6 +923,7 @@
 | 1 | [St Oliver's Speedy Sunday 2023](https://www.worldcubeassociation.org/competitions/StOliversSpeedySunday2023) |
 | 1 | [Saint-Raphaël Winter Open 2018](https://www.worldcubeassociation.org/competitions/StRaphaelWinterOpen2018) |
 | 1 | [Sturgeon Bay Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SturgeonBayBigCubes2024) |
+| 1 | [Success For Candy Stockholm 2024](https://www.worldcubeassociation.org/competitions/SuccessForCandyStockholm2024) |
 | 1 | [Sunday Silence Singapore 2024](https://www.worldcubeassociation.org/competitions/SundaySilenceSingapore2024) |
 | 1 | [Sunmarke Open 2018](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2018) |
 | 1 | [Supreme South Open 2017](https://www.worldcubeassociation.org/competitions/SupremeSouthOpen2017) |
@@ -1142,6 +1145,7 @@
 | 2 | [First Solves at Fisketorvet 2023](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2023) |
 | 2 | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) |
 | 2 | [Flatåsen Open 2024](https://www.worldcubeassociation.org/competitions/FlatasenOpen2024) |
+| 2 | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024) |
 | 2 | [Fortitude Sydney 2019](https://www.worldcubeassociation.org/competitions/FortitudeSydney2019) |
 | 2 | [Forum Monsoon Open 2019](https://www.worldcubeassociation.org/competitions/ForumMonsoonOpen2019) |
 | 2 | [Franconia Fall 2019](https://www.worldcubeassociation.org/competitions/FranconiaFall2019) |
@@ -1177,7 +1181,6 @@
 | 2 | [Lexington Spring 2014](https://www.worldcubeassociation.org/competitions/LexingtonSpring2014) |
 | 2 | [Lisboa Open 2018](https://www.worldcubeassociation.org/competitions/LisboaOpen2018) |
 | 2 | [Lone Star Cubing 2019](https://www.worldcubeassociation.org/competitions/LoneStarCubing2019) |
-| 2 | [Luso-Bussaco Open 2024](https://www.worldcubeassociation.org/competitions/LusoBussacoOpen2024) |
 | 2 | [Lyttelton Autumn 2022](https://www.worldcubeassociation.org/competitions/LytteltonAutumn2022) |
 | 2 | [Malaysia Open 2012](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2012) |
 | 2 | [Mallorca Open 2022](https://www.worldcubeassociation.org/competitions/MallorcaOpen2022) |
@@ -1236,7 +1239,6 @@
 | 2 | [SCMU 2017](https://www.worldcubeassociation.org/competitions/SCMU2017) |
 | 2 | [Seaside Solving Saturday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSaturday2022) |
 | 2 | [Seaside Solving Sunday 2022](https://www.worldcubeassociation.org/competitions/SeasideSolvingSunday2022) |
-| 2 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 2 | [Shaastra Cube Open 2019](https://www.worldcubeassociation.org/competitions/ShaastraCubeOpen2019) |
 | 2 | [Shaoxing Open 2019](https://www.worldcubeassociation.org/competitions/ShaoxingOpen2019) |
 | 2 | [Showground Showdown 2021](https://www.worldcubeassociation.org/competitions/ShowgroundShowdown2021) |
@@ -1323,8 +1325,8 @@
 | 3 | [Hotel Cube 2018](https://www.worldcubeassociation.org/competitions/HotelCube2018) |
 | 3 | [İstanbul Spring 2023](https://www.worldcubeassociation.org/competitions/IstanbulSpring2023) |
 | 3 | [Liechtenstein Open 2018](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2018) |
-| 3 | [Lisboa Open 2023](https://www.worldcubeassociation.org/competitions/LisboaOpen2023) |
 | 3 | [Long Island 2010](https://www.worldcubeassociation.org/competitions/LongIsland2010) |
+| 3 | [Luso-Bussaco Open 2024](https://www.worldcubeassociation.org/competitions/LusoBussacoOpen2024) |
 | 3 | [Luxembourg Open 2018](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2018) |
 | 3 | [Luxembourg Open 2022](https://www.worldcubeassociation.org/competitions/LuxembourgOpen2022) |
 | 3 | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) |
@@ -1337,6 +1339,7 @@
 | 3 | [Penang Cube Open 2022](https://www.worldcubeassociation.org/competitions/PenangCubeOpen2022) |
 | 3 | [Sandnes Open 2022](https://www.worldcubeassociation.org/competitions/SandnesOpen2022) |
 | 3 | [SC Cup II 2018](https://www.worldcubeassociation.org/competitions/SCCupII2018) |
+| 3 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
 | 3 | [Sharjah Open 2019](https://www.worldcubeassociation.org/competitions/SharjahOpen2019) |
 | 3 | [Shepparton Autumn 2014](https://www.worldcubeassociation.org/competitions/SheppartonAutumn2014) |
 | 3 | [Singapore Mini 2024](https://www.worldcubeassociation.org/competitions/SingaporeMini2024) |
@@ -1381,6 +1384,7 @@
 | 4 | [Hamburg Open 2017](https://www.worldcubeassociation.org/competitions/HamburgOpen2017) |
 | 4 | [Jönköping Side Events 2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019) |
 | 4 | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
+| 4 | [Lisboa Open 2023](https://www.worldcubeassociation.org/competitions/LisboaOpen2023) |
 | 4 | [LYN Cubing Days 2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019) |
 | 4 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) |
 | 4 | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012) |

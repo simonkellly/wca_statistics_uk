@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -85,9 +85,9 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 22.70 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 26, 24, 23, 25, 22, 20, 23, 21, 19, 23, DNF, 20 |
+| 22.90 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 22, 24, 22, 27, 23, 24, 24, 23, 22, 23, 20, 22 |
 | 23.10 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21 |
 | 23.20 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22, 23, 23, 23, 25, 23, 23, 26, 24, 24, 22, 22 |
-| 23.30 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 21, 23, 20, DNF, 22, 24, 22, 27, 23, 24, 24, 23 |
 | 24.30 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21, 23, 27, 23, 31, 25, 25, 25, 23, 26, 24, 22 |
 | 26.00 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) | DNF, 33, 33, 23, 26, 25, 27, 19, 23, 25, 23, 22 |
 | 26.10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 27, 24, 28, 32, 23, 27, 24, 30, 26, 30, 19, 22 |
@@ -115,11 +115,11 @@
 | 38.50 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 40.91, 36.06, 33.49, 43.10, 38.86, 35.15, 44.34, 35.53, 35.95, 42.32, 43.56, 33.60 |
 | 39.15 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 40.64, 35.92, 40.32, 38.70, 38.81, 39.35, 41.88, 49.18, 35.06, 43.96, 34.41, 36.85 |
 | 40.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 39.14, 40.52, 38.64, 42.69, 40.45, 39.87, 40.61, 41.28, 40.96, 38.39, 46.41, 40.52 |
+| 42.65 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 37.91, 43.20, 45.47, 47.34, 45.13, 53.10, 39.35, 33.85, 45.19, 43.39, 40.50, 39.06 |
 | 42.99 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 42.56, 47.61, 44.12, 46.97, 45.15, 36.17, 37.01, 40.83, 45.29, 46.07, 39.45, 42.40 |
 | 44.97 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 55.34, 44.57, 45.41, 44.95, 40.46, 45.58, 43.38, 46.68, 38.80, 41.95, 47.67, 49.05 |
 | 45.56 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 44.62, 49.04, 55.04, 44.15, 48.76, 42.72, 45.54, 45.48, 36.80, 47.73, 42.40, 45.20 |
 | 47.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 51.00, 43.98, 36.32, 53.84, 48.20, 47.64, 48.40, 42.44, 46.35, 44.22, 48.05, 51.29 |
-| 50.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.42, 51.63, 52.92, 57.49, 51.12, 47.03, 55.24, 55.03, 45.71, 50.52, 47.79, 47.57 |
 
 ### Pyraminx
 
@@ -173,7 +173,7 @@
 | 10.10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 11.26, 11.05, 8.34, 12.29, 11.70, 8.77, 7.03, 13.85, 11.20, 8.92, 8.69, 8.80 |
 | 10.54 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 10.06, 11.99, 12.28, 11.04, 8.78, 10.43, 10.45, 12.18, 9.24, 8.70, 15.33, 8.92 |
 | 10.65 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 12.27, 11.46, 18.90, 8.97, 10.44, 9.22, 12.04, 9.15, 13.65, 9.54, 7.71, 9.77 |
-| 10.79 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 8.59, 10.10, 12.05, 13.20, 11.03, 9.11, 13.57, 12.72, 8.05, 11.85, 8.40, 10.89 |
+| 12.31 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 12.32, 14.68, 14.46, 11.24, 11.89, 12.23, 13.38, 9.61, 11.61, 12.25, 12.75, 10.96 |
 
 ### 4x4x4 Blindfolded
 

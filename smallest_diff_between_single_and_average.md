@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 December 2024*
+*Updated on 19 December 2024*
 
 
 ### Rubik's Cube
@@ -98,6 +98,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.19 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 28.33 | 28.52 | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024/results/by_person#2019ECKE02) |
 | 0.31 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 25.55 | 25.86 | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2013MORR03) |
 | 0.34 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 24.74 | 25.08 | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023/results/by_person#2018SHEN07) |
 | 0.36 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | 40.37 | 40.73 | [Manchester Summer BBO 2022](https://www.worldcubeassociation.org/competitions/ManchesterSummerBBO2022/results/by_person#2015KEAR01) |
@@ -107,7 +108,6 @@
 | 0.52 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 22.07 | 22.59 | [Chippenham Autumn 2022](https://www.worldcubeassociation.org/competitions/ChippenhamAutumn2022/results/by_person#2018STOK01) |
 | 0.52 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 28.18 | 28.70 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013MORR03) |
 | 0.72 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 22.41 | 23.13 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023/results/by_person#2018STOK01) |
-| 0.85 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 27.32 | 28.17 | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022/results/by_person#2019HIRS01) |
 
 ### 3x3x3 One-Handed
 
