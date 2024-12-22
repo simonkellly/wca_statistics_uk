@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -445,6 +445,7 @@
 | 1 | [Huzhou Open 2024](https://www.worldcubeassociation.org/competitions/HuzhouOpen2024) |
 | 1 | [HDC Dec - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingDecemberFyn2024) |
 | 1 | [Hverdagscubing - Fyn 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingFyn2024) |
+| 1 | [Hverdagscubing XII Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingXIIHvidovre2024) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 1 | [Hvidovre Sommer 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommer2024) |
@@ -516,6 +517,7 @@
 | 1 | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015) |
 | 1 | [Kubkvarna Winter 2019](https://www.worldcubeassociation.org/competitions/KubkvarnaWinter2019) |
 | 1 | [Kublördag Jönköping II - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingII2024) |
+| 1 | [Kublördag Jönköping VI - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingVI2024) |
 | 1 | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |
 | 1 | [Kunshan Side Events 2021](https://www.worldcubeassociation.org/competitions/KunshanSideEvents2021) |
 | 1 | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
@@ -871,6 +873,7 @@
 | 1 | [SL 396: Pengabingen i Fara 2024](https://www.worldcubeassociation.org/competitions/SL396PengabingeniFara2024) |
 | 1 | [SL 413: Kalle i Kubik 2024](https://www.worldcubeassociation.org/competitions/SL413KalleiKubik2024) |
 | 1 | [SL 414: Kampen Börjar 2024](https://www.worldcubeassociation.org/competitions/SL414KampenBorjar2024) |
+| 1 | [SL 435: Mäktig Jul 2024](https://www.worldcubeassociation.org/competitions/SL435MaktigJul2024) |
 | 1 | [SL 6: Curling 2023](https://www.worldcubeassociation.org/competitions/SL6Curling2023) |
 | 1 | [Slovakian Cube Day 2018](https://www.worldcubeassociation.org/competitions/SlovakianCubeDay2018) |
 | 1 | [Slovenian Nationals 2024](https://www.worldcubeassociation.org/competitions/SlovenianNationals2024) |
@@ -1132,6 +1135,7 @@
 | 2 | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016) |
 | 2 | [Douvrin Open 2023](https://www.worldcubeassociation.org/competitions/DouvrinOpen2023) |
 | 2 | [Douvrin Open 2024](https://www.worldcubeassociation.org/competitions/DouvrinOpen2024) |
+| 2 | [Drammen Open 2024](https://www.worldcubeassociation.org/competitions/DrammenOpen2024) |
 | 2 | [Dutch Masters 2008](https://www.worldcubeassociation.org/competitions/DutchMasters2008) |
 | 2 | [Dutch Open 2004](https://www.worldcubeassociation.org/competitions/DutchOpen2004) |
 | 2 | [Dutch Open 2008](https://www.worldcubeassociation.org/competitions/DutchOpen2008) |
@@ -1348,6 +1352,7 @@
 | 3 | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) |
 | 3 | [Spark Melbourne Saturday 2024](https://www.worldcubeassociation.org/competitions/SparkMelbourneSaturday2024) |
 | 3 | [Speedy South Perth 2020](https://www.worldcubeassociation.org/competitions/SpeedySouthPerth2020) |
+| 3 | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024) |
 | 3 | [Swisscubing Cup II 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2024) |
 | 3 | [Swisscubing Cup IV 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019) |
 | 3 | [Swiss Nationals 2018](https://www.worldcubeassociation.org/competitions/SwissNationals2018) |

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube
@@ -39,12 +39,12 @@
 | 8.67 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) |
 | 8.68 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 8.70 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
+| 8.76 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 8.77 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) |
 | 8.79 | [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) |
 | 8.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 8.83 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 8.83 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
-| 8.84 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 8.89 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 8.89 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 8.92 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
@@ -130,8 +130,8 @@
 | 30.72 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 30.85 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 30.95 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
+| 31.02 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 31.12 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) |
-| 31.50 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 31.76 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 31.94 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 32.26 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
@@ -188,7 +188,7 @@
 | 56.62 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 58.47 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 58.94 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 59.41 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 59.01 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1:01.03 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 1:01.03 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) |
 | 1:01.20 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
@@ -240,7 +240,7 @@
 | 1:44.96 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 1:48.64 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 1:52.23 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
-| 1:53.09 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 1:53.08 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1:53.17 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) |
 | 1:53.51 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 1:53.59 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
@@ -301,7 +301,7 @@
 | 2:55.11 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 2:55.45 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 3:00.33 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
-| 3:03.11 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 3:00.53 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 3:03.39 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 3:05.27 | [Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04) |
 | 3:10.45 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
@@ -468,7 +468,7 @@
 | 54.83 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 55.09 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) |
 | 55.74 | [Edmund Finch](https://www.worldcubeassociation.org/persons/2023FINC02) |
-| 56.32 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 56.16 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 56.99 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
 | 57.80 | [Raphael Niman](https://www.worldcubeassociation.org/persons/2016NIMA01) |
 | 58.18 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |

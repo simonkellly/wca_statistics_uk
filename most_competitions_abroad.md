@@ -1,23 +1,23 @@
 ## Most competitions abroad
 
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Competitions | Person |
 | ---: | :--- |
-| 188 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 189 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 100 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 87 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 57 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 59 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 57 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
-| 53 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
+| 54 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 42 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 42 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 41 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
-| 40 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
+| 41 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 38 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 36 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
@@ -35,10 +35,10 @@
 | 24 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
 | 24 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 23 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) |
+| 23 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 23 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) |
 | 23 | [Ronald Mansveld](https://www.worldcubeassociation.org/persons/2015MANS04) |
 | 22 | [Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01) |
-| 22 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 22 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
 | 21 | [Gordon Findlay](https://www.worldcubeassociation.org/persons/2017FIND02) |
 | 21 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |

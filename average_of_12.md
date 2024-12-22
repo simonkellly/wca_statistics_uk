@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube
@@ -104,7 +104,7 @@
 | 11.07 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 11.51, 10.20, 12.31, 12.05, 11.39, 9.30, 12.13, 10.63, 11.06, 14.12, 10.12, 9.18 |
 | 11.11 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 10.16, 11.43, 8.30, 10.19, 11.25, 13.51, 11.73, 12.37, 11.66, 11.98, 10.37, 9.98 |
 | 11.55 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 11.21, 12.58, 11.56, 10.79, 10.67, 15.13, 13.22, 9.16, 11.06, 10.49, 11.52, 12.42 |
-| 13.76 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 13.27, 15.60, 13.25, 13.65, 11.32, 15.45, 13.01, 16.06, 14.98, 13.12, 12.07, 13.16 |
+| 13.58 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 13.25, 13.65, 11.32, 15.45, 13.01, 16.06, 14.98, 13.12, 12.07, 13.16, 13.90, 13.24 |
 
 ### Megaminx
 
@@ -118,8 +118,8 @@
 | 42.65 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 37.91, 43.20, 45.47, 47.34, 45.13, 53.10, 39.35, 33.85, 45.19, 43.39, 40.50, 39.06 |
 | 42.99 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 42.56, 47.61, 44.12, 46.97, 45.15, 36.17, 37.01, 40.83, 45.29, 46.07, 39.45, 42.40 |
 | 44.97 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 55.34, 44.57, 45.41, 44.95, 40.46, 45.58, 43.38, 46.68, 38.80, 41.95, 47.67, 49.05 |
-| 45.56 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 44.62, 49.04, 55.04, 44.15, 48.76, 42.72, 45.54, 45.48, 36.80, 47.73, 42.40, 45.20 |
 | 47.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 51.00, 43.98, 36.32, 53.84, 48.20, 47.64, 48.40, 42.44, 46.35, 44.22, 48.05, 51.29 |
+| 50.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.42, 51.63, 52.92, 57.49, 51.12, 47.03, 55.24, 55.03, 45.71, 50.52, 47.79, 47.57 |
 
 ### Pyraminx
 
@@ -133,7 +133,6 @@
 | 2.84 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | 2.18, 2.63, 1.20, 4.96, 1.77, 3.10, 2.65, 3.67, 1.60, 5.78, 2.18, 3.65 |
 | 3.25 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | 3.49, 2.54, 3.75, 3.39, 2.07, 3.38, 7.22, 4.15, 3.70, 2.44, 2.38, 3.27 |
 | 3.28 | [James Kyoichi Curry (ジェイムス 恭一)](https://www.worldcubeassociation.org/persons/2023CURR06) | 3.18, 4.18, 3.11, 3.57, 2.48, 2.98, 2.03, 4.25, 5.04, 3.39, 2.68, 2.94 |
-| 3.69 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | 3.61, 3.02, 3.29, 4.29, 4.74, 2.61, 5.10, 2.60, 3.54, 5.35, 3.94, 2.73 |
 
 ### Rubik's Clock
 

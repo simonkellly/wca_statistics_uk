@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -13,7 +13,7 @@
 | 18 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
-| 13 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 14 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 12 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 10 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |

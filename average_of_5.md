@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 40.98 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 33.85, 45.19, 43.39, 40.50, 39.06 |
 | 41.00 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 46.97, 45.15, 36.17, 37.01, 40.83 |
 | 43.14 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 40.46, 45.58, 43.38, 46.68, 38.80 |
-| 44.36 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 45.48, 36.80, 47.73, 42.40, 45.20 |
 | 46.07 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 47.64, 48.40, 42.44, 46.35, 44.22 |
+| 47.25 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 45.71, 50.52, 47.79, 47.57, 46.40 |
 
 ### Pyraminx
 
@@ -134,7 +134,6 @@
 | 2.03 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) | 2.99, 1.83, 1.78, 2.12, 2.14 |
 | 2.19 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | 2.18, 2.63, 1.20, 4.96, 1.77 |
 | 2.25 | [Nathan Olano](https://www.worldcubeassociation.org/persons/2018OLAN01) | 2.15, 2.19, 2.21, 10.67, 2.35 |
-| 2.53 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | 2.43, 2.43, 2.73, 5.33, 2.37 |
 | 2.73 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | 3.26, 2.76, 2.13, 4.23, 2.16 |
 | 2.86 | [James Kyoichi Curry (ジェイムス 恭一)](https://www.worldcubeassociation.org/persons/2023CURR06) | 3.11, 3.57, 2.48, 2.98, 2.03 |
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 19 December 2024*
+*Updated on 22 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -74,7 +74,7 @@
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | **23.69** | United Kingdom | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) | 24.88, 28.12, 24.83, 26.18, 23.69 |
 | [Harishan Ramanan](https://www.worldcubeassociation.org/persons/2018RAMA26) | **23.94** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 31.66, 32.75, 28.71, 32.74, 23.94 |
 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) | **24.01** | United Kingdom | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024) | 33.17, 26.32, 34.40, 24.01, 31.23 |
-| [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **24.78** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 32.53, 36.64, 36.48, 32.49, 24.78 |
+| [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **24.54** | United Kingdom | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024) | 28.67, 30.56, 28.12, 30.42, 24.54 |
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **24.80** | Hong Kong, China | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024) | 29.60, 24.80, 32.36, 32.67, 38.57 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **24.99** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 34.35, 37.81, 24.99, 33.44, 30.36 |
 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) | **25.27** | United Kingdom | [Chichester Summer 2024](https://www.worldcubeassociation.org/competitions/ChichesterSummer2024) | 31.47, 28.18, 25.27, 31.19, 30.30 |
@@ -90,8 +90,8 @@
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **28.48** | Hong Kong, China | [Bristol Winter Open 2024](https://www.worldcubeassociation.org/competitions/BristolWinterOpen2024) | 25.28, 31.28, 37.16, 28.53, 25.63 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **28.52** | United Kingdom | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 31.74, 28.09, 34.95, 23.17, 25.72 |
 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) | **28.78** | United Kingdom | [Bristol Summer 2024](https://www.worldcubeassociation.org/competitions/BristolSummer2024) | 26.93, 27.51, 32.58, 31.79, 27.05 |
+| [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **29.07** | United Kingdom | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024) | 28.67, 30.56, 28.12, 30.42, 24.54 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **29.17** | United Kingdom | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 37.28, 28.14, 28.50, 27.10, 30.87 |
-| [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **29.32** | United Kingdom | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 29.26, 32.24, 27.59, 25.75, 31.10 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **29.82** | United Kingdom | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 27.82, 28.66, 32.36, 36.71, 28.43 |
 
 ### 5x5x5 Cube - Single
@@ -256,8 +256,8 @@
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | **9.24** | United Kingdom | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | 10.69, 15.01, 9.24, 10.12, 16.35 |
 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | **9.30** | United Kingdom | [Glasgow Spring 2024](https://www.worldcubeassociation.org/competitions/GlasgowSpring2024) | 18.15, 16.94, 12.47, 15.68, 9.30 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **9.33** | United Kingdom | [Stevenage August 2024](https://www.worldcubeassociation.org/competitions/StevenageAugust2024) | 20.52, 12.96, 9.33, 14.65, 15.82 |
+| [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **9.37** | United Kingdom | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024) | 13.24, 16.12, 14.41, 15.38, 9.37 |
 | [Ryan Tang](https://www.worldcubeassociation.org/persons/2022TANG05) | **10.17** | United Kingdom | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024) | DNF, 20.12, 10.17, 18.36, 16.44 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **10.19** | United Kingdom | [Leicestershire Autumn 2024](https://www.worldcubeassociation.org/competitions/LeicestershireAutumn2024) | 11.98, 13.10, 10.19, 20.79, 13.82 |
 
 ### 3x3x3 One-Handed - Average
 
