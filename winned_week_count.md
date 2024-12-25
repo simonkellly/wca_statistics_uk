@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 
 ### Rubik's Cube
@@ -10,7 +10,7 @@
 | :--- | ---: |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 51 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 51 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 35 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 34 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 33 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 26 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 21 |
@@ -33,7 +33,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 37 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 36 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 34 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 32 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
@@ -59,7 +59,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 86 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 44 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 43 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 38 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 37 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 34 |
@@ -258,7 +258,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 47 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 46 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 31 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 30 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 30 |
@@ -300,9 +300,9 @@
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 6 |
 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | 5 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 5 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 4 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 4 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 4 |
+| [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) | 3 |
 
 ### Skewb
 
@@ -335,7 +335,7 @@
 | :--- | ---: |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 41 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 30 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 26 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 25 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 22 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 16 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 15 |

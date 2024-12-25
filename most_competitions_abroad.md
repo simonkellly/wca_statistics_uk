@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -65,6 +65,7 @@
 | 15 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 15 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) |
 | 14 | [Daniel Hussain Mohammadi](https://www.worldcubeassociation.org/persons/2017MOHA13) |
+| 14 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
 | 14 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
@@ -78,7 +79,6 @@
 | 13 | [Joh Fujita (藤田丈)](https://www.worldcubeassociation.org/persons/2022FUJI02) |
 | 13 | [Oliver Crook](https://www.worldcubeassociation.org/persons/2022CROO02) |
 | 13 | [James Blackwell](https://www.worldcubeassociation.org/persons/2022BLAC02) |
-| 13 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 12 | [Joe Yearl](https://www.worldcubeassociation.org/persons/2014YEAR01) |
 | 12 | [Adejuwon Adebusuyi Oluwemimo](https://www.worldcubeassociation.org/persons/2022OLUW01) |
 | 12 | [Eniko Luca Bachrati](https://www.worldcubeassociation.org/persons/2023BACH03) |

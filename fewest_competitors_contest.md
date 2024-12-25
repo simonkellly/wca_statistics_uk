@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -492,6 +492,7 @@
 | 1 | [Kaunas Open 2022](https://www.worldcubeassociation.org/competitions/KaunasOpen2022) |
 | 1 | [Kedah Cube Open 2023](https://www.worldcubeassociation.org/competitions/KedahCubeOpen2023) |
 | 1 | [Kenosha First A 2024](https://www.worldcubeassociation.org/competitions/KenoshaFirstA2024) |
+| 1 | [Kenya Nationals 2024](https://www.worldcubeassociation.org/competitions/KenyaNationals2024) |
 | 1 | [Kharkiv Open 2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019) |
 | 1 | [Kharkiv Winter 2017](https://www.worldcubeassociation.org/competitions/KharkivWinter2017) |
 | 1 | [KVCO 2017](https://www.worldcubeassociation.org/competitions/KirkeVaerloseChristmasOpen2017) |
@@ -1123,6 +1124,7 @@
 | 2 | [Cross-strait 2015](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2015) |
 | 2 | [Cube en Baie Open 2024](https://www.worldcubeassociation.org/competitions/CubeenBaieOpen2024) |
 | 2 | [Cube Revenge İstanbul 2022](https://www.worldcubeassociation.org/competitions/CubeRevengeIstanbul2022) |
+| 2 | [Cubes 'n Tides in Caparica 2024](https://www.worldcubeassociation.org/competitions/CubesnTidesinCaparica2024) |
 | 2 | [Cubing at The Game Expo 2024](https://www.worldcubeassociation.org/competitions/CubingatTheGameExpo2024) |
 | 2 | [Cubing Classic 2016](https://www.worldcubeassociation.org/competitions/CubingClassic2016) |
 | 2 | [Cubing Returns Bengaluru 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsBengaluru2022) |

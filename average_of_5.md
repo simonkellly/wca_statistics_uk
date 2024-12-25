@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 
 ### Rubik's Cube
@@ -79,9 +79,9 @@
 | 24.35 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 28.78, 23.87, 23.10, 22.84, 26.07 |
 | 24.59 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 25.27, 23.47, 25.02, DNF, 22.88 |
 | 25.79 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 27.69, 23.93, 25.75, 37.32, 21.72 |
-| 26.75 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 25.61, 24.84, 26.75, DNF, 27.89 |
 | 27.76 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) | 25.19, 31.26, 29.25, 28.84, 24.54 |
 | 30.76 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 30.64, 29.03, DNF, 32.61, 25.99 |
+| 34.97 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 30.96, 34.69, 32.24, DNF, 37.99 |
 
 ### 3x3x3 Fewest Moves
 

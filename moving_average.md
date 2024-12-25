@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 
 ### Rubik's Cube
@@ -571,11 +571,11 @@
 | 6.27 | [Adam Stringer](https://www.worldcubeassociation.org/persons/2023STRI02) |
 | 6.32 | [Jimi Naysmith](https://www.worldcubeassociation.org/persons/2022NAYS02) |
 | 6.35 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
+| 6.48 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 6.49 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 6.64 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 6.65 | [Cameron Littlejohn](https://www.worldcubeassociation.org/persons/2022LITT01) |
 | 6.85 | [Ed Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
-| 6.88 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 7.03 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |
 | 7.06 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 7.12 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) |

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -75,6 +75,7 @@
 | 24 | [Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015) | [Příbram Cube 2023](https://www.worldcubeassociation.org/competitions/PribramCube2023) |
 | 24 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | [Newcastle-under-Lyme Open 2017](https://www.worldcubeassociation.org/competitions/NewcastleunderLyme2017) |  |
 | 24 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) | [Dublin Open 2017](https://www.worldcubeassociation.org/competitions/DublinOpen2017) |  |
+| 24 | [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |  |
 | 24 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Open 2020](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020) | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023) |
 | 24 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | [Farnworth Spring D 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringD2022) | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) |
 | 24 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) |  |
@@ -88,7 +89,6 @@
 | 23 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | [Music City Fall 2017](https://www.worldcubeassociation.org/competitions/MusicCityFall2017) |  |
 | 23 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) |  |
 | 23 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | [Zhongshan NxN Speedcubing 2018](https://www.worldcubeassociation.org/competitions/ZhongshanNxNSpeedcubing2018) | [Aberdeen Autumn 2023](https://www.worldcubeassociation.org/competitions/AberdeenAutumn2023) |
-| 23 | [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |  |
 | 23 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) |
 | 23 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |
 | 23 | [Kris Lim](https://www.worldcubeassociation.org/persons/2022LIMK01) | [Farnworth Spring B 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringB2022) | [Wakefield Summer 2024](https://www.worldcubeassociation.org/competitions/WakefieldSummer2024) |

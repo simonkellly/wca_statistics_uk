@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Finals | Person |
 | ---: | :--- |
@@ -30,8 +30,8 @@
 | 415 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 393 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 377 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
+| 375 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 372 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
-| 371 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 353 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 353 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 350 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |

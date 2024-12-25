@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Person | Distance |
 | :--- | ---: |
@@ -61,12 +61,12 @@
 | [Stefan Chao](https://www.worldcubeassociation.org/persons/2013CHAO01) | 29 236 km |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 28 904 km |
 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 28 668 km |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 28 490 km |
 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 28 079 km |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 26 860 km |
 | [Nicolas Rojas](https://www.worldcubeassociation.org/persons/2019ROJA08) | 26 482 km |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 25 706 km |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 25 635 km |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 25 494 km |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 25 418 km |
 | [Christopher Bode](https://www.worldcubeassociation.org/persons/2012BODE01) | 24 663 km |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 24 584 km |
@@ -169,6 +169,7 @@
 | [Conrad Rider](https://www.worldcubeassociation.org/persons/2009RIDE01) | 10 673 km |
 | [Gabija Juceviciute](https://www.worldcubeassociation.org/persons/2013JUCE01) | 10 587 km |
 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) | 10 527 km |
+| [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | 10 524 km |
 | [Zhiyuan Li (李致远)](https://www.worldcubeassociation.org/persons/2019LIZH08) | 10 316 km |
 | [Akshath Naveen Kumar](https://www.worldcubeassociation.org/persons/2019KUMA37) | 10 218 km |
 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | 10 182 km |
@@ -194,7 +195,6 @@
 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) | 8 985 km |
 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | 8 949 km |
 | [Jaidon Adams](https://www.worldcubeassociation.org/persons/2018ADAM11) | 8 932 km |
-| [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | 8 877 km |
 | [Christopher Abboud](https://www.worldcubeassociation.org/persons/2022ABBO03) | 8 840 km |
 | [Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01) | 8 828 km |
 | [Dylan Clark](https://www.worldcubeassociation.org/persons/2013CLAR04) | 8 827 km |

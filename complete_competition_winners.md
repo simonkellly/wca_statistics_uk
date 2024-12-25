@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 22 December 2024*
+*Updated on 25 December 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -92,6 +92,7 @@
 | 1 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | United Kingdom | [Cubing Returns Bengaluru 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsBengaluru2022) |
 | 1 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | United Kingdom | [REC Cube Open 2024](https://www.worldcubeassociation.org/competitions/RECCubeOpen2024) |
 | 1 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | United Kingdom | [Tamil Nadu Cube Challenge 2024](https://www.worldcubeassociation.org/competitions/TamilNaduCubeChallenge2024) |
+| 1 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | United Kingdom | [Cubes 'n Tides in Caparica 2024](https://www.worldcubeassociation.org/competitions/CubesnTidesinCaparica2024) |
 | 1 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | United Kingdom | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) |
 | 1 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | United Kingdom | [Wiltshire February 2024](https://www.worldcubeassociation.org/competitions/WiltshireFebruary2024) |
 | 1 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Cyber Open 2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012) |
