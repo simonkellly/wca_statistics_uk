@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 December 2024*
+*Updated on 28 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -71,6 +71,7 @@
 | 1 | [Bahrain Open 2017](https://www.worldcubeassociation.org/competitions/BahrainOpen2017) |
 | 1 | [Bahrain Spring Open 2019](https://www.worldcubeassociation.org/competitions/BahrainSpringOpen2019) |
 | 1 | [Ballerup Open 2013](https://www.worldcubeassociation.org/competitions/BallerupOpen2013) |
+| 1 | [Bangalore Cube Open 2024](https://www.worldcubeassociation.org/competitions/BangaloreCubeOpen2024) |
 | 1 | [Bangalore Cube Open July 2023](https://www.worldcubeassociation.org/competitions/BangaloreCubeOpenJuly2023) |
 | 1 | [Bangkok Cube Day Winter 2023](https://www.worldcubeassociation.org/competitions/BangkokCubeDayWinter2023) |
 | 1 | [Bara Multi-Blind i Borås 2024](https://www.worldcubeassociation.org/competitions/BaraMultiBlindiBoras2024) |

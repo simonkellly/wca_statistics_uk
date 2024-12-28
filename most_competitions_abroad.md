@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 December 2024*
+*Updated on 28 December 2024*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -92,14 +92,14 @@
 | 11 | [Matthew Broome](https://www.worldcubeassociation.org/persons/2014BROO01) |
 | 11 | [Jamaal Burah](https://www.worldcubeassociation.org/persons/2017BURA01) |
 | 11 | [Alexandre Delaitre](https://www.worldcubeassociation.org/persons/2016DELA05) |
-| 10 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
+| 11 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) |
+| 10 | [Junhan Wen](https://www.worldcubeassociation.org/persons/2022WENJ02) |
 | 10 | [Adrián González Mesa](https://www.worldcubeassociation.org/persons/2023MESA03) |
-| 10 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) |
 | 10 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) |
 | 10 | [Efe Pasaogullari](https://www.worldcubeassociation.org/persons/2022PASA02) |
 | 10 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 10 | [Harvey Constanti-Smith](https://www.worldcubeassociation.org/persons/2023CONS06) |
-| 10 | [Junhan Wen](https://www.worldcubeassociation.org/persons/2022WENJ02) |
+| 10 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 9 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 9 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
