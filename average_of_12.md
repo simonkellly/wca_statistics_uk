@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube
@@ -84,8 +84,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 22.10 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 24, 23, 22, 23, 20, 22, 19, 22, 23, 23, 22, 21 |
 | 22.70 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 26, 24, 23, 25, 22, 20, 23, 21, 19, 23, DNF, 20 |
-| 22.90 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 22, 24, 22, 27, 23, 24, 24, 23, 22, 23, 20, 22 |
 | 23.10 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21 |
 | 23.20 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22, 23, 23, 23, 25, 23, 23, 26, 24, 24, 22, 22 |
 | 24.30 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 21, 23, 27, 23, 31, 25, 25, 25, 23, 26, 24, 22 |

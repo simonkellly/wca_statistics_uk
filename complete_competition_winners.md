@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -190,6 +190,7 @@
 | 1 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | United Kingdom | [Glasgow 3x3 Evening 2024](https://www.worldcubeassociation.org/competitions/Glasgow3x3Evening2024) |
 | 1 | [Krishna Sookun](https://www.worldcubeassociation.org/persons/2017SOOK01) | United Kingdom | [Back in Mauritius 2023](https://www.worldcubeassociation.org/competitions/BackinMauritius2023) |
 | 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024) |
+| 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [Hong Kong FMC Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongFMCChampionship2024) |
 | 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 1 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | United Kingdom | [Azeméis Open 2023](https://www.worldcubeassociation.org/competitions/AzemeisOpen2023) |

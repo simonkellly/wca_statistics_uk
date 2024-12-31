@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -24,8 +24,8 @@
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | **10** | 6 | 1 | 17 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | **9** | 6 | 4 | 19 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **7** | 6 | 8 | 21 |
+| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **7** | 0 | 2 | 9 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **6** | 3 | 4 | 13 |
-| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **6** | 0 | 2 | 8 |
 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | **5** | 3 | 6 | 14 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5** | 3 | 0 | 8 |
 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | **5** | 2 | 2 | 9 |
@@ -96,10 +96,10 @@
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **0** | 3 | 3 | 6 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **0** | 2 | 2 | 4 |
 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) | **0** | 2 | 2 | 4 |
+| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | **0** | 2 | 1 | 3 |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | **0** | 2 | 0 | 2 |
 | [Ashton Cerasoli](https://www.worldcubeassociation.org/persons/2013CERA01) | **0** | 2 | 0 | 2 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | **0** | 2 | 0 | 2 |
-| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | **0** | 2 | 0 | 2 |
 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | **0** | 2 | 0 | 2 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | **0** | 2 | 0 | 2 |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | **0** | 2 | 0 | 2 |

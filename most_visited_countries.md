@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Countries | Person |
 | ---: | :--- |
@@ -15,12 +15,13 @@
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 14 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 12 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 10 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 | 10 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 10 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
+| 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 10 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 9 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 8 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
+| 8 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 8 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) |
 | 8 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 8 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
@@ -30,8 +31,8 @@
 | 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
 | 7 | [Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01) |
 | 7 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) |
-| 7 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 7 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) |
+| 7 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 6 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 6 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) |
@@ -41,12 +42,12 @@
 | 6 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 6 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) |
 | 6 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 6 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
+| 6 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 | 6 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
 | 6 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
-| 6 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
-| 6 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 6 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
 | 5 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
+| 5 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
 | 5 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 5 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 5 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
@@ -56,17 +57,18 @@
 | 5 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 5 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 5 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) |
-| 5 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
+| 5 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 5 | [Ronald Mansveld](https://www.worldcubeassociation.org/persons/2015MANS04) |
 | 5 | [Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01) |
 | 5 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) |
 | 5 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) |
+| 5 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 5 | [Shane Newman](https://www.worldcubeassociation.org/persons/2013NEWM02) |
 | 5 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 5 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 5 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |
 | 5 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) |
-| 5 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
+| 5 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 4 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
 | 4 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) |
 | 4 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
@@ -75,7 +77,6 @@
 | 4 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) |
 | 4 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) |
 | 4 | [Joseph Hanson-Kahn](https://www.worldcubeassociation.org/persons/2012HANS03) |
-| 4 | [Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01) |
 | 4 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 4 | [Ben Coppin](https://www.worldcubeassociation.org/persons/2013COPP01) |
 | 4 | [George Austin](https://www.worldcubeassociation.org/persons/2016AUST05) |
@@ -85,7 +86,7 @@
 | 4 | [Jeffery Dick](https://www.worldcubeassociation.org/persons/2014DICK01) |
 | 4 | [Sohan Dhanak](https://www.worldcubeassociation.org/persons/2014DHAN03) |
 | 4 | [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) |
-| 4 | [Christopher Ness](https://www.worldcubeassociation.org/persons/2007NESS01) |
+| 4 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 4 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) |
 | 4 | [Karolis Ramanauskas](https://www.worldcubeassociation.org/persons/2013RAMA06) |
 | 4 | [George Carpenter](https://www.worldcubeassociation.org/persons/2011CARP01) |
@@ -94,14 +95,13 @@
 | 4 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) |
 | 4 | [Yaseen Hassan](https://www.worldcubeassociation.org/persons/2015HASS04) |
 | 4 | [Ian Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB02) |
-| 4 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 4 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 4 | [Christopher Ness](https://www.worldcubeassociation.org/persons/2007NESS01) |
 | 4 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
 | 4 | [Jamaal Burah](https://www.worldcubeassociation.org/persons/2017BURA01) |
 | 4 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) |
 | 4 | [Bernard Solomon](https://www.worldcubeassociation.org/persons/2013SOLO02) |
 | 4 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) |
-| 4 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
 | 4 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 4 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) |
 

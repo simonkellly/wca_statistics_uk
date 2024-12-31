@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube
@@ -344,10 +344,10 @@
 
 | Moving average | Person |
 | ---: | :--- |
+| 23.18 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 23.19 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 23.66 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) |
 | 23.96 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 24.04 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 25.79 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 26.70 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 28.88 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) |
@@ -490,7 +490,7 @@
 | 1:03.91 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 1:04.26 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 1:04.36 | [Steven Cameron](https://www.worldcubeassociation.org/persons/2024CAME04) |
-| 1:04.37 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1:05.46 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) |
 
 ### Pyraminx
 
@@ -498,7 +498,7 @@
 | ---: | :--- |
 | 2.24 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 2.56 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
-| 2.63 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) |
+| 2.60 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) |
 | 2.74 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) |
 | 2.76 | [Zhiyuan Li (李致远)](https://www.worldcubeassociation.org/persons/2019LIZH08) |
 | 2.96 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |

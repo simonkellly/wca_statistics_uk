@@ -1,11 +1,11 @@
 ## Most finals
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Finals | Person |
 | ---: | :--- |
 | 1510 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1276 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1284 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 933 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
@@ -14,7 +14,7 @@
 | 759 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 748 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 737 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
-| 722 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 727 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 698 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 609 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
@@ -78,8 +78,8 @@
 | 172 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
 | 172 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) |
 | 170 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) |
-| 170 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 170 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) |
+| 170 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 168 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) |
 | 165 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 157 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
@@ -92,8 +92,8 @@
 | 148 | [Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01) |
 | 148 | [Tom Salmon](https://www.worldcubeassociation.org/persons/2015SALM03) |
 | 146 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
-| 146 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 146 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
+| 146 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 142 | [Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01) |
 | 139 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) |
 | 137 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -449,6 +449,7 @@
 | 1 | [Hverdagscubing XII Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HverdagscubingXIIHvidovre2024) |
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
+| 1 | [Hvidovre Julecubing 2024](https://www.worldcubeassociation.org/competitions/HvidovreJulecubing2024) |
 | 1 | [Hvidovre Sommer 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommer2024) |
 | 1 | [Hvidovre Sommer & Efterår 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommerEfterar2024) |
 | 1 | [Hyderabad Cube Open 2019](https://www.worldcubeassociation.org/competitions/HyderabadCubeOpen2019) |
@@ -739,6 +740,7 @@
 | 1 | [Pavilion Cube Open 2023](https://www.worldcubeassociation.org/competitions/PavillionCubeOpen2023) |
 | 1 | [Peach State 2015](https://www.worldcubeassociation.org/competitions/PeachState2015) |
 | 1 | [Penang Cube Masters 2023](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2023) |
+| 1 | [Penang Cube Masters 2024](https://www.worldcubeassociation.org/competitions/PenangCubeMasters2024) |
 | 1 | [Perth Autumn 2022](https://www.worldcubeassociation.org/competitions/PerthAutumn2022) |
 | 1 | [Perth Autumn 2023](https://www.worldcubeassociation.org/competitions/PerthAutumn2023) |
 | 1 | [Perth Cube-Con 2016](https://www.worldcubeassociation.org/competitions/PerthCubeCon2016) |
@@ -978,6 +980,7 @@
 | 1 | [Tamil Nadu Cube Challenge 2024](https://www.worldcubeassociation.org/competitions/TamilNaduCubeChallenge2024) |
 | 1 | [Tangkak Perkasa 2018](https://www.worldcubeassociation.org/competitions/TangkakPerkasa2018) |
 | 1 | [Tårnby Cube Træf 2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019) |
+| 1 | [Tarragona Open 2024](https://www.worldcubeassociation.org/competitions/TarragonaOpen2024) |
 | 1 | [Tassie Summer 2023](https://www.worldcubeassociation.org/competitions/TassieSummer2023) |
 | 1 | [Tauranga Open 2023](https://www.worldcubeassociation.org/competitions/TaurangaOpen2023) |
 | 1 | [Taylor's Cube 2013](https://www.worldcubeassociation.org/competitions/TaylorOpen2013) |
@@ -1011,6 +1014,7 @@
 | 1 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022) |
 | 1 | [Twisty Taranaki 2021](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2021) |
 | 1 | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022) |
+| 1 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) |
 | 1 | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) |
 | 1 | [Udaan Rubik's Cube Open 2018](https://www.worldcubeassociation.org/competitions/UdaanRubiksCubeOpen2018) |
 | 1 | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |
@@ -1329,6 +1333,7 @@
 | 3 | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) |
 | 3 | [German Open 2010](https://www.worldcubeassociation.org/competitions/GermanOpen2010) |
 | 3 | [Hem MariCubik Winter 2022](https://www.worldcubeassociation.org/competitions/HemMariCubikWinterOpen2022) |
+| 3 | [Hong Kong FMC Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongFMCChampionship2024) |
 | 3 | [Hotel Cube 2018](https://www.worldcubeassociation.org/competitions/HotelCube2018) |
 | 3 | [İstanbul Spring 2023](https://www.worldcubeassociation.org/competitions/IstanbulSpring2023) |
 | 3 | [Liechtenstein Open 2018](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2018) |
@@ -1397,6 +1402,7 @@
 | 4 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) |
 | 4 | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012) |
 | 4 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) |
+| 4 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 4 | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 4 | [Suisse Toy Fast Fingers 2017](https://www.worldcubeassociation.org/competitions/SuisseToyFastFingers2017) |
 | 4 | [Sunmarke Dubai Open 2017](https://www.worldcubeassociation.org/competitions/SunmarkeDubaiOpen2017) |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube - Single
@@ -222,7 +222,7 @@
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | **19** | United Kingdom | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 22, 24, 19 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **19** | United Kingdom | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) | 26, 24, 19 |
 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) | **19** | United Kingdom | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) | 25, 27, 19 |
-| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **20** | China | [Singapore 3xFMCx3 2024](https://www.worldcubeassociation.org/competitions/Singapore3xFMCx32024) | 23, 20, DNF |
+| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **19** | China | [Hong Kong FMC Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongFMCChampionship2024) | 19, 22, 23 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **20** | United Kingdom | [Cambridge Autumn BBO 2024](https://www.worldcubeassociation.org/competitions/CambridgeAutumnBBO2024) | 23, 26, 20 |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **21** | United Kingdom | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) | 25, 21, 31 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **22** | United Kingdom | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) | 33, 26, 22 |
@@ -234,7 +234,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | **21.00** | United Kingdom | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) | 23, 21, 19 |
-| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **21.67** | China | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024) | 23, 20, 22 |
+| [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **21.33** | China | [Hong Kong FMC Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongFMCChampionship2024) | 19, 22, 23 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **22.33** | United Kingdom | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) | 26, 21, 20 |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22.67** | United Kingdom | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | 22, 23, 23 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **23.00** | United Kingdom | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024) | 26, 24, 19 |

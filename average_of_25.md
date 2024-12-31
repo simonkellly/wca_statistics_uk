@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 December 2024*
+*Updated on 31 December 2024*
 
 
 ### Rubik's Cube
@@ -80,9 +80,9 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
+| 23.05 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 28, 25, 30, 21, 23, 20, DNF, 22, 24, 22, 27, 23, 24, 24, 23, 22, 23, 20, 22, 19, 22, 23, 23, 22, 21 |
 | 23.24 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 24, 23, DNF, 22, 22, 24, 19, 24, 26, 25, 24, 26, 21, 26, 24, 23, 25, 22, 20, 23, 21, 19, 23, DNF, 20 |
 | 23.48 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | DNF, 22, 23, 23, 23, 25, 23, 23, 26, 24, 24, 22, 22, 26, 21, 22, 23, 23, 24, 23, DNF, 23, 24, 23, 24 |
-| 23.81 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 23, 22, 27, 33, 23, 22, 28, 25, 30, 21, 23, 20, DNF, 22, 24, 22, 27, 23, 24, 24, 23, 22, 23, 20, 22 |
 | 23.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 28, 24, 24, 24, 25, 26, 21, 24, 27, 25, 23, 26, 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21, 23 |
 | 25.05 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 22, 23, 26, 28, 28, 21, 23, 27, 23, 31, 25, 25, 25, 23, 26, 24, 22, 23, 24, 26, 31, 31, 24, 26, 24 |
 | 27.43 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 25, 27, 29, 27, 27, 28, DNF, 30, 30, 28, 30, 28, 28, 27, 24, 28, 32, 23, 27, 24, 30, 26, 30, 19, 22 |
