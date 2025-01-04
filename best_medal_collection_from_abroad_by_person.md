@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -31,7 +31,7 @@
 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | **5** | 2 | 2 | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | **4** | 12 | 12 | 28 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | **4** | 10 | 15 | 29 |
-| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | **4** | 10 | 11 | 25 |
+| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | **4** | 10 | 13 | 27 |
 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | **4** | 6 | 15 | 25 |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **4** | 6 | 7 | 17 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **4** | 5 | 1 | 10 |
@@ -78,6 +78,7 @@
 | [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) | **1** | 1 | 1 | 3 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 1 | 1 | 3 |
 | [Krishna Sookun](https://www.worldcubeassociation.org/persons/2017SOOK01) | **1** | 1 | 0 | 2 |
+| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | **1** | 1 | 0 | 2 |
 | [Subhadeep Sarkar](https://www.worldcubeassociation.org/persons/2017SARK01) | **1** | 0 | 5 | 6 |
 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | **1** | 0 | 4 | 5 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **1** | 0 | 3 | 4 |
@@ -88,7 +89,6 @@
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **1** | 0 | 0 | 1 |
 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | **1** | 0 | 0 | 1 |
 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 0 | 1 |
-| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | **1** | 0 | 0 | 1 |
 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Zhong Yi Yan](https://www.worldcubeassociation.org/persons/2022YANZ02) | **1** | 0 | 0 | 1 |

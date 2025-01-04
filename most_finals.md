@@ -1,11 +1,11 @@
 ## Most finals
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Finals | Person |
 | ---: | :--- |
 | 1510 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1284 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1287 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 933 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
@@ -36,7 +36,7 @@
 | 353 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 350 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 330 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
-| 315 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
+| 319 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
 | 306 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 306 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 304 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) |
@@ -44,8 +44,8 @@
 | 303 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 300 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 295 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
+| 285 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 278 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) |
-| 277 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 275 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
 | 267 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 258 | [Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01) |
@@ -92,8 +92,8 @@
 | 148 | [Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01) |
 | 148 | [Tom Salmon](https://www.worldcubeassociation.org/persons/2015SALM03) |
 | 146 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
-| 146 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 146 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
+| 146 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 142 | [Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01) |
 | 139 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) |
 | 137 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |

@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -10,10 +10,10 @@
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 244 889 km |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 190 738 km |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 186 325 km |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 181 642 km |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 181 845 km |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 145 264 km |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 129 058 km |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 116 380 km |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 116 399 km |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 111 979 km |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 107 949 km |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 105 631 km |
@@ -23,12 +23,12 @@
 | [Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01) | 81 904 km |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | 77 393 km |
 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 76 268 km |
-| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 74 199 km |
+| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 75 141 km |
 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 64 607 km |
 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 58 728 km |
 | [Steve Clarke](https://www.worldcubeassociation.org/persons/2015CLAR13) | 51 076 km |
 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | 50 164 km |
-| [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | 49 901 km |
+| [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | 49 727 km |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 49 623 km |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 47 189 km |
 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) | 46 275 km |
@@ -48,7 +48,7 @@
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 36 344 km |
 | [Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05) | 34 903 km |
 | [Lara Craig](https://www.worldcubeassociation.org/persons/2014CRAI01) | 32 823 km |
-| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 31 290 km |
+| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 32 383 km |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 30 932 km |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 30 790 km |
 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) | 30 763 km |
@@ -288,10 +288,10 @@
 | [Stefan Nedelcu](https://www.worldcubeassociation.org/persons/2019NEDE01) | 5 158 km |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 5 126 km |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 5 004 km |
+| [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 4 966 km |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | 4 958 km |
 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) | 4 955 km |
 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) | 4 927 km |
-| [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 4 908 km |
 | [Oscar Jones](https://www.worldcubeassociation.org/persons/2015JONE07) | 4 903 km |
 | [Matt Gaston](https://www.worldcubeassociation.org/persons/2015GAST01) | 4 884 km |
 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | 4 851 km |

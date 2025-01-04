@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 190 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 191 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 100 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 87 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 60 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -15,9 +15,9 @@
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 42 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
+| 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
+| 42 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 42 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 41 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
-| 41 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 38 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 36 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 35 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |

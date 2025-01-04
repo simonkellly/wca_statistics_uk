@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -27,8 +27,8 @@
 | 31 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 | 30 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 25 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) |
+| 25 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 24 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
-| 24 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 23 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 22 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 22 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |

@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -45,9 +45,9 @@
 | 31 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | [Stevenage Spring 2022](https://www.worldcubeassociation.org/competitions/StevenageSpring2022) | [Stevenage Beginners Sep A 2024](https://www.worldcubeassociation.org/competitions/StevenageBeginnersSepA2024) |
 | 31 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |  |
 | 30 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | [Cuthberts Open 2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
+| 30 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | [Zentralschweiz 2018](https://www.worldcubeassociation.org/competitions/Zentralschweiz2018) |  |
 | 30 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | [Brent Cross Winter 2023](https://www.worldcubeassociation.org/competitions/BrentCrossWinter2023) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) |
 | 30 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |  |
-| 29 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | [Zentralschweiz 2018](https://www.worldcubeassociation.org/competitions/Zentralschweiz2018) |  |
 | 29 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |
 | 29 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023) |
 | 29 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | [Manchester Open 2018](https://www.worldcubeassociation.org/competitions/ManchesterOpen2018) |  |

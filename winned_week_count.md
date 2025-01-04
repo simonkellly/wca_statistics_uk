@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 7 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 7 |
 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 7 |
+| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 7 |
 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 6 |
-| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 6 |
 | [Mitchell Chiew](https://www.worldcubeassociation.org/persons/2011CHIE01) | 5 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 5 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | 5 |
@@ -148,9 +148,9 @@
 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 8 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 8 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 7 |
+| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 7 |
 | [Mitchell Chiew](https://www.worldcubeassociation.org/persons/2011CHIE01) | 6 |
 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | 6 |
-| [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 6 |
 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 5 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | 4 |
 
@@ -293,8 +293,8 @@
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 11 |
 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 9 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 8 |
+| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 8 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 7 |
-| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 7 |
 | [Ryan Jones](https://www.worldcubeassociation.org/persons/2012JONE03) | 6 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 6 |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 6 |

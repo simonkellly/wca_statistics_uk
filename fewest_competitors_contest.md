@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 January 2025*
+*Updated on  4 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1123,6 +1123,7 @@
 | 2 | [Canberra Autumn 2015](https://www.worldcubeassociation.org/competitions/CanberraAutumn2015) |
 | 2 | [Cannes Open 2014](https://www.worldcubeassociation.org/competitions/CannesOpen2014) |
 | 2 | [Chääswürfel 2023](https://www.worldcubeassociation.org/competitions/Chaeaeswuerfel2023) |
+| 2 | [Chääswürfel 2024](https://www.worldcubeassociation.org/competitions/Chaeaeswuerfel2024) |
 | 2 | [Chongqing Open 2023](https://www.worldcubeassociation.org/competitions/ChongqingOpen2023) |
 | 2 | [CMI Tessellate Cube Open 2020](https://www.worldcubeassociation.org/competitions/CMITessellateCubeOpen2020) |
 | 2 | [Cork Spring 2023](https://www.worldcubeassociation.org/competitions/CorkSpring2023) |
@@ -1151,6 +1152,7 @@
 | 2 | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019) |
 | 2 | [Eindhoven Spring 2013](https://www.worldcubeassociation.org/competitions/EindhovenSpring2013) |
 | 2 | [Enjoyable Sydney Gathering 2020](https://www.worldcubeassociation.org/competitions/EnjoyableSydneyGathering2020) |
+| 2 | [Festlig Farvel til 2024](https://www.worldcubeassociation.org/competitions/FestligFarveltil2024) |
 | 2 | [Finnish Championship 2016](https://www.worldcubeassociation.org/competitions/FinnishChampionship2016) |
 | 2 | [First Friday First FMC Täby 2024](https://www.worldcubeassociation.org/competitions/FirstFridayFirstFMCTaby2024) |
 | 2 | [First Solves at Fisketorvet 2023](https://www.worldcubeassociation.org/competitions/FirstSolvesatFisketorvet2023) |
