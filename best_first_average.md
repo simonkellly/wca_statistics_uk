@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 1:55.13 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 2:07.84 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 2:20.73 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 2:23.20 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 2:24.16 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 2:24.97 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
@@ -77,7 +78,6 @@
 | 2:29.32 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
 | 2:29.49 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 2:31.48 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) |
-| 2:34.51 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 
 ### 7x7x7 Cube
 
@@ -87,12 +87,12 @@
 | 3:38.75 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 3:42.08 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 3:42.79 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
+| 3:44.63 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 3:45.54 | [Ray Chen](https://www.worldcubeassociation.org/persons/2022CHEN10) |
 | 3:55.55 | [Aidan McMillan](https://www.worldcubeassociation.org/persons/2018MCMI02) |
 | 3:58.02 | [Jonathan Ayre](https://www.worldcubeassociation.org/persons/2018AYRE01) |
 | 3:58.37 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 4:01.12 | [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) |
-| 4:01.67 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 
 ### 3x3x3 Blindfolded
 

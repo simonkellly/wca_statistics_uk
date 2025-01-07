@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | 2:08.34 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 2:13.59 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 2:20.20 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
+| 2:21.35 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 2:22.78 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 2:26.09 | [Ethan Horspool](https://www.worldcubeassociation.org/persons/2016HORS01) |
 | 2:27.15 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 2:27.72 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 2:28.26 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
-| 2:28.68 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 
 ### 7x7x7 Cube
 

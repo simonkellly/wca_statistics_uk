@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -40,8 +40,8 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 45.19 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 43.39, 47.53, 44.13, 50.80, 43.90 |
 | 46.31 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 46.28, 45.21, 45.96, 50.65, 46.70 |
-| 48.14 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 48.04, 51.34, 44.33, 47.05, 49.34 |
 | 49.14 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.83, 50.81, 44.88, 47.23, 50.35 |
 | 49.83 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 48.53, 51.16, 49.79, 54.67, 46.59 |
 | 49.83 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 47.73, 46.25, 58.97, 54.68, 47.08 |
@@ -64,8 +64,8 @@
 | ---: | :--- | :--- |
 | 2:09.38 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:11.40, 2:14.07, 2:03.16, 1:59.83, 2:13.58 |
 | 2:12.75 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:03.41, 2:16.40, 2:22.59, 2:04.36, 2:17.48 |
+| 2:24.76 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:20.12, 2:41.28, 2:20.91, 2:27.73, 2:25.63 |
 | 2:28.16 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:34.84, 2:22.08, 2:25.89, 2:32.76, 2:25.84 |
-| 2:28.16 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:20.52, 2:30.61, 2:30.29, 2:28.22, 2:25.97 |
 | 2:31.63 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2:44.18, 2:26.12, 2:24.58, 2:49.12, 2:23.30 |
 
 ### 3x3x3 Blindfolded
@@ -171,7 +171,7 @@
 | 7.23 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 6.46, 9.26, 7.75, 7.32, 6.61 |
 | 7.70 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7.52, 7.48, 7.22, 9.27, 8.10 |
 | 7.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.68, 6.28, 10.64, 8.33, 6.85 |
-| 8.65 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 7.98, 10.40, 9.45, 8.38, 8.13 |
+| 8.33 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 7.88, 12.90, 9.23, 6.89, 7.88 |
 | 9.43 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.99, 10.34, 11.96, 6.30, 10.97 |
 | 9.49 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 9.15, 13.65, 9.54, 7.71, 9.77 |
 | 10.04 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 8.78, 10.43, 10.45, 12.18, 9.24 |
@@ -181,7 +181,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:29.58 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:29.21, 1:29.72, 1:29.81, DNF, 1:25.52 |
+| 1:27.00 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | DNF, 1:32.68, 1:25.81, 1:21.42, 1:22.50 |
 | 1:38.60 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:24.98, 1:45.89, 2:26.03, 1:22.17, 1:44.92 |
 | 2:24.19 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 2:18.31, DNF, 2:10.47, 2:20.51, 2:33.75 |
 | 2:25.72 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 2:18.13, 2:12.51, 2:53.71, 2:46.52, 2:08.33 |

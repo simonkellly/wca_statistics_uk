@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -52,6 +52,8 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 44.13 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
+| 45.25 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
 | 45.39 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2019MORG10) |
 | 45.96 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
 | 46.24 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Lincoln Summer 2022](https://www.worldcubeassociation.org/competitions/LincolnSummer2022/results/by_person#2014JAYE01) |
@@ -60,8 +62,6 @@
 | 46.70 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
 | 46.72 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2014JAYE01) |
 | 47.04 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023/results/by_person#2014JAYE01) |
-| 47.05 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2019MORG10) |
-| 47.51 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2014JAYE01) |
 
 ### 3x3x3 One-Handed
 

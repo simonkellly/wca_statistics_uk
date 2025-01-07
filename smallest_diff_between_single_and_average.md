@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -87,12 +87,12 @@
 | 0.22 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 3:23.40 | 3:23.62 | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022/results/by_person#2016HARL01) |
 | 0.32 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 2:53.93 | 2:54.25 | [Weston-super-Mare Spring 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2024/results/by_person#2018SAMK01) |
 | 0.48 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 4:19.81 | 4:20.29 | [Malmø Opvarmning 2022](https://www.worldcubeassociation.org/competitions/MalmoOpvarmning2022/results/by_person#2012GOOD02) |
+| 0.64 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | 4:06.61 | 4:07.25 | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2015HAMM01) |
 | 0.68 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 3:05.71 | 3:06.39 | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2018STOK01) |
 | 0.71 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:28.41 | 3:29.12 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023/results/by_person#2018SHEN07) |
 | 0.80 | [Will Chaplin](https://www.worldcubeassociation.org/persons/2019CHAP03) | 3:44.46 | 3:45.26 | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/by_person#2019CHAP03) |
 | 0.83 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | 4:37.80 | 4:38.63 | [Begastri Open 2024](https://www.worldcubeassociation.org/competitions/BegastriOpen2024/results/by_person#2020COOK03) |
 | 0.87 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) | 5:03.86 | 5:04.73 | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2011WRIG01) |
-| 0.88 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:31.51 | 2:32.39 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2017OSTR01) |
 
 ### 3x3x3 Blindfolded
 
@@ -107,7 +107,7 @@
 | 0.51 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 22.98 | 23.49 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019HIRS01) |
 | 0.52 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 22.07 | 22.59 | [Chippenham Autumn 2022](https://www.worldcubeassociation.org/competitions/ChippenhamAutumn2022/results/by_person#2018STOK01) |
 | 0.52 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 28.18 | 28.70 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2013MORR03) |
-| 0.72 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 22.41 | 23.13 | [Sheffield Spring - BBO 2023](https://www.worldcubeassociation.org/competitions/SheffieldSpringBBO2023/results/by_person#2018STOK01) |
+| 0.64 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | 58.68 | 59.32 | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2022GILB05) |
 
 ### 3x3x3 One-Handed
 

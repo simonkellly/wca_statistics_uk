@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 
 ### Rubik's Cube
@@ -40,11 +40,11 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 47.80 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 44.33, 47.05, 49.34, 52.21, 50.95, 49.37, 50.55, 43.39, 47.53, 44.13, 50.80, 43.90 |
 | 48.79 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 45.76, 48.48, 54.24, 51.32, 50.60, 48.99, 49.52, 47.08, 53.87, 46.28, 45.21, 45.96 |
-| 49.45 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 49.42, 47.53, 55.38, 45.30, 52.40, 49.73, 54.35, 48.04, 51.34, 44.33, 47.05, 49.34 |
 | 51.22 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 48.80, 50.46, 47.93, 54.55, 55.28, 47.41, 54.66, 51.73, 51.64, 49.90, 51.63, 50.92 |
 | 51.70 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.21, 52.15, 55.91, 52.27, 55.46, 1:01.28, 53.76, 49.83, 50.81, 44.88, 47.23, 50.35 |
-| 52.52 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 48.53, 51.16, 49.79, 54.67, 46.59, 58.33, 50.47, 59.88, 52.07, 52.64, 52.14, 55.44 |
+| 52.00 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 51.96, 51.39, 51.44, 52.55, 52.73, 48.91, 48.37, 52.50, 54.11, 51.94, 59.37, 52.50 |
 | 53.65 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 58.33, 56.96, 50.61, 55.62, 50.94, 51.53, 50.75, 51.28, 54.34, 57.22, 54.65, 53.23 |
 | 54.76 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 56.93, 52.10, 56.39, 53.24, 51.97, 53.46, 58.00, 57.32, 59.49, 50.79, 53.62, 54.55 |
 
@@ -55,7 +55,7 @@
 | 1:29.93 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:24.84, 1:29.49, 1:31.56, 1:29.64, 1:29.27, 1:30.44, 1:34.28, 1:40.16, 1:23.62, 1:25.50, 1:46.53, 1:24.14 |
 | 1:31.21 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:23.79, 1:31.46, 1:26.32, 1:39.00, 1:29.67, 1:33.52, 1:35.06, 1:46.02, 1:25.02, 1:25.11, 1:35.58, 1:31.37 |
 | 1:33.81 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:29.67, 1:36.03, 1:39.59, 1:23.65, 1:35.14, 1:33.85, 1:33.25, 1:36.13, 1:43.51, 1:31.03, 1:37.41, 1:25.99 |
-| 1:38.90 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:41.51, 1:44.10, 1:46.01, 1:30.09, 1:32.24, 1:36.79, 1:43.17, 1:33.29, 1:41.63, 1:37.79, 1:43.14, 1:35.33 |
+| 1:37.18 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:30.09, 1:32.24, 1:36.79, 1:43.17, 1:33.29, 1:41.63, 1:37.79, 1:43.14, 1:35.33, DNF, 1:32.75, 1:35.67 |
 | 1:45.15 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:41.93, 1:30.44, 1:59.26, 1:34.55, 1:55.13, 1:38.78, 1:57.86, 1:42.70, 1:43.65, 1:37.00, 1:53.83, 1:46.04 |
 
 ### 7x7x7 Cube
@@ -64,7 +64,7 @@
 | ---: | :--- | :--- |
 | 2:14.55 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:11.97, 2:24.04, 2:23.72, 2:15.16, 2:17.47, 2:12.26, 2:12.26, 2:42.50, 2:11.40, 2:14.07, 2:03.16, 1:59.83 |
 | 2:16.55 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:03.77, 2:18.18, 2:19.00, 2:03.41, 2:16.40, 2:22.59, 2:04.36, 2:17.48, 2:30.02, 2:17.86, 2:30.33, 2:15.84 |
-| 2:29.16 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:25.75, 2:36.87, 2:28.79, 2:21.04, 2:46.57, 2:37.76, 2:26.34, 2:20.52, 2:30.61, 2:30.29, 2:28.22, 2:25.97 |
+| 2:27.11 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:20.52, 2:30.61, 2:30.29, 2:28.22, 2:25.97, 2:31.21, 2:30.03, 2:20.12, 2:41.28, 2:20.91, 2:27.73, 2:25.63 |
 | 2:31.31 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:33.97, 2:30.15, 2:44.91, 2:27.06, 2:32.76, 2:29.91, 2:23.95, 2:30.82, 2:31.93, 2:33.72, 2:31.51, 2:31.29 |
 | 2:35.82 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2:37.98, 2:43.96, 2:44.18, 2:26.12, 2:24.58, 2:49.12, 2:23.30, 2:47.15, 2:37.71, 2:33.76, 2:31.34, 2:31.40 |
 

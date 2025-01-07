@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -303,6 +303,7 @@
 | 1 | [Esprit Cube Open Bayonne 2022](https://www.worldcubeassociation.org/competitions/EspritCubeOpenBayonne2022) |
 | 1 | [Estonian Open 2012](https://www.worldcubeassociation.org/competitions/EstonianOpen2012) |
 | 1 | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) |
+| 1 | [Et Nyt År i Hvidovre 2025](https://www.worldcubeassociation.org/competitions/EtNytAriHvidovre2025) |
 | 1 | [Euro 2006](https://www.worldcubeassociation.org/competitions/Euro2006) |
 | 1 | [Even Sydney Gathering 2022](https://www.worldcubeassociation.org/competitions/EvenBetterSydneyGathering2022) |
 | 1 | [Even Day in Bacolod 2022](https://www.worldcubeassociation.org/competitions/EvenDayinBacolod2022) |
@@ -1417,6 +1418,7 @@
 | 4 | [Zonhoven Open 2014](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2014) |
 | 5 | [Corduff Cubing Sunday 2024](https://www.worldcubeassociation.org/competitions/CorduffCubingSunday2024) |
 | 5 | [Don't DNF Dublin 2020](https://www.worldcubeassociation.org/competitions/DontDNFDublin2020) |
+| 5 | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) |
 | 5 | [Don't Fail Kinsale 2024](https://www.worldcubeassociation.org/competitions/DontFailKinsale2024) |
 | 5 | [Dutch Nationals 2024](https://www.worldcubeassociation.org/competitions/DutchNationals2024) |
 | 5 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) |

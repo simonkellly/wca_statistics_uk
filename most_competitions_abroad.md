@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  4 January 2025*
+*Updated on  7 January 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 191 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 192 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 100 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 87 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 60 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
@@ -18,7 +18,7 @@
 | 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 42 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 42 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 38 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
+| 39 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 36 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 35 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
@@ -31,8 +31,8 @@
 | 27 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
 | 26 | [Sean Findlay](https://www.worldcubeassociation.org/persons/2016FIND01) |
 | 25 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
-| 24 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
 | 24 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
+| 24 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
 | 24 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 23 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) |
 | 23 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
@@ -64,20 +64,20 @@
 | 15 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) |
 | 15 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 15 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) |
+| 15 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
+| 14 | [Eli Gorodnitzky](https://www.worldcubeassociation.org/persons/2023GORO01) |
+| 14 | [Joh Fujita (藤田丈)](https://www.worldcubeassociation.org/persons/2022FUJI02) |
 | 14 | [Daniel Hussain Mohammadi](https://www.worldcubeassociation.org/persons/2017MOHA13) |
-| 14 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 14 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
-| 14 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) |
-| 14 | [Eli Gorodnitzky](https://www.worldcubeassociation.org/persons/2023GORO01) |
+| 14 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
 | 13 | [David Forsell](https://www.worldcubeassociation.org/persons/2022FORS07) |
 | 13 | [Vihaan Palsapure](https://www.worldcubeassociation.org/persons/2023PALS01) |
 | 13 | [Wang Tong (王彤)](https://www.worldcubeassociation.org/persons/2014TONG01) |
 | 13 | [James Pratt](https://www.worldcubeassociation.org/persons/2018PRAT13) |
 | 13 | [Oliver Crook](https://www.worldcubeassociation.org/persons/2022CROO02) |
 | 13 | [James Blackwell](https://www.worldcubeassociation.org/persons/2022BLAC02) |
-| 13 | [Joh Fujita (藤田丈)](https://www.worldcubeassociation.org/persons/2022FUJI02) |
 | 13 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 12 | [Adejuwon Adebusuyi Oluwemimo](https://www.worldcubeassociation.org/persons/2022OLUW01) |
