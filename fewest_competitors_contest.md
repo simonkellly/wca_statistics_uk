@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -322,7 +322,6 @@
 | 1 | [FLIP Open 2019](https://www.worldcubeassociation.org/competitions/FLIPOpen2019) |
 | 1 | [FLIP Open 2022](https://www.worldcubeassociation.org/competitions/FLIPOpen2022) |
 | 1 | [Florida 2019](https://www.worldcubeassociation.org/competitions/Florida2019) |
-| 1 | [Flushing Glow AM 2024](https://www.worldcubeassociation.org/competitions/FlushingGlowAM2024) |
 | 1 | [FMC Canada 2023](https://www.worldcubeassociation.org/competitions/FMCCanada2023) |
 | 1 | [FMC New Zealand 2022](https://www.worldcubeassociation.org/competitions/FMCNewZealand2022) |
 | 1 | [FMC New Zealand 2023](https://www.worldcubeassociation.org/competitions/FMCNewZealand2023) |
@@ -417,6 +416,7 @@
 | 1 | [HDC VII - Roskilde 2023](https://www.worldcubeassociation.org/competitions/HDCVIIRoskilde2023) |
 | 1 | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024) |
 | 1 | [HDC XI - Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HDCXIHvidovre2024) |
+| 1 | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) |
 | 1 | [Heerenveen Open 2024](https://www.worldcubeassociation.org/competitions/HeerenveenOpen2024) |
 | 1 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019) |
 | 1 | [HEM MariCubik Open 2013](https://www.worldcubeassociation.org/competitions/HEMMariCubikOpen2013) |

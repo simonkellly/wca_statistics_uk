@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 
 ### Competition
@@ -10,7 +10,7 @@
 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) | **14266** | 14835 |
 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | **14255** | 14812 |
 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) | **13251** | 13639 |
-| [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | **11685** | 12147 |
+| [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024) | **11663** | 12122 |
 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) | **8936** | 9361 |
 | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019) | **8905** | 9288 |
 | [Reading Spring 2023](https://www.worldcubeassociation.org/competitions/ReadingSpring2023) | **8187** | 8474 |
@@ -33,7 +33,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **12505** | 13141 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10429** | 11063 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10445** | 11079 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10068** | 10337 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **9166** | 9796 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **8237** | 8791 |
@@ -57,12 +57,12 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United Kingdom | **773095** | 813135 |
+| United Kingdom | **773063** | 813100 |
 | Ireland | **16120** | 17028 |
-| Denmark | **11016** | 11688 |
+| Denmark | **11032** | 11704 |
 | Spain | **8517** | 8959 |
 | Switzerland | **6339** | 6571 |
-| United States | **6007** | 6337 |
+| United States | **5993** | 6322 |
 | Australia | **5242** | 5501 |
 | France | **4861** | 5171 |
 | Sweden | **4548** | 4869 |
@@ -82,10 +82,10 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **847085** | 891498 |
+| Europe | **847069** | 891479 |
 | Asia | **10204** | 10758 |
 | Oceania | **7613** | 7991 |
-| North America | **6539** | 6901 |
+| North America | **6525** | 6886 |
 | South America | **684** | 709 |
 | Africa | **596** | 629 |
 | Multiple Continents | **215** | 277 |
@@ -95,7 +95,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2023 | **233560** | 245278 |
-| 2024 | **220761** | 231802 |
+| 2024 | **220715** | 231752 |
 | 2022 | **128165** | 134676 |
 | 2019 | **66762** | 70637 |
 | 2018 | **54925** | 57731 |
@@ -109,7 +109,7 @@
 | 2010 | **5168** | 5511 |
 | 2011 | **5099** | 5456 |
 | 2009 | **3705** | 3945 |
-| 2025 | **3055** | 3210 |
+| 2025 | **3071** | 3226 |
 | 2021 | **2545** | 2677 |
 | 2008 | **1479** | 1593 |
 | 2007 | **595** | 639 |
@@ -119,18 +119,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **241138** | 245688 |
-| 2x2x2 Cube | **147805** | 151327 |
-| Pyraminx | **95541** | 97790 |
-| 4x4x4 Cube | **78415** | 81997 |
+| 3x3x3 Cube | **241126** | 245673 |
+| 2x2x2 Cube | **147795** | 151317 |
+| Pyraminx | **95536** | 97785 |
+| 4x4x4 Cube | **78410** | 81992 |
 | Skewb | **64609** | 66098 |
-| 3x3x3 One-Handed | **62708** | 64791 |
+| 3x3x3 One-Handed | **62699** | 64781 |
 | 5x5x5 Cube | **53089** | 54787 |
 | Clock | **31809** | 36644 |
 | Megaminx | **30787** | 32329 |
-| Square-1 | **27172** | 28307 |
-| 6x6x6 Cube | **11617** | 12051 |
-| 7x7x7 Cube | **9800** | 10211 |
+| Square-1 | **27177** | 28312 |
+| 6x6x6 Cube | **11620** | 12054 |
+| 7x7x7 Cube | **9803** | 10214 |
 | 3x3x3 Blindfolded | **8291** | 20320 |
 | 3x3x3 Fewest Moves | **3430** | 4489 |
 | 3x3x3 With Feet | **1684** | 1866 |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 
 ### Rubik's Cube - Single
@@ -306,6 +306,7 @@
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | **6.89** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 9.23, 6.89, 7.88, 9.23, 8.60 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **7.68** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 11.58, 7.68, 10.61, 8.82, 9.49 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **15.57** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 15.57, 15.67, 24.76, 23.38, 32.88 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **27.51** | United Kingdom | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) | 45.03, 42.37, 27.51, 43.54, 42.18 |
 
 ### Square-1 - Average
 
@@ -314,6 +315,7 @@
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | **8.57** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 9.23, 6.89, 7.88, 9.23, 8.60 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **9.64** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 11.58, 7.68, 10.61, 8.82, 9.49 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **21.27** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 15.57, 15.67, 24.76, 23.38, 32.88 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **42.70** | United Kingdom | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) | 45.03, 42.37, 27.51, 43.54, 42.18 |
 
 ### 4x4x4 Blindfolded - Single
 

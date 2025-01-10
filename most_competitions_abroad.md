@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  7 January 2025*
+*Updated on 10 January 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 192 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 193 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 100 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 87 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 60 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
