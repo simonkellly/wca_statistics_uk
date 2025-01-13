@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -40,7 +40,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 47.80 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 44.33, 47.05, 49.34, 52.21, 50.95, 49.37, 50.55, 43.39, 47.53, 44.13, 50.80, 43.90 |
+| 46.53 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 43.39, 47.53, 44.13, 50.80, 43.90, 49.69, 52.96, 45.25, 49.88, 42.86, 47.91, 42.68 |
 | 48.79 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 45.76, 48.48, 54.24, 51.32, 50.60, 48.99, 49.52, 47.08, 53.87, 46.28, 45.21, 45.96 |
 | 51.22 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 48.80, 50.46, 47.93, 54.55, 55.28, 47.41, 54.66, 51.73, 51.64, 49.90, 51.63, 50.92 |
 | 51.70 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.21, 52.15, 55.91, 52.27, 55.46, 1:01.28, 53.76, 49.83, 50.81, 44.88, 47.23, 50.35 |
@@ -147,7 +147,7 @@
 | 3.98 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6.31, 4.75, 2.76, 3.12, 4.14, 3.56, 4.01, DNF, 3.46, 3.13, 3.81, 3.54 |
 | 4.30 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 4.95, 3.53, 3.57, DNF, 4.08, 4.73, 4.49, 4.65, 3.97, 3.87, 4.06, 4.58 |
 | 4.31 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 4.89, 4.15, 4.91, 3.69, 4.41, 8.00, 4.91, 3.25, 4.48, 3.72, 4.10, 3.84 |
-| 4.62 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 4.08, 4.42, DNF, 4.05, 6.81, 4.80, 4.67, 3.50, 3.88, 5.42, 4.28, 3.83 |
+| 4.56 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 3.99, 4.70, 4.07, 6.91, 3.37, 5.19, 5.06, 5.10, 4.26, 4.93, 4.16, 4.09 |
 
 ### Skewb
 

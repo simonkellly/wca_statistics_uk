@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -33,7 +33,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 38 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 37 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 34 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 32 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
@@ -94,7 +94,7 @@
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 12 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 12 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 11 |
-| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 9 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 10 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 8 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7 |
@@ -171,8 +171,8 @@
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 12 |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 7 |
+| [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
-| [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 6 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
@@ -211,8 +211,8 @@
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 47 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 40 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 31 |
+| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 31 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 30 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 30 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 26 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 20 |
@@ -302,7 +302,7 @@
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 5 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 4 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 4 |
-| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 4 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 4 |
 
 ### Skewb
 
@@ -335,11 +335,11 @@
 | :--- | ---: |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 41 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 30 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 26 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 25 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 22 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 16 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 16 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 15 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 15 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 14 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 12 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 12 |
@@ -364,7 +364,7 @@
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 16 |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 14 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 11 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 9 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 10 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 8 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 6 |
 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) | 5 |

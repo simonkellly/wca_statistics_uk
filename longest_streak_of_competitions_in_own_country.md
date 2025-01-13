@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | 14 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | Australia | [Melbourne Summer 2012](https://www.worldcubeassociation.org/competitions/MelbourneSummer2012) | [Sydney Winter 2015](https://www.worldcubeassociation.org/competitions/SydneyWinter2015) |
 | 14 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Cyber Open 2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012) | [Johor Cube Open 2018](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2018) |
 | 12 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018) |
+| 12 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | United Kingdom | [Guildford Autumn 2023](https://www.worldcubeassociation.org/competitions/GuildfordAutumn2023) | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
 | 11 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) | United Kingdom | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
 | 11 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | United Kingdom | [Kewbz UK Championship FMC 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionshipFMC2022) | [Cambridge Side Events 2023](https://www.worldcubeassociation.org/competitions/CambridgeSideEventsWinter2023) |
-| 11 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | United Kingdom | [Guildford Autumn 2023](https://www.worldcubeassociation.org/competitions/GuildfordAutumn2023) | [Glasgow Winter - SBO 2024](https://www.worldcubeassociation.org/competitions/GlasgowWinterSBO2024) |
 | 11 | [Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01) | Australia | [Warm Up Canberra 2019](https://www.worldcubeassociation.org/competitions/WarmUpCanberra2019) | [Clockburn 2023](https://www.worldcubeassociation.org/competitions/Clockburn2023) |
 | 10 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | United Kingdom | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009) | [Edinburgh Open 2013](https://www.worldcubeassociation.org/competitions/EdinburghOpen2013) |
 | 10 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | United Kingdom | [UK Open 2008](https://www.worldcubeassociation.org/competitions/UKOpen2008) | [Weston-super-Mare 2012](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012) |

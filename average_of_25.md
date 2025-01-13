@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -40,7 +40,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 49.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 54.98, 49.42, 47.53, 55.38, 45.30, 52.40, 49.73, 54.35, 48.04, 51.34, 44.33, 47.05, 49.34, 52.21, 50.95, 49.37, 50.55, 43.39, 47.53, 44.13, 50.80, 43.90, 49.69, 52.96, 45.25 |
+| 48.24 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 45.30, 52.40, 49.73, 54.35, 48.04, 51.34, 44.33, 47.05, 49.34, 52.21, 50.95, 49.37, 50.55, 43.39, 47.53, 44.13, 50.80, 43.90, 49.69, 52.96, 45.25, 49.88, 42.86, 47.91, 42.68 |
 | 49.49 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 49.31, 47.51, 47.11, 47.61, 50.59, 55.60, 48.32, 51.57, 53.14, 50.41, 58.16, 45.76, 48.48, 54.24, 51.32, 50.60, 48.99, 49.52, 47.08, 53.87, 46.28, 45.21, 45.96, 50.65, 46.70 |
 | 52.09 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 53.62, 1:04.22, 52.86, 48.11, 48.52, 53.72, 55.26, 50.29, 57.19, 48.80, 50.46, 47.93, 54.55, 55.28, 47.41, 54.66, 51.73, 51.64, 49.90, 51.63, 50.92, 56.76, 51.59, 51.49, 52.06 |
 | 53.04 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 51.57, 53.78, 50.92, 51.33, 54.72, 56.52, 59.97, 54.87, 50.63, 55.94, 54.77, 53.50, 55.44, 49.21, 52.15, 55.91, 52.27, 55.46, 1:01.28, 53.76, 49.83, 50.81, 44.88, 47.23, 50.35 |
@@ -82,7 +82,7 @@
 | ---: | :--- | :--- |
 | 23.05 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 28, 25, 30, 21, 23, 20, DNF, 22, 24, 22, 27, 23, 24, 24, 23, 22, 23, 20, 22, 19, 22, 23, 23, 22, 21 |
 | 23.24 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 24, 23, DNF, 22, 22, 24, 19, 24, 26, 25, 24, 26, 21, 26, 24, 23, 25, 22, 20, 23, 21, 19, 23, DNF, 20 |
-| 23.48 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | DNF, 22, 23, 23, 23, 25, 23, 23, 26, 24, 24, 22, 22, 26, 21, 22, 23, 23, 24, 23, DNF, 23, 24, 23, 24 |
+| 23.38 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | 22, 23, 23, 23, 25, 23, 23, 26, 24, 24, 22, 22, 26, 21, 22, 23, 23, 24, 23, DNF, 23, 24, 23, 24, 24 |
 | 23.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 28, 24, 24, 24, 25, 26, 21, 24, 27, 25, 23, 26, 20, 26, 21, 20, 23, 24, 25, 24, 23, 28, 24, 21, 23 |
 | 25.05 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 22, 23, 26, 28, 28, 21, 23, 27, 23, 31, 25, 25, 25, 23, 26, 24, 22, 23, 24, 26, 31, 31, 24, 26, 24 |
 | 27.43 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 25, 27, 29, 27, 27, 28, DNF, 30, 30, 28, 30, 28, 28, 27, 24, 28, 32, 23, 27, 24, 30, 26, 30, 19, 22 |
@@ -141,7 +141,7 @@
 | 4.44 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 4.78, 3.71, DNF, 4.72, 6.82, 3.78, 3.28, DNF, 3.82, 3.79, 8.92, 4.05, 3.00, 4.06, 4.29, 3.67, 4.02, 4.22, 4.17, 2.87, 3.54, 3.94, 3.84, 5.69, 4.18 |
 | 4.48 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 3.73, 4.89, 4.74, 4.79, 4.95, 3.53, 3.57, DNF, 4.08, 4.73, 4.49, 4.65, 3.97, 3.87, 4.06, 4.58, 5.01, 5.62, 4.57, 5.45, 4.37, 3.97, 7.30, 4.00, 3.00 |
 | 4.58 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 3.87, 3.71, 4.65, 3.68, 9.09, 6.08, 6.31, 4.75, 2.76, 3.12, 4.14, 3.56, 4.01, DNF, 3.46, 3.13, 3.81, 3.54, 7.75, 4.47, 4.60, 3.10, 6.00, 5.89, 5.55 |
-| 4.83 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 4.34, 4.93, 5.15, 3.54, 4.48, 4.88, 5.05, 4.54, DNF, 5.78, DNF, 4.19, 4.13, 5.24, 4.48, 3.99, 4.70, 4.07, 6.91, 3.37, 5.19, 5.06, 5.10, 4.26, 4.93 |
+| 4.76 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 3.54, 4.48, 4.88, 5.05, 4.54, DNF, 5.78, DNF, 4.19, 4.13, 5.24, 4.48, 3.99, 4.70, 4.07, 6.91, 3.37, 5.19, 5.06, 5.10, 4.26, 4.93, 4.16, 4.09, 4.78 |
 | 4.95 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 5.72, 4.53, 5.37, 6.06, 5.79, 5.54, 6.77, 4.14, 14.61, 3.44, 3.25, 3.97, 4.24, 5.24, DNF, 3.68, 4.35, 3.84, 6.24, 6.69, 5.73, 3.29, 3.32, 6.04, 2.89 |
 | 4.96 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 4.68, 4.89, 4.15, 4.91, 3.69, 4.41, 8.00, 4.91, 3.25, 4.48, 3.72, 4.10, 3.84, DNF, 6.24, 5.99, 4.19, 4.57, DNF, 7.13, 4.79, 3.64, 7.51, 3.73, 4.17 |
 

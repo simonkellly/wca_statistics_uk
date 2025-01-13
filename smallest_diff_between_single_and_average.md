@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 0.06 | [Matthew Ayre](https://www.worldcubeassociation.org/persons/2018AYRE02) | 3.65 | 3.71 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2018AYRE02) |
 | 0.06 | [Kendall Picton](https://www.worldcubeassociation.org/persons/2024PICT01) | 3.86 | 3.92 | [Puerto Real Camaleón Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2024/results/by_person#2024PICT01) |
 | 0.06 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 4.16 | 4.22 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019/results/by_person#2016HARL01) |
-| 0.07 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | 3.36 | 3.43 | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022/results/by_person#2014LONG06) |
+| 0.07 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | 1.34 | 1.41 | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2022TURN10) |
 
 ### 4x4x4 Cube
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 1 | [Azeméis Open 2023](https://www.worldcubeassociation.org/competitions/AzemeisOpen2023) |
 | 1 | [Back in Mauritius 2023](https://www.worldcubeassociation.org/competitions/BackinMauritius2023) |
 | 1 | [Back To Cubing Hong Kong 2015](https://www.worldcubeassociation.org/competitions/BackToCubingHongKong2015) |
+| 1 | [Back to Cubing Madras 2025](https://www.worldcubeassociation.org/competitions/BacktoCubingMadras2025) |
 | 1 | [Bacolod Cubing Quest 2018](https://www.worldcubeassociation.org/competitions/BacolodCubingQuest2018) |
 | 1 | [Bacolod Speedcubing Rush 2023](https://www.worldcubeassociation.org/competitions/BacolodSpeedcubingRush2023) |
 | 1 | [Bahrain Open 2017](https://www.worldcubeassociation.org/competitions/BahrainOpen2017) |
@@ -419,6 +420,7 @@
 | 1 | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) |
 | 1 | [Heerenveen Open 2024](https://www.worldcubeassociation.org/competitions/HeerenveenOpen2024) |
 | 1 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019) |
+| 1 | [Helt Blind i Furesø 2025](https://www.worldcubeassociation.org/competitions/HeltBlindiFureso2025) |
 | 1 | [HEM MariCubik Open 2013](https://www.worldcubeassociation.org/competitions/HEMMariCubikOpen2013) |
 | 1 | [Hem MariCubik Open 2016](https://www.worldcubeassociation.org/competitions/HemMariCubikOpen2016) |
 | 1 | [Hendersonville Winter 2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018) |
@@ -1274,6 +1276,7 @@
 | 2 | [Swedish Open 2010](https://www.worldcubeassociation.org/competitions/SwedishOpen2010) |
 | 2 | [Swisscubing Better Be Quick 2018](https://www.worldcubeassociation.org/competitions/SwisscubingBBQ2018) |
 | 2 | [Swisscubing Cup I 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020) |
+| 2 | [Swisscubing Cup I 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2025) |
 | 2 | [SC Cup II 2017](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2017) |
 | 2 | [Swisscubing Cup IV 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2022) |
 | 2 | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) |
@@ -1481,6 +1484,7 @@
 | 12 | [Irish Championship 2016](https://www.worldcubeassociation.org/competitions/IrishChampionship2016) |
 | 12 | [Irish Championship 2019](https://www.worldcubeassociation.org/competitions/IrishChampionship2019) |
 | 12 | [Northern Irish Open 2013](https://www.worldcubeassociation.org/competitions/NorthernIrishOpen2013) |
+| 13 | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) |
 | 13 | [Farnworth Spring C 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringC2022) |
 | 13 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 13 | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |

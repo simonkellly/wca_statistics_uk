@@ -1,24 +1,25 @@
 ## Best medal collection from abroad by country
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 January 2025*
+*Updated on 13 January 2025*
 
 | Country | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| United Kingdom | **443** | 489 | 464 | 1396 |
+| United Kingdom | **443** | 490 | 464 | 1397 |
 | Malaysia | **48** | 81 | 89 | 218 |
 | China | **38** | 37 | 34 | 109 |
 | Switzerland | **26** | 13 | 5 | 44 |
-| Hong Kong, China | **11** | 8 | 21 | 40 |
-| Macau, China | **10** | 18 | 26 | 54 |
+| Macau, China | **12** | 18 | 26 | 56 |
+| Hong Kong, China | **12** | 10 | 22 | 44 |
 | South Africa | **5** | 9 | 15 | 29 |
 | Ireland | **4** | 12 | 12 | 28 |
 | Sweden | **3** | 6 | 3 | 12 |
 | Lithuania | **3** | 2 | 2 | 7 |
 | Ukraine | **2** | 5 | 8 | 15 |
-| Poland | **2** | 3 | 2 | 7 |
+| Poland | **2** | 4 | 3 | 9 |
 | Russia | **2** | 1 | 1 | 4 |
 | Egypt | **2** | 0 | 0 | 2 |
+| Japan | **2** | 0 | 0 | 2 |
 | Bulgaria | **1** | 2 | 10 | 13 |
 | India | **1** | 0 | 7 | 8 |
 | Nigeria | **1** | 0 | 0 | 1 |
