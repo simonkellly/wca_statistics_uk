@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 January 2025*
+*Updated on 16 January 2025*
 
 
 ### Rubik's Cube
@@ -29,7 +29,6 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 27.77 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 30.55, 31.51, 23.88, 29.64, 26.39, 24.99, 32.40, 28.20, 27.00, 36.05, 28.76, 30.79, 25.96, 24.94, 26.24, 24.88, 28.12, 24.83, 26.18, 23.69, 28.24, 29.39, 27.81, 31.53, 27.13 |
 | 29.27 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 30.65, 27.76, 30.46, 25.24, 25.51, 26.39, 25.87, 30.78, 32.44, 29.09, 27.95, 32.56, 30.88, 26.77, 31.71, 38.34, 30.69, 30.29, 31.51, 28.05, 26.35, 39.07, 27.13, 31.25, 26.04 |
 | 29.43 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 26.03, 33.03, 26.43, 30.20, 28.56, 29.59, 30.10, 29.00, 31.59, 30.92, 25.59, 31.30, 30.07, 27.04, 33.52, 27.38, 30.39, 26.33, 30.36, 35.89, 28.96, 27.50, 29.66, 28.40, 31.19 |
 | 30.23 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 28.09, 34.95, 23.17, 25.72, 28.00, 30.85, 32.68, 33.04, 24.96, 30.52, 32.23, 25.77, 34.23, 33.08, 30.04, 33.20, 30.56, 29.31, 33.84, 31.42, 35.73, 28.31, 27.11, 28.60, 28.32 |

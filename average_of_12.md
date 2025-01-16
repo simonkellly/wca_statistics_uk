@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 January 2025*
+*Updated on 16 January 2025*
 
 
 ### Rubik's Cube
@@ -29,7 +29,6 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 26.66 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 30.79, 25.96, 24.94, 26.24, 24.88, 28.12, 24.83, 26.18, 23.69, 28.24, 29.39, 27.81 |
 | 28.57 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 31.25, 30.65, 27.76, 30.46, 25.24, 25.51, 26.39, 25.87, 30.78, 32.44, 29.09, 27.95 |
 | 29.12 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 28.90, 27.25, 31.74, 28.09, 34.95, 23.17, 25.72, 28.00, 30.85, 32.68, 33.04, 24.96 |
 | 29.26 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 28.81, 27.11, DNF, 27.95, 25.98, 32.19, 29.01, 31.08, 28.93, 26.27, 30.17, 31.08 |
