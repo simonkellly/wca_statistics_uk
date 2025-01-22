@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Pairs
@@ -54,6 +54,7 @@
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) & [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) |
 | 15 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 15 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 15 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 14 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 14 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) & [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 14 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
@@ -63,7 +64,6 @@
 | 14 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 14 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 14 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) |
-| 14 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 13 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 13 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |

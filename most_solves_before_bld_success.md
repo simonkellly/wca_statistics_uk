@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -24,9 +24,9 @@
 | 12 | [Jamal Saddeque](https://www.worldcubeassociation.org/persons/2023SADD01) |
 | 11 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
 | 11 | [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) |
+| 11 | [Sam Williams](https://www.worldcubeassociation.org/persons/2023WILL30) |
 | 10 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
 | 10 | [Joshua Williams](https://www.worldcubeassociation.org/persons/2018WILL32) |
-| 10 | [Robert Reed](https://www.worldcubeassociation.org/persons/2018REED06) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -55,9 +55,9 @@
 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) | **2** | 1 | 1 | 4 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **2** | 1 | 0 | 3 |
 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | **2** | 1 | 0 | 3 |
+| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **2** | 0 | 1 | 3 |
 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | **2** | 0 | 1 | 3 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **2** | 0 | 0 | 2 |
-| [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **2** | 0 | 0 | 2 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | **2** | 0 | 0 | 2 |
 | [Tristan Penson](https://www.worldcubeassociation.org/persons/2009PENS02) | **2** | 0 | 0 | 2 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **1** | 6 | 10 | 17 |
@@ -71,6 +71,7 @@
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **1** | 2 | 5 | 8 |
 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) | **1** | 2 | 0 | 3 |
 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | **1** | 2 | 0 | 3 |
+| [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | **1** | 2 | 0 | 3 |
 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | **1** | 2 | 0 | 3 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **1** | 2 | 0 | 3 |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | **1** | 2 | 0 | 3 |
@@ -101,7 +102,6 @@
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | **0** | 2 | 0 | 2 |
 | [Ashton Cerasoli](https://www.worldcubeassociation.org/persons/2013CERA01) | **0** | 2 | 0 | 2 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | **0** | 2 | 0 | 2 |
-| [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | **0** | 2 | 0 | 2 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | **0** | 2 | 0 | 2 |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | **0** | 2 | 0 | 2 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **0** | 2 | 0 | 2 |

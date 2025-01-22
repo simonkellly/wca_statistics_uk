@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -145,6 +145,7 @@
 | ---: | :--- |
 | 58.72 | [Hasan Bahadur](https://www.worldcubeassociation.org/persons/2018BAHA01) |
 | 1:01.77 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
+| 1:02.09 | [Logan Tonon](https://www.worldcubeassociation.org/persons/2023TONO02) |
 | 1:05.31 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 1:10.38 | [Etim Okpoyo](https://www.worldcubeassociation.org/persons/2024OKPO01) |
 | 1:12.20 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
@@ -152,7 +153,6 @@
 | 1:15.06 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:15.08 | [Zachary Fogg](https://www.worldcubeassociation.org/persons/2022FOGG01) |
 | 1:15.85 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) |
-| 1:15.97 | [Robert Morris](https://www.worldcubeassociation.org/persons/2016MORR03) |
 
 ### Pyraminx
 

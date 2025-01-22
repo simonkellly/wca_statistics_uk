@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -12,7 +12,7 @@
 | 6.49 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 6.04, 5.95, 7.35, 6.75, 6.77, 6.14, 6.37, 5.70, 6.75, 7.43, 6.63, 6.13 |
 | 7.83 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 8.12, 7.40, 7.50, 8.01, 8.45, 7.66, 7.32, 8.19, 6.59, 9.25, 8.10, 7.59 |
 | 7.91 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 7.76, 7.57, 7.49, 6.85, 9.95, 7.56, 9.87, 7.94, 7.68, 8.94, 7.35, 6.91 |
-| 8.55 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 8.60, 8.15, 8.15, 8.18, 9.25, 9.36, 10.18, 6.49, 8.39, 7.78, 8.03, 9.56 |
+| 7.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 7.30, 8.23, 6.42, 7.73, 8.02, 7.52, 8.84, 7.85, 8.01, 9.02, 7.39, 8.64 |
 
 ### 2x2x2 Cube
 
@@ -115,7 +115,7 @@
 | 39.15 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 40.64, 35.92, 40.32, 38.70, 38.81, 39.35, 41.88, 49.18, 35.06, 43.96, 34.41, 36.85 |
 | 40.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 39.14, 40.52, 38.64, 42.69, 40.45, 39.87, 40.61, 41.28, 40.96, 38.39, 46.41, 40.52 |
 | 42.65 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 37.91, 43.20, 45.47, 47.34, 45.13, 53.10, 39.35, 33.85, 45.19, 43.39, 40.50, 39.06 |
-| 42.99 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 42.56, 47.61, 44.12, 46.97, 45.15, 36.17, 37.01, 40.83, 45.29, 46.07, 39.45, 42.40 |
+| 42.98 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.15, 36.17, 37.01, 40.83, 45.29, 46.07, 39.45, 42.40, 50.13, 50.62, 47.26, 36.20 |
 | 44.97 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 55.34, 44.57, 45.41, 44.95, 40.46, 45.58, 43.38, 46.68, 38.80, 41.95, 47.67, 49.05 |
 | 47.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 51.00, 43.98, 36.32, 53.84, 48.20, 47.64, 48.40, 42.44, 46.35, 44.22, 48.05, 51.29 |
 | 50.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.42, 51.63, 52.92, 57.49, 51.12, 47.03, 55.24, 55.03, 45.71, 50.52, 47.79, 47.57 |
@@ -146,7 +146,7 @@
 | 3.98 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6.31, 4.75, 2.76, 3.12, 4.14, 3.56, 4.01, DNF, 3.46, 3.13, 3.81, 3.54 |
 | 4.30 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | 4.95, 3.53, 3.57, DNF, 4.08, 4.73, 4.49, 4.65, 3.97, 3.87, 4.06, 4.58 |
 | 4.31 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 4.89, 4.15, 4.91, 3.69, 4.41, 8.00, 4.91, 3.25, 4.48, 3.72, 4.10, 3.84 |
-| 4.56 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 3.99, 4.70, 4.07, 6.91, 3.37, 5.19, 5.06, 5.10, 4.26, 4.93, 4.16, 4.09 |
+| 4.62 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 4.08, 4.42, DNF, 4.05, 6.81, 4.80, 4.67, 3.50, 3.88, 5.42, 4.28, 3.83 |
 
 ### Skewb
 

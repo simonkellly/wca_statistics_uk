@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -29,6 +29,7 @@
 | 1 | [ASiR 2024](https://www.worldcubeassociation.org/competitions/AllesammenSammeniRoskilde2024) |
 | 1 | [All Events in Stockholm 2024](https://www.worldcubeassociation.org/competitions/AllEventsinStockholm2024) |
 | 1 | [AlphaCubing A 2023](https://www.worldcubeassociation.org/competitions/AlphaCubingA2023) |
+| 1 | [Alphen Cubing 2025](https://www.worldcubeassociation.org/competitions/AlphenCubing2025) |
 | 1 | [Alter do Chão Open 2024](https://www.worldcubeassociation.org/competitions/AlterdoChaoOpen2024) |
 | 1 | [ASB 2023](https://www.worldcubeassociation.org/competitions/AmericanSchoolBahrain2023) |
 | 1 | [Amman Summertime 2022](https://www.worldcubeassociation.org/competitions/AmmanSummertime2022) |
@@ -418,6 +419,7 @@
 | 1 | [HDC X - Hvidovre i Få Træk 2024](https://www.worldcubeassociation.org/competitions/HDCXHvidovreiFaTraek2024) |
 | 1 | [HDC XI - Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HDCXIHvidovre2024) |
 | 1 | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) |
+| 1 | [HDC XIV - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIVHvidovre2025) |
 | 1 | [Heerenveen Open 2024](https://www.worldcubeassociation.org/competitions/HeerenveenOpen2024) |
 | 1 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019) |
 | 1 | [Helt Blind i Furesø 2025](https://www.worldcubeassociation.org/competitions/HeltBlindiFureso2025) |
@@ -485,6 +487,7 @@
 | 1 | [Johor Cube Open 2022](https://www.worldcubeassociation.org/competitions/JohorCubeOpen2022) |
 | 1 | [Johor Open 2012](https://www.worldcubeassociation.org/competitions/JohorOpen2012) |
 | 1 | [Jordan Nationals 2022](https://www.worldcubeassociation.org/competitions/JordanNationals2022) |
+| 1 | [Just Judge Jura 2025](https://www.worldcubeassociation.org/competitions/JustJudgeJura2025) |
 | 1 | [Kalmar Cubing 2023](https://www.worldcubeassociation.org/competitions/KalmarCubing2023) |
 | 1 | [Kalyani Cube Open 2024](https://www.worldcubeassociation.org/competitions/KalyaniCubeOpen2024) |
 | 1 | [Kanonkuben 2024](https://www.worldcubeassociation.org/competitions/Kanonkuben2024) |
@@ -789,6 +792,7 @@
 | 1 | [Pune Cube Fiesta 2023](https://www.worldcubeassociation.org/competitions/PuneCubeFiesta2023) |
 | 1 | [Pune Unscrambled 2023](https://www.worldcubeassociation.org/competitions/PuneUnscrambled2023) |
 | 1 | [Pune Unscrambled 2024](https://www.worldcubeassociation.org/competitions/PuneUnscrambled2024) |
+| 1 | [Puzzles in Pinehurst 2025](https://www.worldcubeassociation.org/competitions/PuzzlesinPinehurst2025) |
 | 1 | [Puzzling Porirua 2022](https://www.worldcubeassociation.org/competitions/PuzzlingPorirua2022) |
 | 1 | [Pyraminx in Pewaukee 2023](https://www.worldcubeassociation.org/competitions/PyraminxinPewaukee2023) |
 | 1 | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023) |
@@ -1041,6 +1045,7 @@
 | 1 | [Valle d'Aosta Open 2023](https://www.worldcubeassociation.org/competitions/ValledAostaOpen2023) |
 | 1 | [Valpo 2015](https://www.worldcubeassociation.org/competitions/Valpo2015) |
 | 1 | [Vanderbilt Spring 2024](https://www.worldcubeassociation.org/competitions/VanderbiltSpring2024) |
+| 1 | [Vanderbilt Winter 2025](https://www.worldcubeassociation.org/competitions/VanderbiltWinter2025) |
 | 1 | [Vännäs & Friends 2024](https://www.worldcubeassociation.org/competitions/VannasFriends2024) |
 | 1 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024) |
 | 1 | [Värnamo Cube Days 2019](https://www.worldcubeassociation.org/competitions/VarnamoCubeDays2019) |

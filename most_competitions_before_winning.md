@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -28,11 +28,11 @@
 | 38 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) |
 | 31 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | [Cubing in Cill Chainnigh 2022](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2022) |
 | 23 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | [Henrik Laver Party 2010](https://www.worldcubeassociation.org/competitions/HenrikLaverParty2010) |
+| 23 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) |
 | 22 | [Harry Allen](https://www.worldcubeassociation.org/persons/2023ALLE01) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024) |
 | 21 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Bristol Summer 2024](https://www.worldcubeassociation.org/competitions/BristolSummer2024) |
 | 20 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | [Swiss Science Open 2018](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2018) |
 | 16 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Cuthberts Open 2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014) |
-| 15 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | [North Highlands Summer 2023](https://www.worldcubeassociation.org/competitions/NorthHighlandsSummer2023) |
 
 ### 4x4x4 Cube
 
@@ -162,12 +162,12 @@
 | 27 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
 | 26 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | [Glasgow Fav Evening I 2024](https://www.worldcubeassociation.org/competitions/GlasgowFavEveningI2024) |
 | 24 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
+| 19 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) |
 | 18 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Farnworth Spring B 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringB2022) |
 | 18 | [Nathan Olano](https://www.worldcubeassociation.org/persons/2018OLAN01) | [Stevenage Newcomers Sunday 2024](https://www.worldcubeassociation.org/competitions/StevenageNewcomersSunday2024) |
 | 17 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | [Glasgow Autumn 2023](https://www.worldcubeassociation.org/competitions/GlasgowAutumn2023) |
 | 16 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023) |
 | 15 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | [Norwich Summer 2023](https://www.worldcubeassociation.org/competitions/NorwichSummer2023) |
-| 14 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
 
 ### Rubik's Clock
 
@@ -233,6 +233,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 18 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) |
 | 16 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
 | 11 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [Lisboa Open 2018](https://www.worldcubeassociation.org/competitions/LisboaOpen2018) |
 | 7 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023) |
@@ -242,7 +243,6 @@
 | 5 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Kidderminster Summer BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterSummerBBO2022) |
 | 5 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | [Weston-super-Mare Autumn 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2022) |
 | 4 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |
-| 3 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) | [British Summer Open 2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019) |
 
 ### 3x3x3 Multi-Blind
 

@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### World
@@ -45,6 +45,7 @@
 | 1 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | 3x3x3 Cube |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 2x2x2 Cube |
 | 1 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | Megaminx |
+| 1 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | Megaminx |
 | 1 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | Pyraminx |
 | 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | Clock |
 | 1 | [Jonathan Adlam](https://www.worldcubeassociation.org/persons/2009ADLA01) | 3x3x3 Fewest Moves |
@@ -52,7 +53,6 @@
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | 3x3x3 Fewest Moves |
 | 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed |
 | 1 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | Megaminx |
-| 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | Square-1 |
 
 ### National
 

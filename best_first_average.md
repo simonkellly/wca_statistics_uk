@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -142,13 +142,13 @@
 | 1:00.24 | [Hasan Bahadur](https://www.worldcubeassociation.org/persons/2018BAHA01) |
 | 1:05.71 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 1:09.31 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
+| 1:09.83 | [Logan Tonon](https://www.worldcubeassociation.org/persons/2023TONO02) |
 | 1:10.35 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 1:12.98 | [Ethan D. Mason](https://www.worldcubeassociation.org/persons/2022MASO01) |
 | 1:13.24 | [Olaf Niechciał](https://www.worldcubeassociation.org/persons/2022NIEC01) |
 | 1:13.64 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 | 1:14.48 | [Cliff Lam](https://www.worldcubeassociation.org/persons/2023LAMC05) |
 | 1:14.65 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
-| 1:14.79 | [Zachary Fogg](https://www.worldcubeassociation.org/persons/2022FOGG01) |
 
 ### Pyraminx
 

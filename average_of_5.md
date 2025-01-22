@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -117,8 +117,8 @@
 | 36.69 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 36.06, 33.49, 43.10, 38.86, 35.15 |
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |
 | 39.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 41.54, 40.17, 42.28, 36.69, 35.87 |
+| 40.48 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.59, 39.20, 37.93, 44.31, 37.90 |
 | 40.98 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 33.85, 45.19, 43.39, 40.50, 39.06 |
-| 41.00 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 46.97, 45.15, 36.17, 37.01, 40.83 |
 | 43.14 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 40.46, 45.58, 43.38, 46.68, 38.80 |
 | 46.07 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 47.64, 48.40, 42.44, 46.35, 44.22 |
 | 47.25 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 45.71, 50.52, 47.79, 47.57, 46.40 |

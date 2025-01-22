@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 January 2025*
+*Updated on 22 January 2025*
 
 
 ### Rubik's Cube
@@ -83,15 +83,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 27.72 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024/results/by_person#2018GRAI01) |
+| 27.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.31 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 | 28.35 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2018GRAI01) |
 | 28.65 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
+| 28.81 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.82 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2018GRAI01) |
 | 28.91 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2018GRAI01) |
+| 29.01 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 29.02 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2018GRAI01) |
-| 29.06 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/by_person#2018GRAI01) |
-| 29.14 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2018GRAI01) |
-| 29.36 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 
 ### Pyraminx
 
