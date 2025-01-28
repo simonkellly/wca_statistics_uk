@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -12,6 +12,7 @@
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) |
 | 1 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 

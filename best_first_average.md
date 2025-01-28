@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- |
 | 9.12 | [Adrian Forshaw](https://www.worldcubeassociation.org/persons/2024FORS07) |
 | 9.26 | [Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01) |
+| 9.36 | [Yik Hei Wong (黃奕希)](https://www.worldcubeassociation.org/persons/2025WONG02) |
 | 9.39 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 9.63 | [Danyar Ahmed](https://www.worldcubeassociation.org/persons/2024AHME22) |
 | 9.64 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
@@ -17,7 +18,6 @@
 | 9.92 | [Connor Deane](https://www.worldcubeassociation.org/persons/2024DEAN01) |
 | 10.15 | [Jason Hoang Vu](https://www.worldcubeassociation.org/persons/2024VUJA01) |
 | 10.20 | [Kingsley Vuong](https://www.worldcubeassociation.org/persons/2023VUON03) |
-| 10.27 | [Kevin De Zhong Liu](https://www.worldcubeassociation.org/persons/2024LIUK01) |
 
 ### 2x2x2 Cube
 
@@ -38,6 +38,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 38.83 | [Yik Hei Wong (黃奕希)](https://www.worldcubeassociation.org/persons/2025WONG02) |
 | 39.74 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 40.26 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 41.73 | [Eunyul Ko (고은율)](https://www.worldcubeassociation.org/persons/2023KOEU01) |
@@ -47,7 +48,6 @@
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 44.23 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) |
 | 44.83 | [Ray Chen](https://www.worldcubeassociation.org/persons/2022CHEN10) |
-| 45.35 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 
 ### 5x5x5 Cube
 

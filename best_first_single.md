@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 36.08 | [Yik Hei Wong (黃奕希)](https://www.worldcubeassociation.org/persons/2025WONG02) |
 | 37.89 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 39.71 | [Eunyul Ko (고은율)](https://www.worldcubeassociation.org/persons/2023KOEU01) |
 | 41.81 | [Hyunwoo Lee](https://www.worldcubeassociation.org/persons/2022LEEH03) |
@@ -47,7 +48,6 @@
 | 42.87 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 42.97 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 43.38 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
-| 43.47 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 
 ### 5x5x5 Cube
 

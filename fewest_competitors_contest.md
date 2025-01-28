@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -285,6 +285,7 @@
 | 1 | [DY Patil Cube Open 2020](https://www.worldcubeassociation.org/competitions/DYPatilCubeOpen2020) |
 | 1 | [Dyssegården Uden Sko 2022](https://www.worldcubeassociation.org/competitions/DyssegaardenUdenSko2022) |
 | 1 | [East German Open 2010](https://www.worldcubeassociation.org/competitions/EastGermanOpen2010) |
+| 1 | [Écija Open 2025](https://www.worldcubeassociation.org/competitions/EcijaOpen2025) |
 | 1 | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 1 | [Edukent Weekend 2022](https://www.worldcubeassociation.org/competitions/EdukentWeekend2022) |
 | 1 | [Efterårscubing i Hvidovre 2023](https://www.worldcubeassociation.org/competitions/EfterarscubingiHvidovre2023) |
@@ -445,6 +446,7 @@
 | 1 | [Ho'oholo in Honolulu 2023](https://www.worldcubeassociation.org/competitions/HooholoinHonolulu2023) |
 | 1 | [Hsinchu Winter 2013](https://www.worldcubeassociation.org/competitions/HsinchuWinter2013) |
 | 1 | [Hudiksvall Open 2023](https://www.worldcubeassociation.org/competitions/HudiksvallOpen2023) |
+| 1 | [Hungarian All-Rounder 1 2025](https://www.worldcubeassociation.org/competitions/HungarianAllRounder1Avengers2025) |
 | 1 | [Hungarian Open 2009](https://www.worldcubeassociation.org/competitions/HungarianOpen2009) |
 | 1 | [Hungarian Open 2023](https://www.worldcubeassociation.org/competitions/HungarianOpen2023) |
 | 1 | [HUST Special Cubes Open 2017](https://www.worldcubeassociation.org/competitions/HUSTSpecialCubesOpen2017) |
@@ -455,6 +457,7 @@
 | 1 | [Hvidovre Fall 2023](https://www.worldcubeassociation.org/competitions/HvidovreFall2023) |
 | 1 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 1 | [Hvidovre Julecubing 2024](https://www.worldcubeassociation.org/competitions/HvidovreJulecubing2024) |
+| 1 | [Hvidovre Mini Januar 2025](https://www.worldcubeassociation.org/competitions/HvidovreMiniJanuar2025) |
 | 1 | [Hvidovre Sommer 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommer2024) |
 | 1 | [Hvidovre Sommer & Efterår 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommerEfterar2024) |
 | 1 | [Hyderabad Cube Open 2019](https://www.worldcubeassociation.org/competitions/HyderabadCubeOpen2019) |
@@ -1463,6 +1466,7 @@
 | 6 | [Turnin' in Termonfeckin Sat 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSat2023) |
 | 6 | [Turnin' in Termonfeckin Sun 2023](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSun2023) |
 | 6 | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009) |
+| 7 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025) |
 | 7 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 7 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 7 | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |

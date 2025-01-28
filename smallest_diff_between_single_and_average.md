@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -24,6 +24,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 6.14 | 6.17 | [Wiler Würfelfest 2017](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2017/results/by_person#2015PATO01) |
+| 0.04 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 1.20 | 1.24 | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2018ALON07) |
 | 0.04 | [Jessica Singleton](https://www.worldcubeassociation.org/persons/2022SING18) | 4.79 | 4.83 | [Edinburgh Summer 2023](https://www.worldcubeassociation.org/competitions/EdinburghSummer2023/results/by_person#2022SING18) |
 | 0.05 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | 1.80 | 1.85 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022ASGA01) |
 | 0.05 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 1.98 | 2.03 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
@@ -32,7 +33,6 @@
 | 0.06 | [Matthew Ayre](https://www.worldcubeassociation.org/persons/2018AYRE02) | 3.65 | 3.71 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2018AYRE02) |
 | 0.06 | [Kendall Picton](https://www.worldcubeassociation.org/persons/2024PICT01) | 3.86 | 3.92 | [Puerto Real Camaleón Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2024/results/by_person#2024PICT01) |
 | 0.06 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 4.16 | 4.22 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019/results/by_person#2016HARL01) |
-| 0.07 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | 1.34 | 1.41 | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2022TURN10) |
 
 ### 4x4x4 Cube
 
@@ -113,7 +113,9 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.07 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) | 16.80 | 16.87 | [Dublin Winter Solving 2025](https://www.worldcubeassociation.org/competitions/DublinWinterSolving2025/results/by_person#2023HAMI12) |
 | 0.11 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) | 16.41 | 16.52 | [Guildford Autumn 2023](https://www.worldcubeassociation.org/competitions/GuildfordAutumn2023/results/by_person#2017BEVA01) |
+| 0.11 | [Jesse Cohen](https://www.worldcubeassociation.org/persons/2023COHE05) | 23.21 | 23.32 | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2023COHE05) |
 | 0.12 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.80 | 8.92 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 0.18 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 9.24 | 9.42 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2020ARCH01) |
 | 0.20 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 16.34 | 16.54 | [Lincoln Summer 2022](https://www.worldcubeassociation.org/competitions/LincolnSummer2022/results/by_person#2018STOK01) |
@@ -121,8 +123,6 @@
 | 0.20 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 18.87 | 19.07 | [Stevenage Autumn A 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnA2022/results/by_person#2011MOLL01) |
 | 0.21 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 14.24 | 14.45 | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2019MORG10) |
 | 0.21 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 18.51 | 18.72 | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024/results/by_person#2016RIDL01) |
-| 0.21 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | 18.90 | 19.11 | [Edinburgh Summer 2023](https://www.worldcubeassociation.org/competitions/EdinburghSummer2023/results/by_person#2023KERL01) |
-| 0.21 | [Carter Hazley](https://www.worldcubeassociation.org/persons/2022HAZL01) | 22.59 | 22.80 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2022HAZL01) |
 
 ### Megaminx
 

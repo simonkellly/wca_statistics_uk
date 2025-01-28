@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **26** | 32 | 26 | 84 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **26** | 13 | 5 | 44 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 33 | 40 | 97 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 34 | 40 | 98 |
 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **24** | 18 | 19 | 61 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21** | 6 | 1 | 28 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **20** | 38 | 36 | 94 |
@@ -26,7 +26,7 @@
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **7** | 6 | 8 | 21 |
 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **7** | 0 | 2 | 9 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **6** | 3 | 4 | 13 |
-| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **5** | 8 | 8 | 21 |
+| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **5** | 9 | 8 | 22 |
 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | **5** | 3 | 6 | 14 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5** | 3 | 0 | 8 |
 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | **5** | 2 | 2 | 9 |

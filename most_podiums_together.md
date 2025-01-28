@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Pairs
@@ -64,6 +64,7 @@
 | 14 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 14 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 14 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) |
+| 13 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 13 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 13 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
@@ -98,7 +99,6 @@
 | 10 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) & [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 10 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) & [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 9 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) & [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
-| 9 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 9 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) & [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 9 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |

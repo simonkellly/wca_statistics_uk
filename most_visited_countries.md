@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -28,22 +28,22 @@
 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 8 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 8 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) |
-| 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
+| 7 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 | 7 | [Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01) |
+| 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
 | 7 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) |
 | 7 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) |
 | 7 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
-| 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
-| 6 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 6 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) |
+| 6 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 6 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 6 | [Steve Clarke](https://www.worldcubeassociation.org/persons/2015CLAR13) |
 | 6 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) |
-| 6 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
+| 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 6 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) |
 | 6 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 6 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 | 6 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
+| 6 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 6 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
 | 6 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
 | 5 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |

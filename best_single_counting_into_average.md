@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -13,10 +13,10 @@
 | 5.56 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2014MILL04) |
 | 5.56 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024/results/by_person#2018ALON07) |
 | 5.61 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2018ALON07) |
+| 5.64 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2018ALON07) |
 | 5.66 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire December 2023](https://www.worldcubeassociation.org/competitions/WiltshireDecember2023/results/by_person#2018ALON07) |
 | 5.67 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2014MILL04) |
 | 5.72 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023/results/by_person#2018ALON07) |
-| 5.72 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023/results/by_person#2014MILL04) |
 
 ### 2x2x2 Cube
 
@@ -41,12 +41,12 @@
 | 24.83 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 24.88 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 25.14 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2022DAVI06) |
+| 25.26 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2014JAYE01) |
 | 25.63 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | [Bristol Winter Open 2024](https://www.worldcubeassociation.org/competitions/BristolWinterOpen2024/results/by_person#2022CHIU06) |
 | 25.72 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/by_person#2019MORG10) |
 | 25.87 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2014JAYE01) |
 | 25.96 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
 | 26.18 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2022DAVI06) |
-| 26.21 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2017CHAM09) |
 
 ### 5x5x5 Cube
 
@@ -67,16 +67,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 8.04 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.15 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023/results/by_person#2020ARCH01) |
+| 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.32 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
+| 8.42 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.47 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
 | 8.50 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024/results/by_person#2020ARCH01) |
 | 8.54 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2020ARCH01) |
-| 8.55 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024/results/by_person#2020ARCH01) |
-| 8.56 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024/results/by_person#2020ARCH01) |
-| 8.57 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
-| 8.59 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Glasgow Spring 2024](https://www.worldcubeassociation.org/competitions/GlasgowSpring2024/results/by_person#2020ARCH01) |
 
 ### Megaminx
 
@@ -116,12 +116,12 @@
 | 2.76 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2022DUNN03) |
 | 2.79 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
 | 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 2.82 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
+| 2.83 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
 | 2.84 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/by_person#2019MORG10) |
 | 2.88 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
 | 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.91 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2019MORG10) |
-| 2.93 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2020BURN06) |
-| 2.96 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/by_person#2019MORG10) |
 
 ### Skewb
 
@@ -130,19 +130,20 @@
 | 1.69 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2019BENC04) |
 | 1.74 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024/results/by_person#2019BENC04) |
 | 1.80 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024/results/by_person#2019BENC04) |
+| 1.89 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2015SCHO05) |
 | 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Israel Open 2024](https://www.worldcubeassociation.org/competitions/IsraelOpen2024/results/by_person#2019BENC04) |
 | 1.96 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2014SCHW02) |
 | 1.99 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/by_person#2015SCHO05) |
 | 2.01 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2019BENC04) |
 | 2.03 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2019BENC04) |
 | 2.03 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Israel Open 2024](https://www.worldcubeassociation.org/competitions/IsraelOpen2024/results/by_person#2019BENC04) |
-| 2.03 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Stevenage Beginners Sep B 2024](https://www.worldcubeassociation.org/competitions/StevenageBeginnersSepB2024/results/by_person#2019BENC04) |
 
 ### Square-1
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 5.86 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2024CORK01) |
+| 6.40 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2024CORK01) |
 | 6.47 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2024CORK01) |
 | 6.51 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2023LOUF01) |
 | 6.57 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2024CORK01) |
@@ -151,7 +152,6 @@
 | 6.70 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2023LOUF01) |
 | 6.83 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024/results/by_person#2024CORK01) |
 | 6.89 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022/results/by_person#2016SIUM01) |
-| 6.93 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | [Wakefield Summer 2024](https://www.worldcubeassociation.org/competitions/WakefieldSummer2024/results/by_person#2024CORK01) |
 
 ### 3x3x3 With Feet
 

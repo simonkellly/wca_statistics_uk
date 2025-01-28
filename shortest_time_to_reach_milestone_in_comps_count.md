@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### 200 Competitions
@@ -108,11 +108,11 @@
 | 232 | [James Kyoichi Curry (ジェイムス 恭一)](https://www.worldcubeassociation.org/persons/2023CURR06) |
 | 233 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 246 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) |
+| 260 | [Liam Aleck-Cheong](https://www.worldcubeassociation.org/persons/2024ALEC02) |
 | 267 | [Reece McDonald](https://www.worldcubeassociation.org/persons/2022MCDO11) |
 | 267 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) |
 | 267 | [Elliot Allen](https://www.worldcubeassociation.org/persons/2023ALLE16) |
 | 268 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
-| 274 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 
 ### 5 Competitions
 

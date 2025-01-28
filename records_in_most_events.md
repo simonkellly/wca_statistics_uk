@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### World
@@ -14,6 +14,7 @@
 | 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | Clock |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 3x3x3 Fewest Moves |
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | 3x3x3 Fewest Moves |
+| 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | Square-1 |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) | Square-1 |
 | 1 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | Square-1 |
@@ -27,7 +28,6 @@
 | 0 | [Nikolozi Tarielashvili (ნიკოლოზ ტარიელაშვილი)](https://www.worldcubeassociation.org/persons/2013TARI02) |  |
 | 0 | [Giorgi Tarielashvili](https://www.worldcubeassociation.org/persons/2013TARI01) |  |
 | 0 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) |  |
-| 0 | [Zoe Orphanides](https://www.worldcubeassociation.org/persons/2013ORPH01) |  |
 
 ### Continental
 

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -100,6 +100,7 @@
 | ---: | :--- | :--- |
 | 72 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | [North Highlands Summer 2023](https://www.worldcubeassociation.org/competitions/NorthHighlandsSummer2023) |
 | 37 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Irish Championship 2022](https://www.worldcubeassociation.org/competitions/IrishChampionship2022) |
+| 34 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) |
 | 29 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | [Asian Championship 2022](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2022) |
 | 29 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | [Leicestershire Autumn 2024](https://www.worldcubeassociation.org/competitions/LeicestershireAutumn2024) |
 | 26 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) |
@@ -107,7 +108,6 @@
 | 25 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) | [Bristol Winter Open 2024](https://www.worldcubeassociation.org/competitions/BristolWinterOpen2024) |
 | 23 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [Vinderup Open 2016](https://www.worldcubeassociation.org/competitions/VinderupOpen2016) |
 | 23 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | [Mind Sports Olympiad Cubing 2023](https://www.worldcubeassociation.org/competitions/MindSportsOlympiadCubing2023) |
-| 23 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [ABHC 2018](https://www.worldcubeassociation.org/competitions/ABHC2018) |
 
 ### 3x3x3 Fewest Moves
 

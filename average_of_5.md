@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -22,7 +22,6 @@
 | 1.20 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 0.98, 0.98, 1.50, 1.26, 1.37 |
 | 1.61 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 1.94 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 3.36, 2.66, 1.90, 1.04, 1.25 |
-| 2.06 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) | 2.78, 1.83, 1.88, 2.05, 2.26 |
 | 3.24 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 3.92, 0.74, 2.49, 3.48, 3.75 |
 
 ### 4x4x4 Cube
@@ -101,7 +100,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 8.22 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.60, 7.50, 9.42, 8.56, 7.16 |
+| 7.89 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8.32, 7.02, 7.31, 10.50, 8.04 |
 | 10.22 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 13.10, 10.05, 9.91, 8.55, 10.71 |
 | 10.28 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 8.00, 11.86, 9.87, 14.72, 9.12 |
 | 10.41 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 12.08, 10.21, 9.30, 11.42, 9.59 |
@@ -143,8 +142,8 @@
 | 2.89 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 2.76, 2.70, 2.88, 4.18, 3.04 |
 | 2.99 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2.96, 2.84, 3.31, 2.70, 3.17 |
 | 3.15 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.76, 2.77, 2.80, 6.14, 2.89 |
+| 3.16 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 2.91, 3.69, 3.48, 2.98, 3.02 |
 | 3.28 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 3.58, 3.19, 3.40, 3.12, 3.25 |
-| 3.39 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 2.67, 3.62, 3.27, 3.99, 3.29 |
 | 3.56 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2.76, 3.12, 4.14, 3.56, 4.01 |
 | 3.59 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 3.31, 2.74, 3.74, 4.50, 3.73 |
 | 3.85 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | 4.14, 14.61, 3.44, 3.25, 3.97 |
@@ -156,8 +155,8 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 1.17, 4.39, 1.68, 2.28, 1.80 |
+| 2.19 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 2.43, 4.47, 1.85, 1.89, 2.24 |
 | 2.41 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 6.77, 1.96, 2.85, 2.43, 1.84 |
-| 2.47 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 1.41, 5.56, 2.33, 3.26, 1.83 |
 | 3.58 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 2.86, 3.66, 5.89, 3.15, 3.92 |
 | 6.66 | [Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05) | 6.80, 6.78, 4.76, 10.75, 6.39 |
 
@@ -170,7 +169,7 @@
 | 7.23 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 6.46, 9.26, 7.75, 7.32, 6.61 |
 | 7.70 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7.52, 7.48, 7.22, 9.27, 8.10 |
 | 7.95 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.68, 6.28, 10.64, 8.33, 6.85 |
-| 8.33 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 7.88, 12.90, 9.23, 6.89, 7.88 |
+| 8.63 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 7.16, 13.36, 7.92, 10.12, 7.86 |
 | 9.43 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.99, 10.34, 11.96, 6.30, 10.97 |
 | 9.49 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 9.15, 13.65, 9.54, 7.71, 9.77 |
 | 10.04 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 8.78, 10.43, 10.45, 12.18, 9.24 |

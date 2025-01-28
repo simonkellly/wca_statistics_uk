@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### World
@@ -27,6 +27,7 @@
 | 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 | 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/by_person#2022BROW01) |
+| 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 
 ### Continental
 
