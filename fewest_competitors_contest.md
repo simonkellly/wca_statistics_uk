@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -565,6 +565,7 @@
 | 1 | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) |
 | 1 | [Lördagskuben Skillingaryd 2023](https://www.worldcubeassociation.org/competitions/LordagskubenSkillingaryd2023) |
 | 1 | [Lužice 3x3 Day 2023](https://www.worldcubeassociation.org/competitions/Luzice3x3Day2023) |
+| 1 | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) |
 | 1 | [Lyon Sinterklaas Open 2010](https://www.worldcubeassociation.org/competitions/LyonSinterklaasOpen2010) |
 | 1 | [Lyon Spring Open 2009](https://www.worldcubeassociation.org/competitions/LyonSpringOpen2009) |
 | 1 | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021) |

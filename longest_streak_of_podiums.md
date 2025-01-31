@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -69,13 +69,13 @@
 | 9 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6x6x6 Cube | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | Master Magic | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 8 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Clock | [Taylor's Cube 2013](https://www.worldcubeassociation.org/competitions/TaylorOpen2013) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 8 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 3x3x3 With Feet | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
@@ -85,8 +85,8 @@
 | 8 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 3x3x3 Blindfolded | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019) | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019) |
 | 8 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 3x3x3 Fewest Moves | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 8 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | Skewb | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
-| 8 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 4x4x4 Cube | [Palmerston North 2021](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2021) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
 | 8 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 3x3x3 One-Handed | [NZ SIC 2021](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2021) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
+| 8 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 4x4x4 Cube | [Palmerston North 2021](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2021) | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022) |
 | 8 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | Square-1 | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 8 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | Square-1 | [East London Autumn 2022](https://www.worldcubeassociation.org/competitions/EastLondonAutumn2022) |  |
 | 8 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | Square-1 | [Wiltshire Summer 2023](https://www.worldcubeassociation.org/competitions/WiltshireSummer2023) | [Kent Autumn 2023](https://www.worldcubeassociation.org/competitions/KentAutumn2023) |

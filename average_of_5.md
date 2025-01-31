@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 
 ### Rubik's Cube
@@ -64,7 +64,6 @@
 | 2:12.75 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:03.41, 2:16.40, 2:22.59, 2:04.36, 2:17.48 |
 | 2:24.76 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:20.12, 2:41.28, 2:20.91, 2:27.73, 2:25.63 |
 | 2:28.16 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:34.84, 2:22.08, 2:25.89, 2:32.76, 2:25.84 |
-| 2:31.63 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2:44.18, 2:26.12, 2:24.58, 2:49.12, 2:23.30 |
 
 ### 3x3x3 Blindfolded
 
