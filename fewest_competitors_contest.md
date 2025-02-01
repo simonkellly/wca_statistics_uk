@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 31 January 2025*
+*Updated on  1 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1153,6 +1153,7 @@
 | 2 | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) |
 | 2 | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023) |
 | 2 | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016) |
+| 2 | [ DIA EH Cube for Change B 2025](https://www.worldcubeassociation.org/competitions/DIAEHCubeforChangeDubaiB2025) |
 | 2 | [Douvrin Open 2023](https://www.worldcubeassociation.org/competitions/DouvrinOpen2023) |
 | 2 | [Douvrin Open 2024](https://www.worldcubeassociation.org/competitions/DouvrinOpen2024) |
 | 2 | [Drammen Open 2024](https://www.worldcubeassociation.org/competitions/DrammenOpen2024) |
