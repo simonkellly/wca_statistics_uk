@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -131,12 +131,12 @@
 | 0.41 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 29.96 | 30.37 | [Wiltshire March 2024](https://www.worldcubeassociation.org/competitions/WiltshireMarch2024/results/by_person#2018GRAI01) |
 | 0.50 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 43.22 | 43.72 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2017DAVI03) |
 | 0.55 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) | 56.57 | 57.12 | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022/results/by_person#2016LANG12) |
-| 0.58 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 46.44 | 47.02 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2017CHAM09) |
+| 0.58 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 46.44 | 47.02 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2017CHAM09) |
 | 0.73 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 54.89 | 55.62 | [Weston-super-Mare Spring 2023](https://www.worldcubeassociation.org/competitions/WestonsuperMareSpring2023/results/by_person#2012HALE01) |
 | 0.76 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 59.83 | 1:00.59 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/by_person#2012HALE01) |
 | 0.80 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 39.87 | 40.67 | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023/results/by_person#2014MILL04) |
 | 0.81 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) | 54.46 | 55.27 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022CRIP01) |
-| 0.84 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 57.77 | 58.61 | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2017CHAM09) |
+| 0.84 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 57.77 | 58.61 | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/by_person#2017CHAM09) |
 | 0.85 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 44.28 | 45.13 | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/by_person#2022PART02) |
 
 ### Pyraminx

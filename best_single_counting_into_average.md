@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -115,12 +115,12 @@
 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2022DUNN03) |
 | 2.76 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2022DUNN03) |
 | 2.79 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
-| 2.80 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 2.80 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.82 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
 | 2.83 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
 | 2.84 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/by_person#2019MORG10) |
 | 2.88 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
-| 2.89 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 2.89 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.91 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2019MORG10) |
 
 ### Skewb

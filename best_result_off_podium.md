@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -54,8 +54,8 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 48.32 | **51.71** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e555_f) | 13 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 46.59 | **51.87** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 4 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 50.47 | **52.28** | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/all#e555_c) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 46.59 | **51.87** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 50.47 | **52.28** | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/all#e555_c) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 47.60 | **52.97** | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/all#e555_f) | 4 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 51.06 | **53.19** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 6 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 47.09 | **54.07** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e555_f) | 12 |
@@ -71,10 +71,10 @@
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:31.03 | **1:37.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e666_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:33.52 | **1:38.20** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 17 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:27.51 | **1:39.45** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 7 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:32.80 | **1:40.95** | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024/results/all#e666_f) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:32.80 | **1:40.95** | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024/results/all#e666_f) | 4 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:37.00 | **1:41.12** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e666_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:34.16 | **1:41.73** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e666_f) | 5 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:35.98 | **1:43.86** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:35.98 | **1:43.86** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 4 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:38.66 | **1:44.33** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 5 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:40.87 | **1:44.58** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 20 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 1:42.32 | **1:45.25** | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024/results/all#e666_f) | 4 |
@@ -173,11 +173,11 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46 | **3.80** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.46 | **3.80** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#eclock_f) | 4 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 2.83 | **3.94** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 4 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 2.90 | **4.07** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 5 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.15 | **4.18** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 4 |
-| [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.72 | **4.21** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 5 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.72 | **4.21** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 5 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.31 | **4.26** | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/all#eclock_f) | 4 |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 2.76 | **4.56** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 6 |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 4.03 | **4.57** | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/all#eclock_c) | 4 |

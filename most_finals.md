@@ -1,20 +1,20 @@
 ## Most finals
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
 | 1513 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1306 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1314 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 933 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 836 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 836 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 765 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 759 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 757 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
-| 744 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 748 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 698 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 609 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |

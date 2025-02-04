@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 105 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 99 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 99 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 85 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 73 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 60 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |

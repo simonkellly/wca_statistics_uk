@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 | 35 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) | [Stevenage September 2023](https://www.worldcubeassociation.org/competitions/StevenageSeptember2023) |
 | 35 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | [Wiltshire Summer 2023](https://www.worldcubeassociation.org/competitions/WiltshireSummer2023) | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024) |
 | 34 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Cuthberts Open 2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
-| 34 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [Cheltenham Summer 2022](https://www.worldcubeassociation.org/competitions/CheltenhamSummer2022) |
+| 34 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [UK Championship 2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017) | [Cheltenham Summer 2022](https://www.worldcubeassociation.org/competitions/CheltenhamSummer2022) |
 | 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) |
 | 34 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Chester Spring 2022](https://www.worldcubeassociation.org/competitions/ChesterSpring2022) |  |
 | 33 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |

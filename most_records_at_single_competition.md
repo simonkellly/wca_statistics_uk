@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### World
@@ -24,8 +24,8 @@
 | 1 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017/results/by_person#2014STAR05) |
 | 1 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018/results/by_person#2014STAR05) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | [British Blind Off 2019](https://www.worldcubeassociation.org/competitions/TGBBO2019/results/by_person#2013SAVA01) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | [Rubik's UK Championship FMC 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2024/results/by_person#2022BROW01) |
 | 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 
@@ -60,7 +60,7 @@
 | 2 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | [Guildford Open 2016](https://www.worldcubeassociation.org/competitions/GuildfordOpen2016/results/by_person#2013CRON01) |
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016/results/by_person#2014TIPT01) |
 | 2 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | [Weston-super-Mare Open 2017](https://www.worldcubeassociation.org/competitions/WSMO2017/results/by_person#2013CRON01) |
-| 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
+| 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022/results/by_person#2017CHAM09) |
 
 ### National
 

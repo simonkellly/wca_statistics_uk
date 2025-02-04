@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Days | Person |
 | ---: | :--- |
@@ -38,7 +38,7 @@
 | 2464 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2485 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
 | 2534 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
-| 2577 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 2577 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2695 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 2744 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 2891 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |

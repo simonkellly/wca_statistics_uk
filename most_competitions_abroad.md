@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 196 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 197 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 103 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 88 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 60 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 61 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 59 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 54 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
@@ -46,7 +46,7 @@
 | 21 | [Gordon Findlay](https://www.worldcubeassociation.org/persons/2017FIND02) |
 | 20 | [Ian Gerleman](https://www.worldcubeassociation.org/persons/2015GERL02) |
 | 19 | [Kai Hatano](https://www.worldcubeassociation.org/persons/2022HATA01) |
-| 19 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 19 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 19 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 18 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) |
 | 18 | [Yunus Uludag](https://www.worldcubeassociation.org/persons/2022ULUD01) |
@@ -62,6 +62,7 @@
 | 16 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 15 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 15 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) |
+| 15 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
 | 15 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 15 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) |
 | 15 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
@@ -70,7 +71,6 @@
 | 14 | [Oliver Crook](https://www.worldcubeassociation.org/persons/2022CROO02) |
 | 14 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 14 | [Daniel Hussain Mohammadi](https://www.worldcubeassociation.org/persons/2017MOHA13) |
-| 14 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
 | 14 | [Joh Fujita (藤田丈)](https://www.worldcubeassociation.org/persons/2022FUJI02) |
 | 14 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
 | 14 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) |

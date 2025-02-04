@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -268,6 +268,7 @@
 | 1 | [DSF Generalforsamlingen 2022](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2022) |
 | 1 | [DSF Generalforsamlingen 2023](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2023) |
 | 1 | [DSF Generalforsamlingen 2024](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2024) |
+| 1 | [DSF Generalforsamlingen 2025](https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2025) |
 | 1 | [DSK Cube Open 2023](https://www.worldcubeassociation.org/competitions/DSKCubeOpen2023) |
 | 1 | [Dunwoody Day Bash 2019](https://www.worldcubeassociation.org/competitions/DunwoodyDayBash2019) |
 | 1 | [DuPage Winter 2024](https://www.worldcubeassociation.org/competitions/DuPageWinter2024) |
@@ -469,6 +470,7 @@
 | 1 | [IISER Pune Cube Open 2022](https://www.worldcubeassociation.org/competitions/IISERPuneCubeOpen2022) |
 | 1 | [IISER Pune Winter Open 2024](https://www.worldcubeassociation.org/competitions/IISERPuneWinterOpen2024) |
 | 1 | [Ikast Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/IkastWinterCubing2023) |
+| 1 | [Ileseum Cube Open 2025](https://www.worldcubeassociation.org/competitions/IleseumCubeOpen2025) |
 | 1 | [Iloilo Speedcubing Open 2017](https://www.worldcubeassociation.org/competitions/IloiloSpeedcubingOpen2017) |
 | 1 | [Indian Nationals 2017](https://www.worldcubeassociation.org/competitions/IndianNationals2017) |
 | 1 | [Indian Nationals 2018](https://www.worldcubeassociation.org/competitions/IndianNationals2018) |
@@ -559,6 +561,7 @@
 | 1 | [Lisieux Open 2022](https://www.worldcubeassociation.org/competitions/LisieuxOpen2022) |
 | 1 | [Lithuanian Open 2017](https://www.worldcubeassociation.org/competitions/LithuanianOpen2017) |
 | 1 | [Little Giant Open 2024](https://www.worldcubeassociation.org/competitions/LittleGiantOpen2024) |
+| 1 | [Ljubljana Blind Open 2025](https://www.worldcubeassociation.org/competitions/LjubljanaBlindOpen2025) |
 | 1 | [Lleida Open 2024](https://www.worldcubeassociation.org/competitions/LleidaOpen2024) |
 | 1 | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) |
 | 1 | [London Winter A 2023](https://www.worldcubeassociation.org/competitions/LondonWinterA2023) |
@@ -741,6 +744,7 @@
 | 1 | [Palmerston North 2022](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2022) |
 | 1 | [Pangasinan Speedcubing Open 2023](https://www.worldcubeassociation.org/competitions/PangasinanSpeedcubingOpen2023) |
 | 1 | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024) |
+| 1 | [Parets Open 2025](https://www.worldcubeassociation.org/competitions/ParetsOpen2025) |
 | 1 | [Paris Open 2019](https://www.worldcubeassociation.org/competitions/ParisOpen2019) |
 | 1 | [Parity i København 2023](https://www.worldcubeassociation.org/competitions/ParityiKobenhavn2023) |
 | 1 | [Parla Open 2018](https://www.worldcubeassociation.org/competitions/ParlaOpen2018) |
@@ -1218,6 +1222,7 @@
 | 2 | [Melbourne Cube Days 2023](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2023) |
 | 2 | [Melbourne Summer 2014](https://www.worldcubeassociation.org/competitions/MelbourneSummer2014) |
 | 2 | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024) |
+| 2 | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025) |
 | 2 | [Melbourne Winter 2012](https://www.worldcubeassociation.org/competitions/MelbourneWinter2012) |
 | 2 | [Melbourne Winter 2014](https://www.worldcubeassociation.org/competitions/MelbourneWinter2014) |
 | 2 | [MIT Fall 2009](https://www.worldcubeassociation.org/competitions/MITFall2009) |

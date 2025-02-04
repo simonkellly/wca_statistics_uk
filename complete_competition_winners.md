@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -19,10 +19,10 @@
 | 5 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | United Kingdom | [Kublördag Jönköping II - 2024](https://www.worldcubeassociation.org/competitions/KublordagJonkopingII2024) |
 | 4 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Melaka Open 2014](https://www.worldcubeassociation.org/competitions/MelakaOpen2014) |
 | 4 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Singapore Open 2014](https://www.worldcubeassociation.org/competitions/SingaporeOpen2014) |
+| 4 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Anime Adventure III 2023](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIII2023) |
 | 4 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Dublin Open Saturday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSaturday2022) |
 | 4 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Swisscubing Cup MB I 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupMentalBreakdow2024) |
 | 4 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Swiss Nationals 2022](https://www.worldcubeassociation.org/competitions/SwissNationals2022) |
-| 4 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Anime Adventure III 2023](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIII2023) |
 | 4 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [Henrik Laver Party 2010](https://www.worldcubeassociation.org/competitions/HenrikLaverParty2010) |
 | 4 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | United Kingdom | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
 | 4 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | China | [Blind in Aveiro 2024](https://www.worldcubeassociation.org/competitions/BlindinAveiro2024) |
@@ -39,12 +39,12 @@
 | 3 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Danish Open 2016](https://www.worldcubeassociation.org/competitions/DanishOpen2016) |
 | 3 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Kjeller Open 2016](https://www.worldcubeassociation.org/competitions/KjellerOpen2016) |
 | 3 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | United Kingdom | [Bornholm Open 2024](https://www.worldcubeassociation.org/competitions/BornholmOpen2024) |
+| 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Kanonkuben 2024](https://www.worldcubeassociation.org/competitions/Kanonkuben2024) |
 | 3 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [New Zealand Nationals 2015](https://www.worldcubeassociation.org/competitions/NewZealandNationals2015) |
 | 3 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [New Zealand Nationals 2019](https://www.worldcubeassociation.org/competitions/NewZealandNationals2019) |
 | 3 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Tassie Summer 2023](https://www.worldcubeassociation.org/competitions/TassieSummer2023) |
 | 3 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Turning in Townsville 2023](https://www.worldcubeassociation.org/competitions/TurninginTownsville2023) |
 | 3 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | United Kingdom | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) |
-| 3 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Kanonkuben 2024](https://www.worldcubeassociation.org/competitions/Kanonkuben2024) |
 | 3 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | United Kingdom | [Italian Open 2017](https://www.worldcubeassociation.org/competitions/ItalianOpen2017) |
 | 3 | [Mitchell Chiew](https://www.worldcubeassociation.org/persons/2011CHIE01) | Australia | [Perth Puzzle Championship 2011](https://www.worldcubeassociation.org/competitions/PerthPuzzle2011) |
 | 3 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | United Kingdom | [ACA League II - Ganja 2024](https://www.worldcubeassociation.org/competitions/ACALeagueIIGanja2024) |
@@ -65,6 +65,8 @@
 | 2 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Swedish Championship 2017](https://www.worldcubeassociation.org/competitions/SwedishChampionship2017) |
 | 2 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Swisscubing Cup Final 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2019) |
 | 2 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | United Kingdom | [Vinderup Open 2016](https://www.worldcubeassociation.org/competitions/VinderupOpen2016) |
+| 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Nyköping Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/NykopingWinterCubing2023) |
+| 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024) |
 | 2 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Flatåsen Open 2023](https://www.worldcubeassociation.org/competitions/FlatasenOpen2023) |
 | 2 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Lyttelton Spring 2021](https://www.worldcubeassociation.org/competitions/LytteltonSpring2021) |
 | 2 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Melbourne Summer 2023](https://www.worldcubeassociation.org/competitions/MelbourneSummer2023) |
@@ -76,8 +78,6 @@
 | 2 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Swiss Science Open 2018](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2018) |
 | 2 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | United Kingdom | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024) |
 | 2 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | United Kingdom | [Příbram Cube 2023](https://www.worldcubeassociation.org/competitions/PribramCube2023) |
-| 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Nyköping Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/NykopingWinterCubing2023) |
-| 2 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024) |
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | South Africa | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | South Africa | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
 | 2 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [Toulouse Open 2010](https://www.worldcubeassociation.org/competitions/ToulouseOpen2010) |
@@ -132,6 +132,13 @@
 | 1 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | United Kingdom | [Open Cube Project 2015](https://www.worldcubeassociation.org/competitions/OpenCubeProject2015) |
 | 1 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | United Kingdom | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | United Kingdom | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Italian Championship 2021](https://www.worldcubeassociation.org/competitions/ItalianChampionship2021) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [SL 380: Det Hänger på Håret 2024](https://www.worldcubeassociation.org/competitions/SL380DetHangerpaHaret2024) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
+| 1 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024) |
 | 1 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | United Kingdom | [Sarzana Seaside Cubing 2022](https://www.worldcubeassociation.org/competitions/SarzanaSeasideCubing2022) |
 | 1 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Cape Cod 2023](https://www.worldcubeassociation.org/competitions/CapeCod2023) |
 | 1 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Dutch Open 2023](https://www.worldcubeassociation.org/competitions/DutchOpen2023) |
@@ -164,13 +171,6 @@
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [FMC Europe 2019](https://www.worldcubeassociation.org/competitions/FMCEurope2019) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [British Blind Off 2019](https://www.worldcubeassociation.org/competitions/TGBBO2019) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Italian Championship 2021](https://www.worldcubeassociation.org/competitions/ItalianChampionship2021) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [SL 380: Det Hänger på Håret 2024](https://www.worldcubeassociation.org/competitions/SL380DetHangerpaHaret2024) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [SST Naprawa 2021](https://www.worldcubeassociation.org/competitions/SSTNaprawa2021) |
-| 1 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024) |
 | 1 | [Jaidon Adams](https://www.worldcubeassociation.org/persons/2018ADAM11) | United Kingdom | [PärNuti Cubing 2022](https://www.worldcubeassociation.org/competitions/ParNutiCubing2022) |
 | 1 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | Ireland | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) |
 | 1 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | Ireland | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |

@@ -1,7 +1,7 @@
 ## Longest streak of competitions in own country
 
 *Note: The streak ends whenever the person doesn't participate in a competition in own country.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Competitions | Person | Country | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 | 8 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | United Kingdom | [High Wycombe Open 2019](https://www.worldcubeassociation.org/competitions/HighWycombeOpen2019) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
 | 8 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | United Kingdom | [Chester Open 2019](https://www.worldcubeassociation.org/competitions/ChesterOpen2019) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) |
 | 8 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | United Kingdom | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016) | [Guildford Open 2017](https://www.worldcubeassociation.org/competitions/GuildfordOpen2017) |
-| 8 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022) |
+| 8 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | United Kingdom | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) | [Farnworth Spring A 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringA2022) |
 | 8 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) | United Kingdom | [Stevenage Autumn B 2022](https://www.worldcubeassociation.org/competitions/StevenageAutumnB2022) | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) |
 | 8 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | Ireland | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) |
 | 7 | [Michael Erskine](https://www.worldcubeassociation.org/persons/2008ERSK01) | United Kingdom | [UK Open 2008](https://www.worldcubeassociation.org/competitions/UKOpen2008) | [Guildford Summer Open 2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011) |

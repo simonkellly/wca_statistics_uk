@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### 200 Competitions
@@ -22,7 +22,7 @@
 
 | Days | Person |
 | ---: | :--- |
-| 2563 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 2563 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2570 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 2836 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2976 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
@@ -54,7 +54,7 @@
 | 1752 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) |
 | 1828 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 1857 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 1913 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 1913 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 1982 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 1989 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 2003 | [Oscar Coleman Green](https://www.worldcubeassociation.org/persons/2018GREE09) |

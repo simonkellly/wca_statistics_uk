@@ -1,10 +1,10 @@
 ## Most visited countries
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | Countries | Person |
 | ---: | :--- |
-| 22 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 23 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 21 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 20 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 19 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
@@ -15,7 +15,7 @@
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 14 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 12 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 10 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 10 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 10 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 | 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 10 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |

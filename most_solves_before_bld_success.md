@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -45,7 +45,7 @@
 | 10 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 10 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 9 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 9 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 9 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 8 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 8 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 8 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) |
@@ -58,7 +58,7 @@
 | Attempts | Person |
 | ---: | :--- |
 | 48 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
-| 30 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 30 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 18 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 17 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 13 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
@@ -95,7 +95,7 @@
 | 3 | [Jialin Zhou](https://www.worldcubeassociation.org/persons/2013ZHOU19) |
 | 3 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 3 | [Cheung-Hao Tu](https://www.worldcubeassociation.org/persons/2016TUCH02) |
-| 3 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 3 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
 | 3 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 3 | [Hayden Wallace](https://www.worldcubeassociation.org/persons/2023WALL05) |

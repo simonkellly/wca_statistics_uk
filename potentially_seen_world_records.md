@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -62,7 +62,7 @@
 | 4 | [Leah Williams](https://www.worldcubeassociation.org/persons/2014WILL05) |
 | 4 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 4 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 4 | [Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 4 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 4 | [Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01) |
 | 4 | [Kevin De Silva](https://www.worldcubeassociation.org/persons/2013SILV06) |
 | 4 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
