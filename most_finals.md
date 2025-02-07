@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -97,11 +97,11 @@
 | 142 | [Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01) |
 | 141 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) |
 | 137 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
+| 136 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 135 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 | 135 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) |
 | 135 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |
 | 134 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
-| 133 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 133 | [Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04) |
 | 132 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) |
 

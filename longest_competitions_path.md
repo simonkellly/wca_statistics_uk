@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -95,6 +95,7 @@
 | [Bruno Mozsgai](https://www.worldcubeassociation.org/persons/2022MOZS01) | 19 596 km |
 | [Ian Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB02) | 19 571 km |
 | [Alexander Charles Macey](https://www.worldcubeassociation.org/persons/2018MACE01) | 19 335 km |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 19 324 km |
 | [Jirattha Nithimapinan](https://www.worldcubeassociation.org/persons/2018NITH01) | 19 217 km |
 | [Alan Williams](https://www.worldcubeassociation.org/persons/2018WILL31) | 19 095 km |
 | [Boyan Ma](https://www.worldcubeassociation.org/persons/2023MABO02) | 18 792 km |
@@ -111,7 +112,6 @@
 | [Thomas Stock](https://www.worldcubeassociation.org/persons/2011STOC01) | 18 195 km |
 | [Elliot Lewis Coode](https://www.worldcubeassociation.org/persons/2023COOD01) | 18 071 km |
 | [Michael Erskine](https://www.worldcubeassociation.org/persons/2008ERSK01) | 17 954 km |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 17 894 km |
 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) | 17 870 km |
 | [Ekko Balodimos-Mahi](https://www.worldcubeassociation.org/persons/2017BALO02) | 17 750 km |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 17 490 km |

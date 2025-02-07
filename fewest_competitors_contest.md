@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -619,6 +619,7 @@
 | 1 | [Mental Breakdown Hoorn 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownHoorn2024) |
 | 1 | [Mentallinn 2019](https://www.worldcubeassociation.org/competitions/Mentallinn2019) |
 | 1 | [Mind Games 2017](https://www.worldcubeassociation.org/competitions/MindGames2017) |
+| 1 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
 | 1 | [Mini Mental Uppsala 2024](https://www.worldcubeassociation.org/competitions/MiniMentalUppsala2024) |
 | 1 | [Minnesota Championship 2024](https://www.worldcubeassociation.org/competitions/MinnesotaChampionship2024) |
 | 1 | [Minx C-Open-hagen 2020](https://www.worldcubeassociation.org/competitions/MinxCOpenhagen2020) |
@@ -942,6 +943,7 @@
 | 1 | [STEM Cube Open Penang 2023](https://www.worldcubeassociation.org/competitions/STEMCubeOpenPenang2023) |
 | 1 | [STEM Educ8 2018](https://www.worldcubeassociation.org/competitions/STEMEduc82018) |
 | 1 | [Stockholmsligan 5: The Reds 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan5TheReds2023) |
+| 1 | [Stockholmsligan - Chui 2025](https://www.worldcubeassociation.org/competitions/StockholmsliganMbiliChui2025) |
 | 1 | [St Oliver's Speedy Sunday 2023](https://www.worldcubeassociation.org/competitions/StOliversSpeedySunday2023) |
 | 1 | [Saint-Raphaël Winter Open 2018](https://www.worldcubeassociation.org/competitions/StRaphaelWinterOpen2018) |
 | 1 | [Sturgeon Bay Big Cubes 2024](https://www.worldcubeassociation.org/competitions/SturgeonBayBigCubes2024) |

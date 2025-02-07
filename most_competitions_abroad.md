@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -29,9 +29,9 @@
 | 29 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 29 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 28 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
+| 26 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 26 | [Sean Findlay](https://www.worldcubeassociation.org/persons/2016FIND01) |
 | 25 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
-| 25 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 24 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 24 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
 | 23 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) |
@@ -41,8 +41,8 @@
 | 22 | [Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01) |
 | 22 | [Akshath Naveen Kumar](https://www.worldcubeassociation.org/persons/2019KUMA37) |
 | 22 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
-| 21 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 21 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) |
+| 21 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
 | 21 | [Gordon Findlay](https://www.worldcubeassociation.org/persons/2017FIND02) |
 | 20 | [Ian Gerleman](https://www.worldcubeassociation.org/persons/2015GERL02) |
 | 19 | [Kai Hatano](https://www.worldcubeassociation.org/persons/2022HATA01) |

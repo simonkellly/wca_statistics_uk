@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  4 February 2025*
+*Updated on  7 February 2025*
 
 
 ### Rubik's Cube
@@ -177,7 +177,7 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 5 |
+| [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |
 
 ### 3x3x3 Fewest Moves
 
@@ -417,12 +417,12 @@
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 11 |
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | 11 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 9 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 9 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 9 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 8 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 8 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 6 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 6 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | 5 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 5 |
 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 4 |
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 4 |
