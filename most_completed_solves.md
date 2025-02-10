@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | **12505** | 13141 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10581** | 11228 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10641** | 11290 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10068** | 10337 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **9166** | 9796 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **8237** | 8791 |
@@ -44,7 +44,7 @@
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **7567** | 8108 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **7031** | 7343 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **6924** | 7382 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **5925** | 6746 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **5954** | 6777 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **5678** | 6032 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **5575** | 5908 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5554** | 5979 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | United Kingdom | **788779** | 829580 |
 | Ireland | **16414** | 17334 |
-| Denmark | **11168** | 11853 |
+| Denmark | **11475** | 12170 |
 | Spain | **8570** | 9014 |
 | Switzerland | **6369** | 6601 |
 | United States | **6012** | 6342 |
@@ -71,7 +71,7 @@
 | Belgium | **2908** | 3113 |
 | India | **2776** | 2854 |
 | New Zealand | **2371** | 2490 |
-| Netherlands | **2175** | 2327 |
+| Netherlands | **2225** | 2379 |
 | Malaysia | **2125** | 2241 |
 | Poland | **1789** | 1874 |
 | Czech Republic | **1322** | 1409 |
@@ -82,8 +82,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **863438** | 908659 |
-| Asia | **10310** | 10866 |
+| Europe | **863795** | 909028 |
+| Asia | **10315** | 10871 |
 | Oceania | **7654** | 8033 |
 | North America | **6544** | 6906 |
 | South America | **684** | 709 |
@@ -103,7 +103,7 @@
 | 2016 | **26551** | 27929 |
 | 2015 | **23939** | 25325 |
 | 2014 | **20350** | 21509 |
-| 2025 | **19641** | 20612 |
+| 2025 | **20003** | 20986 |
 | 2020 | **18416** | 19569 |
 | 2013 | **13281** | 14086 |
 | 2012 | **7910** | 8400 |
@@ -119,18 +119,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **245827** | 250470 |
-| 2x2x2 Cube | **151713** | 155330 |
+| 3x3x3 Cube | **245916** | 250560 |
+| 2x2x2 Cube | **151773** | 155390 |
 | Pyraminx | **97311** | 99600 |
-| 4x4x4 Cube | **79502** | 83161 |
+| 4x4x4 Cube | **79585** | 83250 |
 | Skewb | **65847** | 67375 |
-| 3x3x3 One-Handed | **63459** | 65566 |
-| 5x5x5 Cube | **53474** | 55181 |
+| 3x3x3 One-Handed | **63464** | 65571 |
+| 5x5x5 Cube | **53533** | 55241 |
 | Clock | **32847** | 37832 |
 | Megaminx | **31475** | 33036 |
 | Square-1 | **27848** | 29026 |
-| 6x6x6 Cube | **11630** | 12065 |
-| 7x7x7 Cube | **9887** | 10301 |
+| 6x6x6 Cube | **11666** | 12102 |
+| 7x7x7 Cube | **9917** | 10334 |
 | 3x3x3 Blindfolded | **8417** | 20591 |
 | 3x3x3 Fewest Moves | **3461** | 4525 |
 | 3x3x3 With Feet | **1684** | 1866 |

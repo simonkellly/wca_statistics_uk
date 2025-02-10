@@ -1,24 +1,24 @@
 ## Most competitions abroad
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 197 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 198 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 103 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 88 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 61 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 59 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 62 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 60 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 54 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 42 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
-| 42 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
-| 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
-| 42 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 42 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
+| 42 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
+| 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
+| 42 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
+| 42 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 37 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 35 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
@@ -31,8 +31,8 @@
 | 28 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
 | 26 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 26 | [Sean Findlay](https://www.worldcubeassociation.org/persons/2016FIND01) |
+| 25 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 25 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
-| 24 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 24 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
 | 23 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) |
 | 23 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
@@ -41,8 +41,8 @@
 | 22 | [Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01) |
 | 22 | [Akshath Naveen Kumar](https://www.worldcubeassociation.org/persons/2019KUMA37) |
 | 22 | [Haotian Hu (胡皓天)](https://www.worldcubeassociation.org/persons/2022HUHA01) |
-| 21 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) |
 | 21 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) |
+| 21 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) |
 | 21 | [Gordon Findlay](https://www.worldcubeassociation.org/persons/2017FIND02) |
 | 20 | [Ian Gerleman](https://www.worldcubeassociation.org/persons/2015GERL02) |
 | 19 | [Kai Hatano](https://www.worldcubeassociation.org/persons/2022HATA01) |
@@ -55,11 +55,11 @@
 | 18 | [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) |
 | 18 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 17 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) |
+| 17 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 17 | [Subhadeep Sarkar](https://www.worldcubeassociation.org/persons/2017SARK01) |
 | 16 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) |
 | 16 | [Mathis Engelbrecht](https://www.worldcubeassociation.org/persons/2022ENGE02) |
 | 16 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |
-| 16 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) |
 | 15 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 15 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) |
 | 15 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
@@ -79,13 +79,13 @@
 | 13 | [James Blackwell](https://www.worldcubeassociation.org/persons/2022BLAC02) |
 | 13 | [David Forsell](https://www.worldcubeassociation.org/persons/2022FORS07) |
 | 13 | [Vihaan Palsapure](https://www.worldcubeassociation.org/persons/2023PALS01) |
-| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
+| 12 | [Zhimei Liu (刘智美)](https://www.worldcubeassociation.org/persons/2022LIUZ04) |
 | 12 | [Adejuwon Adebusuyi Oluwemimo](https://www.worldcubeassociation.org/persons/2022OLUW01) |
 | 12 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) |
 | 12 | [Eniko Luca Bachrati](https://www.worldcubeassociation.org/persons/2023BACH03) |
 | 12 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 12 | [Joe Yearl](https://www.worldcubeassociation.org/persons/2014YEAR01) |
-| 12 | [Zhimei Liu (刘智美)](https://www.worldcubeassociation.org/persons/2022LIUZ04) |
+| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 12 | [Finja Engelbrecht](https://www.worldcubeassociation.org/persons/2022ENGE03) |
 | 11 | [Alexandre Delaitre](https://www.worldcubeassociation.org/persons/2016DELA05) |
 | 11 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) |

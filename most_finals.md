@@ -1,11 +1,11 @@
 ## Most finals
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
 | 1513 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1314 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1318 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 933 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
@@ -32,7 +32,7 @@
 | 390 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 383 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 377 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 361 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 367 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 354 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 353 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 336 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |

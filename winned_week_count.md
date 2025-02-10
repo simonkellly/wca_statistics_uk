@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### Rubik's Cube
@@ -26,7 +26,7 @@
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 9 |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | 8 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 8 |
-| [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 7 |
+| [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 8 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 7 |
 
 ### 2x2x2 Cube
@@ -99,10 +99,10 @@
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 7 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 7 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 7 |
 | [Mitchell Chiew](https://www.worldcubeassociation.org/persons/2011CHIE01) | 6 |
 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 6 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 6 |
-| [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | 6 |
 
 ### 6x6x6 Cube
 
@@ -221,8 +221,8 @@
 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | 11 |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 11 |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | 10 |
+| [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 10 |
 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | 9 |
-| [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 9 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 8 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 8 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 8 |

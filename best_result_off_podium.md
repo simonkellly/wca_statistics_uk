@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 
 ### Rubik's Cube
@@ -74,10 +74,10 @@
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:32.80 | **1:40.95** | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024/results/all#e666_f) | 4 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:37.00 | **1:41.12** | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/all#e666_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:34.16 | **1:41.73** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e666_f) | 5 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 1:35.95 | **1:42.59** | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/all#e666_f) | 5 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:35.98 | **1:43.86** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 4 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:38.66 | **1:44.33** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 5 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:40.87 | **1:44.58** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 20 |
-| [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 1:42.32 | **1:45.25** | [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024/results/all#e666_f) | 4 |
 
 ### 7x7x7 Cube
 

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -544,6 +544,7 @@
 | 1 | [Latvian Open 2017](https://www.worldcubeassociation.org/competitions/LatvianOpen2017) |
 | 1 | [Lawrence Open 2014](https://www.worldcubeassociation.org/competitions/LawrenceOpen2014) |
 | 1 | [Lazarillo Open 2023](https://www.worldcubeassociation.org/competitions/LazarilloOpen2023) |
+| 1 | [Leersum Squared 2025](https://www.worldcubeassociation.org/competitions/LeersumSquared2025) |
 | 1 | [Lejre Side Events 2022](https://www.worldcubeassociation.org/competitions/LejreSideEvents2022) |
 | 1 | [Lejre Side Events 2024](https://www.worldcubeassociation.org/competitions/LejreSideEvents2024) |
 | 1 | [Lemgo Open 2010](https://www.worldcubeassociation.org/competitions/LemgoOpen2010) |
@@ -878,6 +879,7 @@
 | 1 | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018) |
 | 1 | [Singapore Championship 2019](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2019) |
 | 1 | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023) |
+| 1 | [Singapore Championship 2025](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2025) |
 | 1 | [Singapore Clock Clash 2024](https://www.worldcubeassociation.org/competitions/SingaporeClockClash2024) |
 | 1 | [Singapore Freeze 2024](https://www.worldcubeassociation.org/competitions/SingaporeFreeze2024) |
 | 1 | [Singapore Hougang Open 2024](https://www.worldcubeassociation.org/competitions/SingaporeHougangOpen2024) |
@@ -1464,6 +1466,7 @@
 | 6 | [Emirates Open 2017](https://www.worldcubeassociation.org/competitions/EmiratesOpen2017) |
 | 6 | [French Open 2009](https://www.worldcubeassociation.org/competitions/FrenchOpen2009) |
 | 6 | [German Nationals 2023](https://www.worldcubeassociation.org/competitions/GermanNationals2023) |
+| 6 | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) |
 | 6 | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) |
 | 6 | [Meath Autumn 2023](https://www.worldcubeassociation.org/competitions/MeathAutumn2023) |
 | 6 | [Meath for Speed 2024](https://www.worldcubeassociation.org/competitions/MeathforSpeed2024) |
