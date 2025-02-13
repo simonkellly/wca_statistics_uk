@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -15,8 +15,8 @@
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 14 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 12 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 10 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 10 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
+| 10 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 10 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 9 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
@@ -28,15 +28,16 @@
 | 8 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 8 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 8 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) |
-| 7 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
+| 7 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) |
 | 7 | [Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01) |
 | 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
-| 7 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) |
+| 7 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 | 7 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) |
+| 7 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
 | 7 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
-| 6 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) |
-| 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 6 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
+| 6 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
+| 6 | [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) |
 | 6 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 6 | [Steve Clarke](https://www.worldcubeassociation.org/persons/2015CLAR13) |
 | 6 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) |
@@ -46,7 +47,6 @@
 | 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 6 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
 | 6 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
-| 6 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
 | 5 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |
 | 5 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) |
 | 5 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) |

@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -14,7 +14,7 @@
 | 765 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 759 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 757 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
-| 748 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 751 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 698 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 609 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
@@ -32,7 +32,7 @@
 | 390 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 383 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 377 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 367 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 373 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 354 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 353 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
 | 336 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |

@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -9,7 +9,7 @@
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 314 814 km |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 245 091 km |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 190 738 km |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 186 642 km |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 189 156 km |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 186 325 km |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 145 333 km |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 129 058 km |
@@ -31,8 +31,8 @@
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | 50 403 km |
 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | 50 164 km |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 49 623 km |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 49 356 km |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 47 731 km |
-| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 46 841 km |
 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) | 46 275 km |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | 45 777 km |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 45 736 km |
@@ -99,6 +99,7 @@
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 19 324 km |
 | [Jirattha Nithimapinan](https://www.worldcubeassociation.org/persons/2018NITH01) | 19 217 km |
 | [Alan Williams](https://www.worldcubeassociation.org/persons/2018WILL31) | 19 095 km |
+| [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) | 18 965 km |
 | [Boyan Ma](https://www.worldcubeassociation.org/persons/2023MABO02) | 18 792 km |
 | [Ziang Yan (晏子昂)](https://www.worldcubeassociation.org/persons/2017YANZ01) | 18 618 km |
 | [Sophie Golding](https://www.worldcubeassociation.org/persons/2022GOLD07) | 18 582 km |
@@ -127,7 +128,6 @@
 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) | 15 638 km |
 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | 15 481 km |
 | [Raphaello Morrall](https://www.worldcubeassociation.org/persons/2023MORR08) | 15 107 km |
-| [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) | 14 824 km |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 14 810 km |
 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | 14 783 km |
 | [Alun Emre Sener](https://www.worldcubeassociation.org/persons/2018SENE02) | 14 648 km |

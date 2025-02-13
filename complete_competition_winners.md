@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -196,6 +196,7 @@
 | 1 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | United Kingdom | [Azeméis Open 2023](https://www.worldcubeassociation.org/competitions/AzemeisOpen2023) |
 | 1 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | United Kingdom | [Lisboa Open 2023](https://www.worldcubeassociation.org/competitions/LisboaOpen2023) |
 | 1 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) | United Kingdom | [Belgian Open 2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019) |
+| 1 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | Macau, China | [Svalbard 2025](https://www.worldcubeassociation.org/competitions/Svalbard2025) |
 | 1 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | China | [Now We're Even Trondheim 2022](https://www.worldcubeassociation.org/competitions/NowWereEvenTrondheim2022) |
 | 1 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | China | [Asian Championship 2022](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2022) |
 | 1 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | Lithuania | [Kaunas Open 2022](https://www.worldcubeassociation.org/competitions/KaunasOpen2022) |

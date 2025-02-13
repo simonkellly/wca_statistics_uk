@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 
 ### Rubik's Cube
@@ -62,8 +62,8 @@
 | 9.28 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 9.33 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 9.35 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) |
-| 9.37 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 9.38 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
+| 9.41 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 
 ### 2x2x2 Cube
 
@@ -143,7 +143,7 @@
 | 33.31 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 33.34 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 33.49 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 33.68 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 33.52 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 34.12 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 34.31 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) |
 | 34.46 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) |
@@ -403,9 +403,9 @@
 | 14.91 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) |
 | 14.93 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
 | 15.00 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) |
-| 15.47 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 15.50 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
 | 15.52 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
+| 15.57 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 15.66 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 15.71 | [Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12) |
 | 15.83 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
@@ -527,7 +527,7 @@
 | 4.12 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 4.15 | [Matthew Ayre](https://www.worldcubeassociation.org/persons/2018AYRE02) |
 | 4.15 | [Joseph Archibald](https://www.worldcubeassociation.org/persons/2019ARCH01) |
-| 4.15 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 4.19 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 4.20 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 4.20 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 4.32 | [Thomas Mosedale](https://www.worldcubeassociation.org/persons/2022MOSE04) |

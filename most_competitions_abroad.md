@@ -1,14 +1,14 @@
 ## Most competitions abroad
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 198 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 103 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 88 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 62 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 60 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 63 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 61 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 54 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |

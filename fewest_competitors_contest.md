@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1385,6 +1385,7 @@
 | 3 | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) |
 | 3 | [Spark Melbourne Saturday 2024](https://www.worldcubeassociation.org/competitions/SparkMelbourneSaturday2024) |
 | 3 | [Speedy South Perth 2020](https://www.worldcubeassociation.org/competitions/SpeedySouthPerth2020) |
+| 3 | [Svalbard 2025](https://www.worldcubeassociation.org/competitions/Svalbard2025) |
 | 3 | [Swisscubing Cup Final 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2024) |
 | 3 | [Swisscubing Cup II 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2024) |
 | 3 | [Swisscubing Cup IV 2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019) |

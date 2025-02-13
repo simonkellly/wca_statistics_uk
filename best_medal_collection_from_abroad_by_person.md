@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -19,8 +19,8 @@
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **18** | 26 | 40 | 84 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **14** | 17 | 31 | 62 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **13** | 21 | 27 | 61 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **13** | 10 | 4 | 27 |
-| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **12** | 18 | 26 | 56 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | **10** | 6 | 1 | 17 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | **9** | 6 | 4 | 19 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **7** | 6 | 8 | 21 |
@@ -95,7 +95,7 @@
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Zhong Yi Yan](https://www.worldcubeassociation.org/persons/2022YANZ02) | **1** | 0 | 0 | 1 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | **0** | 7 | 6 | 13 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **0** | 3 | 3 | 6 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **0** | 3 | 4 | 7 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **0** | 2 | 2 | 4 |
 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) | **0** | 2 | 2 | 4 |
 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | **0** | 2 | 1 | 3 |
