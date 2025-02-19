@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -27,7 +27,7 @@
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | 8 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 8 |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 8 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 7 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
 
 ### 2x2x2 Cube
 
@@ -37,8 +37,8 @@
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 34 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 32 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
+| [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 22 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 21 |
-| [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 21 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 18 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 15 |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 13 |
@@ -90,7 +90,7 @@
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 27 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 24 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 15 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 14 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 15 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 12 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 12 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 11 |
@@ -111,7 +111,7 @@
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 51 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 35 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 26 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 25 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 26 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 24 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 16 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 13 |
@@ -137,7 +137,7 @@
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 31 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 25 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 19 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 16 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 17 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 14 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 13 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | 13 |
@@ -174,8 +174,8 @@
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |
 
@@ -210,7 +210,7 @@
 | :--- | ---: |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 47 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 41 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 32 |
+| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 33 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 31 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 30 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
@@ -242,7 +242,7 @@
 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) | 17 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 15 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 13 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 12 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 13 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 11 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | 8 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 8 |
@@ -269,7 +269,7 @@
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 17 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | 15 |
 | [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) | 14 |
-| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 13 |
+| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 14 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 12 |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 12 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | 8 |
@@ -309,9 +309,9 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 35 |
+| [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 25 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 24 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 24 |
-| [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | 24 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 18 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 14 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 13 |
@@ -319,15 +319,15 @@
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 9 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 9 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 8 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
 | [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 7 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 7 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 6 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 6 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 5 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4 |
 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) | 4 |
-| [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | 4 |
 
 ### Square-1
 
@@ -352,7 +352,7 @@
 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | 6 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | 5 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 5 |
-| [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | 4 |
+| [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 5 |
 
 ### 4x4x4 Blindfolded
 

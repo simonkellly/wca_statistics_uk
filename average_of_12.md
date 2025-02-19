@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -30,9 +30,10 @@
 | ---: | :--- | :--- |
 | 28.57 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 31.25, 30.65, 27.76, 30.46, 25.24, 25.51, 26.39, 25.87, 30.78, 32.44, 29.09, 27.95 |
 | 29.12 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 28.90, 27.25, 31.74, 28.09, 34.95, 23.17, 25.72, 28.00, 30.85, 32.68, 33.04, 24.96 |
+| 29.15 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 24.34, 30.30, 30.34, 27.94, 26.37, 29.43, 32.31, 31.32, 29.50, 29.40, 31.42, 25.47 |
 | 29.26 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 28.81, 27.11, DNF, 27.95, 25.98, 32.19, 29.01, 31.08, 28.93, 26.27, 30.17, 31.08 |
 | 29.55 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 29.14, 28.86, 23.76, 32.80, 31.96, 28.94, 34.11, 29.49, 27.29, 31.63, 23.54, 31.65 |
-| 29.61 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 27.00, 30.96, 32.83, 29.22, 34.53, 26.21, 28.32, 30.79, 30.41, 23.48, 32.58, 27.80 |
+| 31.53 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 29.72, 25.48, 33.69, 35.17, 36.42, 34.68, 30.20, 27.34, 31.06, 27.91, 31.57, 33.99 |
 
 ### 5x5x5 Cube
 

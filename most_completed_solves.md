@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Competition
@@ -37,37 +37,37 @@
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **10068** | 10337 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **9166** | 9796 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **8237** | 8791 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **7969** | 8374 |
-| [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **7938** | 8128 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **8053** | 8461 |
+| [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **8024** | 8215 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **7900** | 8343 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **7660** | 7948 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **7567** | 8108 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **7031** | 7343 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **6924** | 7382 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **5974** | 6800 |
+| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **6010** | 6839 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **5678** | 6032 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **5575** | 5908 |
-| [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5554** | 5979 |
+| [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **5570** | 5997 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **5493** | 5726 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **4885** | 5171 |
-| [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | **4803** | 5201 |
+| [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | **4840** | 5241 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | **4497** | 4824 |
 
 ### Country
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| United Kingdom | **788779** | 829580 |
-| Ireland | **16414** | 17334 |
+| United Kingdom | **791890** | 832806 |
+| Ireland | **16562** | 17488 |
 | Denmark | **11475** | 12170 |
 | Spain | **8570** | 9014 |
-| Switzerland | **6369** | 6601 |
+| Switzerland | **6402** | 6636 |
 | United States | **6012** | 6342 |
 | Australia | **5283** | 5543 |
 | France | **4928** | 5242 |
 | Sweden | **4563** | 4884 |
+| Norway | **3322** | 3507 |
 | Germany | **3314** | 3548 |
-| Norway | **3256** | 3439 |
 | Belgium | **2908** | 3113 |
 | India | **2776** | 2854 |
 | New Zealand | **2371** | 2490 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| Europe | **863887** | 909125 |
+| Europe | **867325** | 912693 |
 | Asia | **10315** | 10871 |
 | Oceania | **7654** | 8033 |
 | North America | **6544** | 6906 |
@@ -102,8 +102,8 @@
 | 2017 | **36258** | 38335 |
 | 2016 | **26551** | 27929 |
 | 2015 | **23939** | 25325 |
+| 2025 | **23533** | 24651 |
 | 2014 | **20350** | 21509 |
-| 2025 | **20095** | 21083 |
 | 2020 | **18416** | 19569 |
 | 2013 | **13281** | 14086 |
 | 2012 | **7910** | 8400 |
@@ -119,19 +119,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **245936** | 250580 |
-| 2x2x2 Cube | **151788** | 155405 |
-| Pyraminx | **97335** | 99625 |
-| 4x4x4 Cube | **79600** | 83265 |
-| Skewb | **65847** | 67375 |
-| 3x3x3 One-Handed | **63479** | 65586 |
-| 5x5x5 Cube | **53533** | 55241 |
-| Clock | **32847** | 37832 |
-| Megaminx | **31475** | 33036 |
-| Square-1 | **27848** | 29026 |
-| 6x6x6 Cube | **11666** | 12102 |
-| 7x7x7 Cube | **9917** | 10334 |
-| 3x3x3 Blindfolded | **8420** | 20598 |
+| 3x3x3 Cube | **246549** | 251200 |
+| 2x2x2 Cube | **152336** | 155965 |
+| Pyraminx | **97835** | 100140 |
+| 4x4x4 Cube | **79906** | 83584 |
+| Skewb | **66327** | 67860 |
+| 3x3x3 One-Handed | **63816** | 65935 |
+| 5x5x5 Cube | **53732** | 55446 |
+| Clock | **32890** | 37877 |
+| Megaminx | **31680** | 33252 |
+| Square-1 | **27878** | 29056 |
+| 6x6x6 Cube | **11742** | 12179 |
+| 7x7x7 Cube | **9981** | 10401 |
+| 3x3x3 Blindfolded | **8457** | 20678 |
 | 3x3x3 Fewest Moves | **3461** | 4525 |
 | 3x3x3 With Feet | **1684** | 1866 |
 | 3x3x3 Multi-Blind | **1351** | 2016 |

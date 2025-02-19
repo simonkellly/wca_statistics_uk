@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -845,6 +845,7 @@
 | 1 | [Salzburg Open 2020](https://www.worldcubeassociation.org/competitions/SalzburgOpen2020) |
 | 1 | [Sandnes Open 2024](https://www.worldcubeassociation.org/competitions/SandnesOpen2024) |
 | 1 | [Sandnes Winter 2024](https://www.worldcubeassociation.org/competitions/SandnesWinter2024) |
+| 1 | [Sandnes Winter 2025](https://www.worldcubeassociation.org/competitions/SandnesWinter2025) |
 | 1 | [San Marino Nationals 2019](https://www.worldcubeassociation.org/competitions/SanMarinoNationals2019) |
 | 1 | [San Marino Open 2017](https://www.worldcubeassociation.org/competitions/SanMarinoOpen2017) |
 | 1 | [Santpedor Open 2024](https://www.worldcubeassociation.org/competitions/SantpedorOpen2024) |
@@ -1218,6 +1219,7 @@
 | 2 | [Lyttelton Autumn 2022](https://www.worldcubeassociation.org/competitions/LytteltonAutumn2022) |
 | 2 | [Malaysia Open 2012](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2012) |
 | 2 | [Mallorca Open 2022](https://www.worldcubeassociation.org/competitions/MallorcaOpen2022) |
+| 2 | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) |
 | 2 | [Mauritius Open 2018](https://www.worldcubeassociation.org/competitions/MauritiusOpen2018) |
 | 2 | [Mayo Cubing 2023](https://www.worldcubeassociation.org/competitions/MayoCubing2023) |
 | 2 | [Mayo Cubing 2024](https://www.worldcubeassociation.org/competitions/MayoCubing2024) |
@@ -1297,6 +1299,7 @@
 | 2 | [Swisscubing Cup I 2020](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020) |
 | 2 | [Swisscubing Cup I 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupI2025) |
 | 2 | [SC Cup II 2017](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2017) |
+| 2 | [Swisscubing Cup II 2025](https://www.worldcubeassociation.org/competitions/SwisscubingCupII2025) |
 | 2 | [Swisscubing Cup IV 2022](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2022) |
 | 2 | [Swiss Nats 2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016) |
 | 2 | [Swiss Nationals 2022](https://www.worldcubeassociation.org/competitions/SwissNationals2022) |
@@ -1377,6 +1380,7 @@
 | 3 | [Sandnes Open 2022](https://www.worldcubeassociation.org/competitions/SandnesOpen2022) |
 | 3 | [SC Cup II 2018](https://www.worldcubeassociation.org/competitions/SCCupII2018) |
 | 3 | [Seomara Cube Fest 2024](https://www.worldcubeassociation.org/competitions/SeomaraCubeFest2024) |
+| 3 | [Seomara Side & Blind 2025](https://www.worldcubeassociation.org/competitions/SeomaraSideBlind2025) |
 | 3 | [Sharjah Open 2019](https://www.worldcubeassociation.org/competitions/SharjahOpen2019) |
 | 3 | [Shepparton Autumn 2014](https://www.worldcubeassociation.org/competitions/SheppartonAutumn2014) |
 | 3 | [Singapore Mini 2024](https://www.worldcubeassociation.org/competitions/SingaporeMini2024) |

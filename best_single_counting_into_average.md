@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -68,15 +68,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 7.72 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025/results/by_person#2020ARCH01) |
 | 8.04 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 8.14 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025/results/by_person#2020ARCH01) |
 | 8.15 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023/results/by_person#2020ARCH01) |
 | 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.32 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 8.42 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.47 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
-| 8.50 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester FMC Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterFMCDay2024/results/by_person#2020ARCH01) |
-| 8.54 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2020ARCH01) |
 
 ### Megaminx
 
@@ -131,12 +131,12 @@
 | 1.74 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024/results/by_person#2019BENC04) |
 | 1.80 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024/results/by_person#2019BENC04) |
 | 1.89 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2015SCHO05) |
+| 1.89 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025/results/by_person#2019BENC04) |
 | 1.92 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Israel Open 2024](https://www.worldcubeassociation.org/competitions/IsraelOpen2024/results/by_person#2019BENC04) |
 | 1.96 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018/results/by_person#2014SCHW02) |
 | 1.99 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Manchester Open 2019](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/by_person#2015SCHO05) |
 | 2.01 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2019BENC04) |
 | 2.03 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2019BENC04) |
-| 2.03 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | [Israel Open 2024](https://www.worldcubeassociation.org/competitions/IsraelOpen2024/results/by_person#2019BENC04) |
 
 ### Square-1
 

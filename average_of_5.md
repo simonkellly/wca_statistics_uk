@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -33,6 +33,7 @@
 | 27.64 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 22.22, 27.82, 30.10, 29.09, 26.01 |
 | 27.96 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 39.27, 28.70, 26.44, 27.89, 27.28 |
 | 28.20 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 24.34, 30.30, 30.34, 27.94, 26.37 |
+| 29.72 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 34.68, 30.20, 27.34, 31.06, 27.91 |
 
 ### 5x5x5 Cube
 
@@ -115,7 +116,7 @@
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |
 | 39.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 41.54, 40.17, 42.28, 36.69, 35.87 |
 | 40.48 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.59, 39.20, 37.93, 44.31, 37.90 |
-| 40.98 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 33.85, 45.19, 43.39, 40.50, 39.06 |
+| 40.68 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 39.45, 36.88, 42.28, 52.09, 40.30 |
 | 43.14 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 40.46, 45.58, 43.38, 46.68, 38.80 |
 | 46.07 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 47.64, 48.40, 42.44, 46.35, 44.22 |
 | 47.25 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 45.71, 50.52, 47.79, 47.57, 46.40 |
@@ -125,7 +126,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.57 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.38, 2.02, 1.64, 1.68, 1.29 |
-| 1.80 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.77, 1.84, 2.14, 1.80, 1.71 |
+| 1.75 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 2.01, 1.86, 1.40, 1.69, 1.71 |
 | 1.96 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | 1.55, 1.83, 4.75, 1.58, 2.47 |
 | 2.03 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) | 2.99, 1.83, 1.78, 2.12, 2.14 |
 | 2.19 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | 2.18, 2.63, 1.20, 4.96, 1.77 |
