@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -27,7 +27,7 @@
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | 8 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 8 |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | 8 |
-| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
+| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 8 |
 
 ### 2x2x2 Cube
 
@@ -40,7 +40,7 @@
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 22 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 21 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 18 |
-| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 15 |
+| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 16 |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 13 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 13 |
 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 12 |
@@ -176,8 +176,8 @@
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 6 |
+| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 5 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
-| [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |
 
 ### 3x3x3 Fewest Moves
 
@@ -210,7 +210,7 @@
 | :--- | ---: |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 47 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 41 |
-| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 33 |
+| [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 34 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 31 |
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 30 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 29 |
@@ -268,8 +268,8 @@
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 20 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | 17 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | 15 |
+| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 15 |
 | [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) | 14 |
-| [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 14 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 12 |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 12 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | 8 |

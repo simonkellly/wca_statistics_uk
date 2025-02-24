@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -644,6 +644,7 @@
 | 1 | [Montpellier Open 2010](https://www.worldcubeassociation.org/competitions/MontpellierOpen2010) |
 | 1 | [Montpellier Open 2011](https://www.worldcubeassociation.org/competitions/MontpellierOpen2011) |
 | 1 | [Mountain View Open 2017](https://www.worldcubeassociation.org/competitions/MountainViewOpen2017) |
+| 1 | [Mumbai Cube Challenge 2025](https://www.worldcubeassociation.org/competitions/MumbaiCubeChallenge2025) |
 | 1 | [Mumbai Open 2012](https://www.worldcubeassociation.org/competitions/MumbaiOpen2012) |
 | 1 | [Mumbai Winter Open 2022](https://www.worldcubeassociation.org/competitions/MumbaiWinterOpen2022) |
 | 1 | [Munich Open 2016](https://www.worldcubeassociation.org/competitions/MunichOpen2016) |

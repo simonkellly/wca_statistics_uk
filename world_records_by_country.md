@@ -1,10 +1,10 @@
 ## World records count by country
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | WRs | Country |
 | ---: | :--- |
-| 21 | United Kingdom |
+| 22 | United Kingdom |
 | 1 | Malaysia |
 
 

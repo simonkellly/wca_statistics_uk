@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -68,6 +68,8 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 7.31 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
+| 7.66 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025/results/by_person#2020ARCH01) |
+| 7.68 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025/results/by_person#2020ARCH01) |
 | 7.72 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025/results/by_person#2020ARCH01) |
 | 8.04 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.14 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025/results/by_person#2020ARCH01) |
@@ -75,8 +77,6 @@
 | 8.23 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
 | 8.32 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
 | 8.33 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
-| 8.42 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2020ARCH01) |
-| 8.47 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2020ARCH01) |
 
 ### Megaminx
 

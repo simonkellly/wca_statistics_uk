@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 198 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 104 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 105 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 88 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 63 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 62 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
@@ -100,8 +100,8 @@
 | 10 | [Junhan Wen](https://www.worldcubeassociation.org/persons/2022WENJ02) |
 | 10 | [Harvey Constanti-Smith](https://www.worldcubeassociation.org/persons/2023CONS06) |
 | 10 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
+| 10 | [Richard Mang](https://www.worldcubeassociation.org/persons/2023RICH24) |
 | 10 | [Efe Pasaogullari](https://www.worldcubeassociation.org/persons/2022PASA02) |
-| 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 9 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 9 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 

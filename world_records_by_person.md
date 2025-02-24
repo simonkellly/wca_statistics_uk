@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -8,11 +8,11 @@
 | 3 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 2 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 2 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
+| 2 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 1 | [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) |
 | 1 | [Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01) |
 | 1 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 1 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 1 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 1 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 

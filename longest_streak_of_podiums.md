@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -42,13 +42,14 @@
 | 11 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | Skewb | [Norwich Summer 2023](https://www.worldcubeassociation.org/competitions/NorwichSummer2023) | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 11 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 6x6x6 Cube | [Anime Adventure III 2023](https://www.worldcubeassociation.org/competitions/AutotaloAnimeAdventureIII2023) | [Oslo Open 2024](https://www.worldcubeassociation.org/competitions/OsloOpen2024) |
 | 11 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | Pyraminx | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) | [Reading Spring 2023](https://www.worldcubeassociation.org/competitions/ReadingSpring2023) |
-| 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
+| 10 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 10 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 3x3x3 Blindfolded | [Taylor's Cube 2013](https://www.worldcubeassociation.org/competitions/TaylorOpen2013) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 10 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 7x7x7 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [Weston-super-Mare Open 2019](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019) |
 | 10 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | Square-1 | [Peterborough Summer 2023](https://www.worldcubeassociation.org/competitions/PeterboroughSummer2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | Square-1 | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) |
 | 10 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 5x5x5 Blindfolded | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 10 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed | [Stevenage August 2024](https://www.worldcubeassociation.org/competitions/StevenageAugust2024) |  |
 | 9 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 3x3x3 Cube | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) |
 | 9 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [Swedish Open 2010](https://www.worldcubeassociation.org/competitions/SwedishOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 9 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2017](https://www.worldcubeassociation.org/competitions/ABHC2017) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
@@ -67,7 +68,6 @@
 | 9 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 3x3x3 Blindfolded | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023) |
 | 9 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3x3x3 Blindfolded | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) |  |
 | 9 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) |
-| 9 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed | [Stevenage August 2024](https://www.worldcubeassociation.org/competitions/StevenageAugust2024) |  |
 | 9 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6x6x6 Cube | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | Master Magic | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |

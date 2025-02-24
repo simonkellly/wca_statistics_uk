@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **26** | 32 | 26 | 84 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **26** | 13 | 5 | 44 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 34 | 40 | 98 |
+| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 35 | 40 | 99 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **24** | 18 | 19 | 61 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21** | 6 | 1 | 28 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **20** | 38 | 36 | 94 |
@@ -63,6 +63,7 @@
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **1** | 6 | 10 | 17 |
 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | **1** | 4 | 6 | 11 |
 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) | **1** | 4 | 4 | 9 |
+| [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1** | 4 | 1 | 6 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 4 | 0 | 5 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1** | 3 | 3 | 7 |
 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) | **1** | 3 | 1 | 5 |
@@ -75,7 +76,6 @@
 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | **1** | 2 | 0 | 3 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **1** | 2 | 0 | 3 |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | **1** | 2 | 0 | 3 |
-| [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1** | 2 | 0 | 3 |
 | [Shane Newman](https://www.worldcubeassociation.org/persons/2013NEWM02) | **1** | 2 | 0 | 3 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 1 | 2 | 4 |
 | [Klyment Diachun](https://www.worldcubeassociation.org/persons/2022DIAC01) | **1** | 1 | 1 | 3 |

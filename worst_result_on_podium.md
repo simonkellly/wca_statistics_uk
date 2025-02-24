@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -102,12 +102,12 @@
 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | **4:24.82** | DNF | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019/results/podiums#e333bf) | 1 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4:02.18** | 5:06.69 | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009/results/podiums#e333bf) | 3 |
 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) | **4:00.13** | DNF | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009/results/podiums#e333bf) | 3 |
+| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **3:40.41** | DNF | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025/results/podiums#e333bf) | 3 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **3:39.27** |  | [UK Open 2006](https://www.worldcubeassociation.org/competitions/UKOpen2006/results/podiums#e333bf) | 2 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | **3:37.46** | DNF | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009/results/podiums#e333bf) | 2 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | **3:24.23** | DNF | [Italian Open 2007](https://www.worldcubeassociation.org/competitions/ItalianOpen2007/results/podiums#e333bf) | 3 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **3:21.97** |  | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010/results/podiums#e333bf) | 2 |
 | [Jude Wright](https://www.worldcubeassociation.org/persons/2008WRIG02) | **2:54.05** | DNF | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009/results/podiums#e333bf) | 2 |
-| [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **2:49.84** |  | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010/results/podiums#e333bf) | 3 |
 
 ### 3x3x3 Fewest Moves
 
