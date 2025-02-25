@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube
@@ -148,11 +148,11 @@
 | 1:02.09 | [Logan Tonon](https://www.worldcubeassociation.org/persons/2023TONO02) |
 | 1:05.31 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 1:10.38 | [Etim Okpoyo](https://www.worldcubeassociation.org/persons/2024OKPO01) |
+| 1:12.09 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 1:12.20 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 1:13.77 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) |
 | 1:15.06 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
 | 1:15.08 | [Zachary Fogg](https://www.worldcubeassociation.org/persons/2022FOGG01) |
-| 1:15.85 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) |
 
 ### Pyraminx
 
@@ -257,7 +257,7 @@
 | 7/7 42:59 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) |
 | 7/8 43:29 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 5/5 34:32 | [James Mitchell](https://www.worldcubeassociation.org/persons/2016MITC06) |
-| 5/5 43:24 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
+| 7/9 34:32 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) |
 
 ### 3x3x3 With Feet
 

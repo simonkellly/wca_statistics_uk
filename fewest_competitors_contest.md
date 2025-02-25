@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -820,6 +820,7 @@
 | 1 | [Ridge Cubing Fall 2019](https://www.worldcubeassociation.org/competitions/RidgeCubingFall2019) |
 | 1 | [Rīga Open 2024](https://www.worldcubeassociation.org/competitions/RigaOpen2024) |
 | 1 | [Riga Special 2018](https://www.worldcubeassociation.org/competitions/RigaSpecial2018) |
+| 1 | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) |
 | 1 | [Road to IC - Milano 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019) |
 | 1 | [Road to IC - Monterotondo 2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019) |
 | 1 | [Rocket City 3.0 2018](https://www.worldcubeassociation.org/competitions/RocketCity302018) |
@@ -1027,6 +1028,7 @@
 | 1 | [Toruń Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/TorunCubingSummer2024) |
 | 1 | [Toulouse Summer Open 2008](https://www.worldcubeassociation.org/competitions/ToulouseSummerOpen2008) |
 | 1 | [Tramsheds Series Saturday 2022](https://www.worldcubeassociation.org/competitions/TramshedsSeriesSaturday2022) |
+| 1 | [Trikala Open 2025](https://www.worldcubeassociation.org/competitions/TrikalaOpen2025) |
 | 1 | [Tuam Open Saturday 2022](https://www.worldcubeassociation.org/competitions/TuamOpenSaturday2022) |
 | 1 | [Turin Winter Open 2019](https://www.worldcubeassociation.org/competitions/TurinWinterOpen2019) |
 | 1 | [Turkish Nationals 2023](https://www.worldcubeassociation.org/competitions/TurkishNationals2023) |
@@ -1070,6 +1072,7 @@
 | 1 | [Vidar Open 2011](https://www.worldcubeassociation.org/competitions/VidarOpen2011) |
 | 1 | [Vienna Cube Day 2019](https://www.worldcubeassociation.org/competitions/ViennaCubeDay2019) |
 | 1 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 1 | [Vilafranca Open 2025](https://www.worldcubeassociation.org/competitions/VilafrancaOpen2025) |
 | 1 | [Vilnius Spring Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSpringOpen2023) |
 | 1 | [Vilnius Winter Open 2023](https://www.worldcubeassociation.org/competitions/VilniusWinterOpen2023) |
 | 1 | [Vinderup Open 2016](https://www.worldcubeassociation.org/competitions/VinderupOpen2016) |
@@ -1340,6 +1343,7 @@
 | 3 | [Benelux Open 2010](https://www.worldcubeassociation.org/competitions/BeneluxOpen2010) |
 | 3 | [Brugge Open 2018](https://www.worldcubeassociation.org/competitions/BruggeOpen2018) |
 | 3 | [Cork Spring 2024](https://www.worldcubeassociation.org/competitions/CorkSpring2024) |
+| 3 | [Cork Spring 2025](https://www.worldcubeassociation.org/competitions/CorkSpring2025) |
 | 3 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 | 3 | [Cubing with the Cats Sat 2022](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2022) |
 | 3 | [Cubing with the Cats Sat 2023](https://www.worldcubeassociation.org/competitions/CubingwiththeCatsSaturday2023) |

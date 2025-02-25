@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube
@@ -116,7 +116,7 @@
 | 42.65 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 37.91, 43.20, 45.47, 47.34, 45.13, 53.10, 39.35, 33.85, 45.19, 43.39, 40.50, 39.06 |
 | 42.98 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.15, 36.17, 37.01, 40.83, 45.29, 46.07, 39.45, 42.40, 50.13, 50.62, 47.26, 36.20 |
 | 44.97 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 55.34, 44.57, 45.41, 44.95, 40.46, 45.58, 43.38, 46.68, 38.80, 41.95, 47.67, 49.05 |
-| 47.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 51.00, 43.98, 36.32, 53.84, 48.20, 47.64, 48.40, 42.44, 46.35, 44.22, 48.05, 51.29 |
+| 47.10 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 42.53, 53.06, 43.56, 52.00, 45.12, 53.82, 37.65, 53.65, 38.90, 53.13, 39.79, 49.24 |
 | 50.46 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 37.42, 51.63, 52.92, 57.49, 51.12, 47.03, 55.24, 55.03, 45.71, 50.52, 47.79, 47.57 |
 
 ### Pyraminx

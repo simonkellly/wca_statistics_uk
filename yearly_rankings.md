@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 
 ### Rubik's Cube - Single
@@ -9,15 +9,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **5.22** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 7.16, 6.41, 8.91, 7.02, 5.22 |
+| [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **5.48** | Malaysia | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 5.48, 7.58, 9.79, 9.51, 10.50 |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **5.53** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 5.53, 7.05, 6.49, 8.70, 7.43 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **5.56** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 5.97, 5.56, 7.60, 7.04, 7.61 |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | **5.61** | United Kingdom | [Leersum Squared 2025](https://www.worldcubeassociation.org/competitions/LeersumSquared2025) | 8.94, 10.06, 13.94, 5.61, 9.57 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **5.67** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 6.48, 8.84, 5.67, 7.30, 8.72 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **5.74** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 9.07, 8.23, 7.84, 5.74, 6.84 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **5.93** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 7.91, 8.74, 5.93, 7.51, 6.95 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **5.98** | Hong Kong, China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 8.21, 7.43, 8.87, 5.98, 10.87 |
 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | **6.30** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 6.82, 6.60, 6.30, 6.93, 6.77 |
-| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **6.34** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 8.05, 6.34, 7.56, 7.04, 10.05 |
-| [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | **6.35** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 8.86, 7.80, 9.09, 9.98, 6.35 |
 
 ### Rubik's Cube - Average
 
@@ -31,38 +31,38 @@
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **7.11** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 7.04, 6.38, 9.02, 7.50, 6.79 |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | **7.47** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 6.79, 7.12, 8.05, 7.81, 7.48 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **7.55** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 8.05, 6.34, 7.56, 7.04, 10.05 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **7.62** | Hong Kong, China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | DNF, 6.19, 7.54, 7.90, 7.41 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **7.64** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 9.07, 8.23, 7.84, 5.74, 6.84 |
-| [Felix Hincks](https://www.worldcubeassociation.org/persons/2022HINC01) | **7.73** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 7.20, 11.31, 7.73, 7.97, 7.50 |
 
 ### 2x2x2 Cube - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **0.78** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 1.29, 0.78, 4.77, 2.31, 1.89 |
+| [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | **0.93** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.93, 2.05, 2.80, 0.93, DNF |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **0.98** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 2.71, 0.98, 1.48, 2.53, 1.74 |
+| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.00** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.13, 1.62, 1.00, 1.71, 1.44 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **1.02** | Hong Kong, China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.54, 2.17, 1.02, 1.59, 3.73 |
+| [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **1.02** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.89, DNF, 2.19, 1.02, 1.64 |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **1.04** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.56, 1.40, 1.48, 1.04, 1.35 |
-| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **1.07** | Hong Kong, China | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.73, 1.22, 1.07, 4.99, 2.25 |
+| [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | **1.07** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.60, 4.31, 1.07, 1.49, 2.22 |
+| [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) | **1.13** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 2.91, 3.17, 2.63, 1.13, 2.57 |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **1.15** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 1.47, 1.15, 1.86, 1.73, 3.34 |
-| [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) | **1.19** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 4.59, 1.19, 3.44, 3.25, 4.15 |
-| [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1.20** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.20, 2.83, 2.52, 2.83, 1.61 |
-| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **1.25** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 1.67, 1.72, 1.25, 1.76, 1.86 |
-| [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | **1.25** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 8.25, 3.14, 3.50, 1.25, 2.35 |
-| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.26** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.28, 1.26, 3.04, 2.01, DNF |
 
 ### 2x2x2 Cube - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **1.24** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.20, 1.20, 1.33, 1.20, 1.32 |
+| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.36** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.84, 5.60, 1.13, 1.01, 1.11 |
 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **1.41** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 2.07, 1.44, 1.34, 1.44, 1.36 |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | **1.44** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.54, 1.29, 1.76, 1.42, 1.37 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **1.52** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 1.59, 1.48, 3.10, 1.34, 1.48 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **1.52** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 1.36, 1.43, 1.58, 1.55, 3.83 |
 | [Daniel Robinson](https://www.worldcubeassociation.org/persons/2023ROBI10) | **1.54** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.48, DNF, 1.51, 1.64, 1.42 |
-| [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | **1.57** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.55, 1.62, 2.66, 1.53, 1.29 |
 | [Harry Allen](https://www.worldcubeassociation.org/persons/2023ALLE01) | **1.58** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.57, 1.59, 1.50, 2.70, 1.59 |
+| [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | **1.65** | Bulgaria | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1.98, 1.55, 1.46, 1.75, 1.64 |
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **1.73** | Hong Kong, China | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 1.73, 1.22, 1.07, 4.99, 2.25 |
-| [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **1.75** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 1.80, 1.75, 1.86, 1.70, 1.61 |
 
 ### 4x4x4 Cube - Single
 
@@ -99,10 +99,10 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **42.68** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 49.88, 42.86, 47.91, 42.68, 1:02.85 |
+| [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **47.82** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 47.82, 1:03.65, 57.76, 51.94, 51.67 |
 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) | **48.24** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 59.93, 48.24, 52.04, 58.53, 58.23 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **48.29** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 48.29, 1:22.68, 53.92, 56.60, 54.15 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **48.37** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 51.44, 52.55, 52.73, 48.91, 48.37 |
-| [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **48.82** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 55.90, 50.94, 48.82, 57.14, 58.17 |
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **50.10** | Macau, China | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 1:00.19, 1:02.22, 59.02, 50.10, DNF |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **51.55** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 1:01.77, 56.09, 56.74, 1:05.44, 51.55 |
 | [William Didelot](https://www.worldcubeassociation.org/persons/2023DIDE03) | **52.15** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 58.14, 54.13, 52.15, 59.66, 56.87 |
@@ -191,28 +191,28 @@
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **16.50** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 52.98, 16.50, DNF |
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | **17.57** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 17.57, DNF, 22.27 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21.14** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 24.87, 28.97, 21.14 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **24.68** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | DNF, DNF, 24.68 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **25.75** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 25.75, DNF, DNF |
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | **27.31** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 32.98, DNF, 27.31 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **28.57** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | DNF, 38.25, 28.57 |
+| [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) | **32.45** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 34.44, DNF, 32.45 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **37.95** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 50.62, 37.95, DNF |
+| [Edmund Finch](https://www.worldcubeassociation.org/persons/2023FINC02) | **38.54** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | DNF, 42.01, 38.54 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **41.70** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 54.90, 53.94, 41.70 |
-| [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **45.36** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 45.36, DNF, DNF |
-| [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | **49.68** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 51.96, 49.68, DNF |
-| [Alexander Lilley-McCamley](https://www.worldcubeassociation.org/persons/2024LILL01) | **51.68** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | DNF, 1:00.01, 51.68 |
 
 ### 3x3x3 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **24.99** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 24.87, 28.97, 21.14 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **36.47** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 29.25, 35.35, 44.82 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **28.88** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 26.77, 29.49, 30.37 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **29.10** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 29.38, 26.54, 31.39 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **50.18** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 54.90, 53.94, 41.70 |
+| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **52.81** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 50.37, 42.26, 1:05.80 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **56.92** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 1:06.36, 56.79, 47.62 |
 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **59.12** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 51.70, 52.51, 1:13.14 |
-| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **59.32** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 59.32, 58.68, 59.96 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **1:01.61** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:04.52, 1:03.10, 57.21 |
+| [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) | **1:03.01** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 1:03.38, 1:01.36, 1:04.28 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | **1:03.94** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 1:06.43, 1:12.87, 52.52 |
-| [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | **1:17.02** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 1:12.54, 1:23.27, 1:15.25 |
-| [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) | **1:19.36** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 1:12.07, 55.13, 1:50.87 |
 
 ### 3x3x3 Fewest Moves - Single
 
@@ -223,11 +223,11 @@
 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | **32** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 32, 37, 32 |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 33, 37, 35 |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **34** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 34, 40, 44 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **34** | United Kingdom | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) | 34, 41, 42 |
 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) | **35** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 41, 39, 35 |
 | [Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02) | **38** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 44, 38, 38 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **41** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 42, 42, 41 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **42** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 43, 42, 43 |
-| [Callum Inglis](https://www.worldcubeassociation.org/persons/2018INGL02) | **48** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 48, DNF, DNF |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -238,6 +238,7 @@
 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | **33.67** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 32, 37, 32 |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **35.00** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 33, 37, 35 |
 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) | **38.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 41, 39, 35 |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **39.00** | United Kingdom | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) | 34, 41, 42 |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **39.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 34, 40, 44 |
 | [Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02) | **40.00** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 44, 38, 38 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **41.67** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 42, 42, 41 |
@@ -251,18 +252,19 @@
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **8.85** | Macau, China | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 13.70, 14.67, 8.85, 17.30, 12.41 |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | **9.20** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 9.20, 13.41, 15.50, 12.91, 16.46 |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | **10.18** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 10.18, 12.97, 17.12, 17.51, 13.37 |
+| [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | **10.22** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 10.22, 11.54, 11.35, 10.76, 17.00 |
+| [Jacob Sherwen Brown](https://www.worldcubeassociation.org/persons/2022BROW01) | **10.24** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 15.12, 20.63, 20.75, 22.17, 10.24 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **10.93** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 14.57, 16.38, 16.80, 19.23, 10.93 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **11.10** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 16.01, 17.52, 13.71, 11.10, 13.73 |
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **11.42** | Hong Kong, China | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 13.39, 16.07, 14.20, 11.42, 14.36 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **11.49** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 11.49, 12.32, 13.10, 13.31, 19.13 |
-| [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **11.87** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 14.54, 11.87, 13.51, 13.40, 12.98 |
-| [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) | **12.11** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 13.57, 12.11, 13.24, 15.15, 12.54 |
 
 ### 3x3x3 One-Handed - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **7.95** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 8.51, 8.66, 7.66, 7.68, 6.49 |
+| [Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03) | **11.22** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 10.22, 11.54, 11.35, 10.76, 17.00 |
 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) | **12.82** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 12.90, 13.08, 12.12, 12.86, 12.69 |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | **12.85** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 13.18, 12.26, 12.80, 14.12, 12.57 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **12.91** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 11.49, 12.32, 13.10, 13.31, 19.13 |
@@ -271,7 +273,6 @@
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **13.59** | Macau, China | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 13.70, 14.67, 8.85, 17.30, 12.41 |
 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) | **13.76** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 13.64, 13.71, 19.26, 13.92, 12.18 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **13.84** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 12.87, 12.98, 14.05, 14.50, 15.22 |
-| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **13.98** | Hong Kong, China | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 13.39, 16.07, 14.20, 11.42, 14.36 |
 
 ### Megaminx - Single
 
@@ -280,13 +281,13 @@
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **27.06** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 28.81, 27.06, 31.73, 33.52, 29.32 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **29.34** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 33.70, 29.34, 40.29, 31.23, 34.28 |
 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **36.20** | Egypt | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 47.26, 36.20, 45.39, 44.91, 39.36 |
+| [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | **36.23** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 50.27, 36.23, 43.59, 47.23, 43.24 |
+| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **36.81** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 42.87, 43.22, 43.13, 36.81, 49.45 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **36.88** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 36.88, 42.28, 52.09, 40.30, 45.86 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **37.59** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 42.67, 40.25, 40.72, 42.83, 37.59 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **37.65** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 37.65, 53.65, 38.90, 53.13, 39.79 |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | **37.89** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 37.89, 54.00, 46.26, 47.40, 43.76 |
-| [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **40.51** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 45.95, 40.51, 48.42, 41.03, 44.40 |
-| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **41.66** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 41.66, 44.40, 46.46, 45.98, 44.18 |
-| [Reuben Mould](https://www.worldcubeassociation.org/persons/2023MOUL02) | **41.71** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 43.84, 45.88, 53.42, 41.71, 43.97 |
-| [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **44.17** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 46.29, 52.80, 48.33, 45.01, 44.17 |
+| [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **38.10** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 40.19, 40.77, 49.19, 50.96, 38.10 |
 
 ### Megaminx - Average
 
@@ -294,14 +295,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **29.02** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 30.11, 29.01, 27.95, 33.57, 27.65 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **32.13** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 30.83, 35.88, 32.31, 32.58, 31.50 |
+| [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | **40.36** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 40.51, 44.36, 40.29, 40.14, 40.28 |
 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **40.48** | Egypt | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 45.59, 39.20, 37.93, 44.31, 37.90 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **41.21** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 42.67, 40.25, 40.72, 42.83, 37.59 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **42.81** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 36.88, 42.28, 52.09, 40.30, 45.86 |
-| [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **43.79** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 45.95, 40.51, 48.42, 41.03, 44.40 |
-| [Reuben Mould](https://www.worldcubeassociation.org/persons/2023MOUL02) | **44.56** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 43.84, 45.88, 53.42, 41.71, 43.97 |
-| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **44.85** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 41.66, 44.40, 46.46, 45.98, 44.18 |
-| [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | **45.81** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 37.89, 54.00, 46.26, 47.40, 43.76 |
-| [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **46.54** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 46.29, 52.80, 48.33, 45.01, 44.17 |
+| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **43.07** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 42.87, 43.22, 43.13, 36.81, 49.45 |
+| [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) | **43.38** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 40.19, 40.77, 49.19, 50.96, 38.10 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **43.94** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 37.65, 53.65, 38.90, 53.13, 39.79 |
+| [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **44.35** | Malaysia | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 46.22, 44.64, 43.08, 43.96, 44.46 |
 
 ### Pyraminx - Single
 
@@ -337,9 +338,9 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **2.60** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 2.60, 5.39, 3.38, 3.71, DNF |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **2.63** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 5.50, 3.35, 2.82, 2.63, 4.48 |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | **2.91** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 2.91, 3.69, 3.48, 2.98, 3.02 |
-| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **2.93** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 4.49, 4.70, 2.93, 3.61, 4.60 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **3.02** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | DNF, 3.40, 8.24, 4.21, 3.02 |
 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) | **3.08** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | DNF, 4.06, 3.08, 4.95, 3.37 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **3.36** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 4.75, 4.46, 4.28, 3.36, 4.24 |
@@ -354,14 +355,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | **3.16** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 2.91, 3.69, 3.48, 2.98, 3.02 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **3.24** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 2.83, 4.85, 3.33, 2.81, 3.57 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **3.27** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 2.95, 3.39, 3.12, 4.46, 3.29 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **4.12** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 3.49, 4.78, 5.82, 3.84, 3.75 |
 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) | **4.13** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | DNF, 4.06, 3.08, 4.95, 3.37 |
-| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **4.23** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 4.49, 4.70, 2.93, 3.61, 4.60 |
-| [Jimi Naysmith](https://www.worldcubeassociation.org/persons/2022NAYS02) | **4.51** | United Kingdom | [Marble City Cubing IE 2025](https://www.worldcubeassociation.org/competitions/MarbleCityCubingIE2025) | 5.68, 3.56, 4.03, 3.83, DNF |
+| [Jimi Naysmith](https://www.worldcubeassociation.org/persons/2022NAYS02) | **4.50** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 5.16, 6.25, 4.14, 3.89, 4.19 |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | **4.52** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 4.16, 4.09, 4.78, 4.62, DNF |
 | [Nicky Sim](https://www.worldcubeassociation.org/persons/2022SIMN02) | **4.74** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 4.31, 4.82, 4.25, 5.08, DNF |
-| [Sam Jones](https://www.worldcubeassociation.org/persons/2023JONE09) | **5.04** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 6.78, 10.52, 4.41, 3.80, 3.94 |
-| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **5.04** | Hong Kong, China | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 3.68, 4.17, 4.37, 6.59, 8.43 |
+| [Mohammed Ayan Thalukdar](https://www.worldcubeassociation.org/persons/2023THAL01) | **4.80** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 4.49, 4.87, 5.24, 4.72, 4.82 |
+| [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | **4.81** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 5.24, 4.58, 4.08, 8.92, 4.61 |
 
 ### Skewb - Single
 
@@ -454,15 +455,15 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **34/41 1:00:00** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 34/41 1:00:00, DNF |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **29/37 1:00:00** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 29/37 1:00:00 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **18/21 59:04** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 18/21 59:04 |
+| [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **17/19 59:56** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 17/19 59:56 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **12/13 51:13** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 12/13 51:13 |
+| [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | **14/17 55:22** | Bulgaria | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 14/17 55:22 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **14/18 52:18** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 14/18 52:18, DNF |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **11/12 58:14** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 11/12 58:14 |
-| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **9/11 50:16** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 9/11 50:16 |
+| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **11/14 57:51** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 11/14 57:51 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **10/13 50:49** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8/16 57:13, 10/13 50:49 |
-| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **7/7 54:37** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 7/7 54:37 |
-| [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | **10/16 57:41** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 10/16 57:41 |
-| [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **4/5 17:47** | Malaysia | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 4/5 17:47 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
