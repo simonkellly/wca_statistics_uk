@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -294,8 +294,8 @@
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 5 126 km |
 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) | 5 119 km |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 5 111 km |
+| [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 5 038 km |
 | [Ollie Turner](https://www.worldcubeassociation.org/persons/2022TURN11) | 4 981 km |
-| [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | 4 966 km |
 | [Oscar Jones](https://www.worldcubeassociation.org/persons/2015JONE07) | 4 903 km |
 | [Matt Gaston](https://www.worldcubeassociation.org/persons/2015GAST01) | 4 884 km |
 | [Matthew Tucker](https://www.worldcubeassociation.org/persons/2022TUCK02) | 4 873 km |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -14,11 +14,11 @@
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 43 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
-| 43 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 43 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
+| 43 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
+| 43 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
+| 43 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
-| 42 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 37 | [Archie Fedulov](https://www.worldcubeassociation.org/persons/2022FEDU01) |
 | 35 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 35 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |

@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -724,6 +724,7 @@
 | 1 | [Oklahoma Open 2019](https://www.worldcubeassociation.org/competitions/OklahomaOpen2019) |
 | 1 | [Oklahoma Spring 2019](https://www.worldcubeassociation.org/competitions/OklahomaSpring2019) |
 | 1 | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) |
+| 1 | [Olte Februar Füürobe 2025](https://www.worldcubeassociation.org/competitions/OlteFebruarFuurobe2025) |
 | 1 | [Olte November Nachtschicht 2024](https://www.worldcubeassociation.org/competitions/OlteNovemberNachtschicht2024) |
 | 1 | [Olte Obig Overtimer 2024](https://www.worldcubeassociation.org/competitions/OlteObigOvertimer2024) |
 | 1 | [One Night in Beijing 2016](https://www.worldcubeassociation.org/competitions/OneNightinBeijing2016) |

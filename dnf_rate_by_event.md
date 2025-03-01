@@ -1,6 +1,6 @@
 ## DNF rate by event
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 | DNF rate | Event | DNFs | Attempts |
 | ---: | :--- | ---: | ---: |
@@ -10,7 +10,7 @@
 | 50.00 % | Rubik's Cube: Multiple blind old style | 3 | 6 |
 | 33.10 % | 3x3x3 Multi-Blind | 675 | 2039 |
 | 23.50 % | 3x3x3 Fewest Moves | 1064 | 4528 |
-| 13.16 % | Rubik's Clock | 5039 | 38291 |
+| 13.16 % | Rubik's Clock | 5040 | 38296 |
 | 9.75 % | 3x3x3 With Feet | 182 | 1866 |
 | 9.61 % | Rubik's Magic | 141 | 1467 |
 | 4.76 % | Master Magic | 39 | 820 |
@@ -18,9 +18,9 @@
 | 4.40 % | 4x4x4 Cube | 3678 | 83600 |
 | 4.05 % | Square-1 | 1178 | 29061 |
 | 4.04 % | 7x7x7 Cube | 420 | 10402 |
-| 3.59 % | 6x6x6 Cube | 437 | 12182 |
-| 3.20 % | 3x3x3 One-Handed | 2140 | 66772 |
-| 3.11 % | 5x5x5 Cube | 1741 | 55981 |
+| 3.59 % | 6x6x6 Cube | 437 | 12185 |
+| 3.20 % | 3x3x3 One-Handed | 2140 | 66777 |
+| 3.11 % | 5x5x5 Cube | 1740 | 55981 |
 | 2.32 % | 2x2x2 Cube | 3653 | 157450 |
 | 2.30 % | Pyraminx | 2311 | 100610 |
 | 2.26 % | Skewb | 1541 | 68160 |
