@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube
@@ -73,8 +73,8 @@
 | 20.70 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | 18.67, 23.75, 23.41, 18.12, 19.07, 20.05, 22.44, 21.22, 19.33, DNF, 20.89, 17.90 |
 | 24.22 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 19.84, 22.26, 23.45, 22.07, DNF, 27.05, 20.68, 34.13, 19.83, 24.42, 21.35, 26.92 |
 | 25.03 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 23.07, 21.30, DNF, 27.87, 25.18, 22.48, 22.99, 25.60, 23.05, 29.42, 22.83, 27.82 |
+| 26.52 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 23.55, 26.20, 25.62, DNF, 30.83, 24.70, 24.87, 28.97, 21.14, 24.28, 32.86, 23.33 |
 | 26.76 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 25.66, 24.74, 23.76, 18.69, 20.10, 20.06, 27.01, 27.83, 25.17, 25.84, DNF, 47.39 |
-| 28.11 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 24.14, 26.86, 31.78, 33.02, 18.56, 26.80, 24.35, 36.72, 27.57, 26.31, 25.70, 34.54 |
 | 28.12 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 25.51, 28.28, 27.34, 24.75, 25.75, 24.74, DNF, 27.76, 23.38, 28.89, 30.37, 37.80 |
 | 53.62 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 1:00.85, 32.58, 34.92, DNF, 35.04, 43.51, 39.78, 1:47.80, 1:25.40, 44.04, 45.07, 39.83 |
 
@@ -178,7 +178,7 @@
 | ---: | :--- | :--- |
 | 1:40.19 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 1:47.44, 1:29.21, 1:29.72, 1:29.81, DNF, 1:25.52, 1:41.12, 1:36.63, 1:30.90, 2:03.31, 1:31.49, 2:02.27 |
 | 1:46.81 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 1:34.29, 1:34.87, 1:38.57, 1:46.78, DNF, 1:24.98, 1:45.89, 2:26.03, 1:22.17, 1:44.92, 1:39.21, 2:12.52 |
-| 2:58.59 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3:38.51, 2:55.10, 2:49.87, 2:54.27, 3:00.34, 2:46.71, 3:09.43, 3:06.88, 2:59.48, 3:16.48, 2:45.60, 2:47.31 |
+| 2:55.61 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 2:26.98, 2:51.22, 3:00.71, DNF, 3:34.43, 3:08.24, 2:46.08, 2:51.37, 3:05.66, 2:20.88, 2:37.32, 2:54.11 |
 
 ### 5x5x5 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 | 24 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 5x5x5 Cube | [Guildford Open 2013](https://www.worldcubeassociation.org/competitions/GuildfordOpen2013) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 22 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | Square-1 | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009) | [Macclesfield Open 2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016) |
 | 22 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) | Clock | [Wakefield Spring 2022](https://www.worldcubeassociation.org/competitions/WakefieldSpring2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 20 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4x4x4 Blindfolded | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |  |
+| 21 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 4x4x4 Blindfolded | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |  |
 | 19 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 3x3x3 Cube | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 18 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | Clock | [Irish Open 2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012) | [Nottingham Summer 2014](https://www.worldcubeassociation.org/competitions/NottinghamSummer2014) |
 | 17 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | 3x3x3 Cube | [Rapid Dash Open 2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012) | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) |
@@ -49,6 +49,7 @@
 | 10 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | Square-1 | [Peterborough Summer 2023](https://www.worldcubeassociation.org/competitions/PeterboroughSummer2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | Square-1 | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) |
 | 10 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 5x5x5 Blindfolded | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 10 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3x3x3 Blindfolded | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) |  |
 | 10 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed | [Stevenage August 2024](https://www.worldcubeassociation.org/competitions/StevenageAugust2024) |  |
 | 9 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 3x3x3 Cube | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) |
 | 9 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [Swedish Open 2010](https://www.worldcubeassociation.org/competitions/SwedishOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
@@ -66,15 +67,14 @@
 | 9 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 6x6x6 Cube | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024) |  |
 | 9 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 3x3x3 Multi-Blind | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 9 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 3x3x3 Blindfolded | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023) |
-| 9 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 3x3x3 Blindfolded | [Manchester 5BLD Day 2024](https://www.worldcubeassociation.org/competitions/Manchester5BLDDay2024) |  |
 | 9 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 3x3x3 One-Handed | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022) |
 | 9 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6x6x6 Cube | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | Master Magic | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |

@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -81,6 +81,7 @@
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | South Africa | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | South Africa | [KwaZulu-Natal 2019](https://www.worldcubeassociation.org/competitions/KwaZuluNatal2019) |
 | 2 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [Toulouse Open 2010](https://www.worldcubeassociation.org/competitions/ToulouseOpen2010) |
+| 2 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | Macau, China | [NxN Rīgā 2025](https://www.worldcubeassociation.org/competitions/NxNRiga2025) |
 | 2 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | China | [German Open 2019](https://www.worldcubeassociation.org/competitions/GermanOpen2019) |
 | 2 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | China | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) |
 | 2 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | Lithuania | [Telšiai Open 2019](https://www.worldcubeassociation.org/competitions/TelsiaiOpen2019) |

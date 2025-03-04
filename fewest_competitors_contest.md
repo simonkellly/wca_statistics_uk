@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -422,6 +422,7 @@
 | 1 | [HDC XI - Hvidovre 2024](https://www.worldcubeassociation.org/competitions/HDCXIHvidovre2024) |
 | 1 | [HDC XIII - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIIIHvidovre2025) |
 | 1 | [HDC XIV - Hvidovre 2025](https://www.worldcubeassociation.org/competitions/HDCXIVHvidovre2025) |
+| 1 | [HDC XV - Hvidovre Parity 2025](https://www.worldcubeassociation.org/competitions/HDCXVHvidovreParity2025) |
 | 1 | [Heerenveen Open 2024](https://www.worldcubeassociation.org/competitions/HeerenveenOpen2024) |
 | 1 | [Hefei Summer 2019](https://www.worldcubeassociation.org/competitions/HefeiSummer2019) |
 | 1 | [Helt Blind i Furesø 2025](https://www.worldcubeassociation.org/competitions/HeltBlindiFureso2025) |
@@ -810,6 +811,7 @@
 | 1 | [Q8speedcubing in K.S.E 2023](https://www.worldcubeassociation.org/competitions/Q8speedcubinginKSE2023) |
 | 1 | [Qualifornia 2018](https://www.worldcubeassociation.org/competitions/Qualifornia2018) |
 | 1 | [Québec City 2019](https://www.worldcubeassociation.org/competitions/QuebecCity2019) |
+| 1 | [Racing Kane 2025](https://www.worldcubeassociation.org/competitions/RacingKane2025) |
 | 1 | [Rally in the Valley 2019](https://www.worldcubeassociation.org/competitions/RallyintheValley2019) |
 | 1 | [Rebel County Cubing 2024](https://www.worldcubeassociation.org/competitions/RebelCountyCubing2024) |
 | 1 | [REC Cube Challenge 2015](https://www.worldcubeassociation.org/competitions/RECCubeChallenge2015) |
@@ -831,6 +833,7 @@
 | 1 | [Rocky Top 2018](https://www.worldcubeassociation.org/competitions/RockyTop2018) |
 | 1 | [Rocky Top 2022](https://www.worldcubeassociation.org/competitions/RockyTop2022) |
 | 1 | [Rødovre Cubing 2023](https://www.worldcubeassociation.org/competitions/RodovreCubing2023) |
+| 1 | [Romandie Doigts Rapides 2025](https://www.worldcubeassociation.org/competitions/RomandieDoigtsRapides2025) |
 | 1 | [Romanian Breaking Records 2024](https://www.worldcubeassociation.org/competitions/RomanianBreakingRecords2024) |
 | 1 | [Romanian Cubing Open 2018](https://www.worldcubeassociation.org/competitions/RomanianCubingOpen2018) |
 | 1 | [Rose City 2019](https://www.worldcubeassociation.org/competitions/RoseCity2019) |
@@ -1274,6 +1277,7 @@
 | 2 | [Rare Events Athens 2024](https://www.worldcubeassociation.org/competitions/RareEventsAthens2024) |
 | 2 | [Ringsted Side Events 2022](https://www.worldcubeassociation.org/competitions/RingstedSideEvents2022) |
 | 2 | [Rocky The Ram Cubes 2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019) |
+| 2 | [Romandie Rookies 2025](https://www.worldcubeassociation.org/competitions/RomandieRookies2025) |
 | 2 | [Roskilde by Night 2023](https://www.worldcubeassociation.org/competitions/RoskildebyNight2023) |
 | 2 | [Rubik's German Nationals 2024](https://www.worldcubeassociation.org/competitions/RubiksGermanNationals2024) |
 | 2 | [Sandnes Open 2023](https://www.worldcubeassociation.org/competitions/SandnesOpen2023) |
@@ -1438,6 +1442,7 @@
 | 4 | [Midlands Mix-up 2024](https://www.worldcubeassociation.org/competitions/MidlandsMixup2024) |
 | 4 | [N8W8 Summer 2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012) |
 | 4 | [Nordic Championship 2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019) |
+| 4 | [NxN Rīgā 2025](https://www.worldcubeassociation.org/competitions/NxNRiga2025) |
 | 4 | [WCA Oceanic Championship 2024](https://www.worldcubeassociation.org/competitions/OC2024) |
 | 4 | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 4 | [Suisse Toy Fast Fingers 2017](https://www.worldcubeassociation.org/competitions/SuisseToyFastFingers2017) |
@@ -1520,6 +1525,7 @@
 | 13 | [Farnworth Spring C 2022](https://www.worldcubeassociation.org/competitions/FarnworthSpringC2022) |
 | 13 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019) |
 | 13 | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
+| 14 | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) |
 | 15 | [Every Event Éire 2019](https://www.worldcubeassociation.org/competitions/EveryEventEire2019) |
 | 15 | [Manchester BLD Day 2023](https://www.worldcubeassociation.org/competitions/ManchesterBLDDay2023) |
 

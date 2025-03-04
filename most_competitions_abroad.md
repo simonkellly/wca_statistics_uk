@@ -1,21 +1,21 @@
 ## Most competitions abroad
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 199 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 105 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
+| 200 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 106 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 88 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 63 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
-| 62 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 64 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
+| 63 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
-| 55 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
+| 56 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 44 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 43 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 43 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 43 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 43 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
 | 42 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |

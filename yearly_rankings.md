@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube - Single
@@ -191,7 +191,7 @@
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **16.50** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 52.98, 16.50, DNF |
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | **17.57** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 17.57, DNF, 22.27 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21.14** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 24.87, 28.97, 21.14 |
-| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **24.68** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | DNF, DNF, 24.68 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **22.74** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 33.18, 24.65, 22.74 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **25.75** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 25.75, DNF, DNF |
 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) | **27.31** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 32.98, DNF, 27.31 |
 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) | **32.45** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 34.44, DNF, 32.45 |
@@ -204,7 +204,7 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **24.99** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 24.87, 28.97, 21.14 |
-| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **28.88** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 26.77, 29.49, 30.37 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **26.86** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 33.18, 24.65, 22.74 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **29.10** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 29.38, 26.54, 31.39 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | **50.18** | United Kingdom | [Manchester February 2025](https://www.worldcubeassociation.org/competitions/ManchesterFebruary2025) | 54.90, 53.94, 41.70 |
 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **52.81** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 50.37, 42.26, 1:05.80 |
@@ -220,14 +220,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **22** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **23** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 30, 23, 23 |
+| [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | **30** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 33, 30, 31 |
+| [Sam Jones](https://www.worldcubeassociation.org/persons/2023JONE09) | **30** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 32, 30, 39 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **31** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 36, 31, 38 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **31** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 38, 40, 31 |
 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | **32** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 32, 37, 32 |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 33, 37, 35 |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **34** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 34, 40, 44 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **34** | United Kingdom | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) | 34, 41, 42 |
-| [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) | **35** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 41, 39, 35 |
-| [Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02) | **38** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 44, 38, 38 |
-| [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **41** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 42, 42, 41 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **42** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 43, 42, 43 |
 
 ### 3x3x3 Fewest Moves - Average
 
@@ -235,14 +235,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [Kai Cui](https://www.worldcubeassociation.org/persons/2019CUIK03) | **23.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 24, 24, 22 |
 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | **25.33** | Hong Kong, China | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 30, 23, 23 |
+| [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | **31.33** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 33, 30, 31 |
 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | **33.67** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 32, 37, 32 |
+| [Sam Jones](https://www.worldcubeassociation.org/persons/2023JONE09) | **33.67** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 32, 30, 39 |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **35.00** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 33, 37, 35 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **35.00** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 36, 31, 38 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **36.33** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 38, 40, 31 |
 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) | **38.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 41, 39, 35 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **39.00** | United Kingdom | [Risbjerg Februar 2025](https://www.worldcubeassociation.org/competitions/RisbjergFebruar2025) | 34, 41, 42 |
-| [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **39.33** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 34, 40, 44 |
-| [Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02) | **40.00** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 44, 38, 38 |
-| [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **41.67** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 42, 42, 41 |
-| [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **42.67** | United Kingdom | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 43, 42, 43 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -428,42 +428,53 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **1:21.42** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 1:21.42, 1:22.50, DNF |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **1:07.48** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 1:07.48, DNF, DNF |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **2:20.88** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 2:20.88, 2:37.32, 2:54.11 |
 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **3:59.42** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | DNF, 3:59.42, DNF |
 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **4:27.01** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 4:59.96, 4:27.01, DNF |
+| [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) | **6:14.01** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | DNF, 6:14.01, DNS |
 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **6:22.07** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | DNF, 6:22.07, DNF |
 | [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) | **6:39.10** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | DNF, DNF, 6:39.10 |
+| [Daniel Kidd](https://www.worldcubeassociation.org/persons/2023KIDD02) | **6:50.84** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 6:50.84, DNF, 9:21.80 |
 | [Alexander Lilley-McCamley](https://www.worldcubeassociation.org/persons/2024LILL01) | **7:21.13** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | DNF, DNF, 7:21.13 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | **8:11.71** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 8:11.71, DNF, DNF |
-| [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **8:25.26** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 8:25.26, 8:41.41, 8:51.90 |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **10:44.00** | United Kingdom | [Helt Blind i Furesø 2025](https://www.worldcubeassociation.org/competitions/HeltBlindiFureso2025) | 10:59.00, 10:44.00, DNF |
 
 ### 4x4x4 Blindfolded - Average
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **2:37.44** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 2:20.88, 2:37.32, 2:54.11 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **8:39.52** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 8:25.26, 8:41.41, 8:51.90 |
 
 ### 5x5x5 Blindfolded - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
+| [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **3:25.93** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 3:31.88, 3:25.93, DNF |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **5:40.81** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 5:40.81, 6:21.33, 6:17.41 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **7:49.20** | United Kingdom | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025) | 7:49.20, DNF, DNF |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **11:30.00** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | DNF, 11:30.00, DNF |
+
+### 5x5x5 Blindfolded - Average
+
+| Person | Result | Country | Competition | Details |
+| :--- | ---: | :--- | :--- | :--- |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **6:06.52** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 5:40.81, 6:21.33, 6:17.41 |
 
 ### 3x3x3 Multi-Blind - Single
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **34/41 1:00:00** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 34/41 1:00:00, DNF |
-| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **29/37 1:00:00** | China | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 29/37 1:00:00 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **31/37 1:00:00** | China | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 31/37 1:00:00, 27/33 55:49, DNS |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **18/21 59:04** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 18/21 59:04 |
 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **17/19 59:56** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 17/19 59:56 |
+| [Daniel Kidd](https://www.worldcubeassociation.org/persons/2023KIDD02) | **15/17 58:30** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | DNF, 15/17 58:30, 12/17 1:00:00 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **12/13 51:13** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 12/13 51:13 |
 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | **14/17 55:22** | Bulgaria | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 14/17 55:22 |
 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **14/18 52:18** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 14/18 52:18, DNF |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **11/12 58:14** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 11/12 58:14 |
-| [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | **11/14 57:51** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 11/14 57:51 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **10/13 50:49** | United Kingdom | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 8/16 57:13, 10/13 50:49 |
+| [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | **13/17 56:19** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 12/17 55:03, 13/17 56:19, DNF |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
