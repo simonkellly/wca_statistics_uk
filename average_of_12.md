@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | :--- |
 | 6.07 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 6.12, 6.14, 5.42, 6.32, 10.80, 5.83, 5.56, 5.94, 6.53, 5.81, 6.42, 5.98 |
 | 6.49 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 6.04, 5.95, 7.35, 6.75, 6.77, 6.14, 6.37, 5.70, 6.75, 7.43, 6.63, 6.13 |
-| 7.83 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 8.12, 7.40, 7.50, 8.01, 8.45, 7.66, 7.32, 8.19, 6.59, 9.25, 8.10, 7.59 |
+| 7.73 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7.84, 5.74, 6.84, 10.08, 10.28, 7.98, 8.07, 6.85, 7.85, 7.79, 7.94, 6.05 |
 | 7.91 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 7.76, 7.57, 7.49, 6.85, 9.95, 7.56, 9.87, 7.94, 7.68, 8.94, 7.35, 6.91 |
 | 7.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 7.30, 8.23, 6.42, 7.73, 8.02, 7.52, 8.84, 7.85, 8.01, 9.02, 7.39, 8.64 |
 
@@ -53,7 +53,7 @@
 | ---: | :--- | :--- |
 | 1:29.93 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:24.84, 1:29.49, 1:31.56, 1:29.64, 1:29.27, 1:30.44, 1:34.28, 1:40.16, 1:23.62, 1:25.50, 1:46.53, 1:24.14 |
 | 1:31.21 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:23.79, 1:31.46, 1:26.32, 1:39.00, 1:29.67, 1:33.52, 1:35.06, 1:46.02, 1:25.02, 1:25.11, 1:35.58, 1:31.37 |
-| 1:33.81 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:29.67, 1:36.03, 1:39.59, 1:23.65, 1:35.14, 1:33.85, 1:33.25, 1:36.13, 1:43.51, 1:31.03, 1:37.41, 1:25.99 |
+| 1:33.74 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:23.65, 1:35.14, 1:33.85, 1:33.25, 1:36.13, 1:43.51, 1:31.03, 1:37.41, 1:25.99, 1:44.82, 1:30.59, 1:30.52 |
 | 1:37.18 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:30.09, 1:32.24, 1:36.79, 1:43.17, 1:33.29, 1:41.63, 1:37.79, 1:43.14, 1:35.33, DNF, 1:32.75, 1:35.67 |
 | 1:45.15 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:41.93, 1:30.44, 1:59.26, 1:34.55, 1:55.13, 1:38.78, 1:57.86, 1:42.70, 1:43.65, 1:37.00, 1:53.83, 1:46.04 |
 
@@ -138,7 +138,7 @@
 | ---: | :--- | :--- |
 | 3.27 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.21, 4.01, 2.92, 3.27, 2.75, 2.91, 5.31, 3.04, 3.50, 3.22, 3.37, 3.28 |
 | 3.45 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 2.58, 5.64, DNF, 3.89, 2.76, 2.70, 2.88, 4.18, 3.04, 3.07, 2.51, 3.74 |
-| 3.66 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 4.01, 3.57, 6.56, 4.04, 3.78, 3.28, 3.71, 3.08, 3.72, 3.45, 4.00, 2.92 |
+| 3.53 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 2.91, 3.69, 3.48, 2.98, 3.02, 3.50, 6.99, 3.09, 3.31, 5.12, 2.71, 4.15 |
 | 3.74 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 5.80, 3.75, 3.57, 3.35, 3.51, 4.28, 3.68, 3.76, 2.77, 2.80, 6.14, 2.89 |
 | 3.85 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 4.05, 3.00, 4.06, 4.29, 3.67, 4.02, 4.22, 4.17, 2.87, 3.54, 3.94, 3.84 |
 | 3.88 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 4.17, 5.06, 3.58, 3.19, 3.40, 3.12, 3.25, 6.23, 3.61, 3.52, 3.59, 5.44 |

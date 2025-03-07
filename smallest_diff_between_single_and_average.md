@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -29,10 +29,10 @@
 | 0.05 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | 1.80 | 1.85 | [Stevenage July 2024](https://www.worldcubeassociation.org/competitions/StevenageJuly2024/results/by_person#2022ASGA01) |
 | 0.05 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 1.98 | 2.03 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020ARCH01) |
 | 0.05 | [Levi Way](https://www.worldcubeassociation.org/persons/2014WAYL01) | 3.08 | 3.13 | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/by_person#2014WAYL01) |
+| 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 1.49 | 1.55 | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2022CALD07) |
 | 0.06 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 1.80 | 1.86 | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023/results/by_person#2020ARCH01) |
 | 0.06 | [Matthew Ayre](https://www.worldcubeassociation.org/persons/2018AYRE02) | 3.65 | 3.71 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2018AYRE02) |
 | 0.06 | [Kendall Picton](https://www.worldcubeassociation.org/persons/2024PICT01) | 3.86 | 3.92 | [Puerto Real Camaleón Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2024/results/by_person#2024PICT01) |
-| 0.06 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 4.16 | 4.22 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019/results/by_person#2016HARL01) |
 
 ### 4x4x4 Cube
 
@@ -58,11 +58,11 @@
 | 0.31 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 50.43 | 50.74 | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2019MORG10) |
 | 0.37 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 1:08.03 | 1:08.40 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2017OSTR01) |
 | 0.46 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 58.94 | 59.40 | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2014SCHW02) |
+| 0.47 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | 55.47 | 55.94 | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2023FANG02) |
 | 0.48 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 1:01.50 | 1:01.98 | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2012SEVE01) |
 | 0.49 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 1:06.54 | 1:07.03 | [Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/by_person#2013SAVA01) |
 | 0.50 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 1:02.43 | 1:02.93 | [Lincolnshire Autumn 2024](https://www.worldcubeassociation.org/competitions/LincolnshireAutumn2024/results/by_person#2022CALD07) |
 | 0.50 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 1:34.36 | 1:34.86 | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011/results/by_person#2007VALL01) |
-| 0.53 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) | 1:10.29 | 1:10.82 | [Newham Side Events Winter 2023](https://www.worldcubeassociation.org/competitions/NewhamSideEventsWinter2023/results/by_person#2016SIUM01) |
 
 ### 6x6x6 Cube
 

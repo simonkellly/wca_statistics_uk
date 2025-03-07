@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 5.30 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024/results/by_person#2018ALON07) |
 | 5.45 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire March 2024](https://www.worldcubeassociation.org/competitions/WiltshireMarch2024/results/by_person#2018ALON07) |
 | 5.48 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2018ALON07) |
+| 5.52 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2018ALON07) |
 | 5.56 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2014MILL04) |
 | 5.56 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024/results/by_person#2018ALON07) |
 | 5.61 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2018ALON07) |
 | 5.64 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2018ALON07) |
 | 5.66 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire December 2023](https://www.worldcubeassociation.org/competitions/WiltshireDecember2023/results/by_person#2018ALON07) |
 | 5.67 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2014MILL04) |
-| 5.72 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire Winter 2023](https://www.worldcubeassociation.org/competitions/WiltshireWinter2023/results/by_person#2018ALON07) |
 
 ### 2x2x2 Cube
 
@@ -24,14 +24,14 @@
 | ---: | :--- | :--- |
 | 0.86 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018ALON07) |
 | 0.93 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020BURN06) |
+| 0.95 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2023TULL04) |
+| 0.96 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2023FANG02) |
 | 0.98 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018ALON07) |
 | 1.00 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2020BURN06) |
 | 1.02 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Leicestershire Autumn 2024](https://www.worldcubeassociation.org/competitions/LeicestershireAutumn2024/results/by_person#2020BURN06) |
 | 1.05 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2023TULL04) |
 | 1.06 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020BURN06) |
 | 1.07 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023/results/by_person#2020BURN06) |
-| 1.08 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Wakefield Autumn 2023](https://www.worldcubeassociation.org/competitions/WakefieldAutumn2023/results/by_person#2020BURN06) |
-| 1.09 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's Irish Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksIrishChampionship2024/results/by_person#2020BURN06) |
 
 ### 4x4x4 Cube
 
@@ -86,12 +86,12 @@
 | 27.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.31 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 | 28.35 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2018GRAI01) |
+| 28.63 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2018GRAI01) |
 | 28.65 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 | 28.81 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.82 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2018GRAI01) |
 | 28.91 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2018GRAI01) |
 | 29.01 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
-| 29.02 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2018GRAI01) |
 
 ### Pyraminx
 

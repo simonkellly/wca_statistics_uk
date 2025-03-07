@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 1:55.13 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 2:07.84 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 2:18.38 | [Bochang Lu (卢伯畅)](https://www.worldcubeassociation.org/persons/2018LUBO01) |
 | 2:20.73 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 2:23.20 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 2:24.16 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
@@ -77,7 +78,6 @@
 | 2:24.99 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) |
 | 2:29.32 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
 | 2:29.49 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
-| 2:31.48 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) |
 
 ### 7x7x7 Cube
 
@@ -140,6 +140,7 @@
 | First average | Person |
 | ---: | :--- |
 | 1:00.24 | [Hasan Bahadur](https://www.worldcubeassociation.org/persons/2018BAHA01) |
+| 1:04.60 | [Timothy Johnstone](https://www.worldcubeassociation.org/persons/2024JOHN49) |
 | 1:05.71 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 1:09.31 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
 | 1:09.83 | [Logan Tonon](https://www.worldcubeassociation.org/persons/2023TONO02) |
@@ -148,7 +149,6 @@
 | 1:12.98 | [Ethan D. Mason](https://www.worldcubeassociation.org/persons/2022MASO01) |
 | 1:13.24 | [Olaf Niechciał](https://www.worldcubeassociation.org/persons/2022NIEC01) |
 | 1:13.64 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
-| 1:14.48 | [Cliff Lam](https://www.worldcubeassociation.org/persons/2023LAMC05) |
 
 ### Pyraminx
 
@@ -178,7 +178,7 @@
 | 8.83 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 8.88 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 8.93 | [Callum Saunders Hibbert](https://www.worldcubeassociation.org/persons/2023HIBB01) |
-| 8.96 | [Mohammed Ayan Thalukdar](https://www.worldcubeassociation.org/persons/2023THAL01) |
+| 8.95 | [James Phan](https://www.worldcubeassociation.org/persons/2024PHAN08) |
 
 ### Skewb
 

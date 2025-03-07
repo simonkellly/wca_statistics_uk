@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### 200 Competitions
@@ -48,6 +48,7 @@
 | 792 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 974 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
 | 1030 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
+| 1050 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) |
 | 1324 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 1584 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 1653 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
@@ -62,7 +63,6 @@
 | 2059 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 2066 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 2122 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
-| 2150 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 
 ### 25 Competitions
 

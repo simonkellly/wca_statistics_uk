@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -39,12 +39,12 @@
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4** | 3 | 4 | 11 |
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **4** | 2 | 3 | 9 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | **3** | 7 | 3 | 13 |
-| [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | **3** | 6 | 3 | 12 |
+| [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | **3** | 6 | 4 | 13 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | **3** | 4 | 5 | 12 |
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | **3** | 2 | 2 | 7 |
 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | **3** | 2 | 2 | 7 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | **3** | 2 | 0 | 5 |
-| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **3** | 1 | 6 | 10 |
+| [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **3** | 1 | 7 | 11 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **3** | 0 | 1 | 4 |
 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | **3** | 0 | 1 | 4 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | **2** | 3 | 7 | 12 |

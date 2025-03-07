@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -53,7 +53,7 @@
 | ---: | :--- | :--- |
 | 1:27.92 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:23.62, 1:25.50, 1:46.53, 1:24.14, 1:34.11 |
 | 1:28.71 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:28.35, 1:45.69, 1:23.79, 1:31.46, 1:26.32 |
-| 1:33.01 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:31.03, 1:37.41, 1:25.99, 1:44.82, 1:30.59 |
+| 1:31.72 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:25.99, 1:44.82, 1:30.59, 1:30.52, 1:34.06 |
 | 1:34.11 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:30.09, 1:32.24, 1:36.79, 1:43.17, 1:33.29 |
 | 1:41.71 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:38.78, 1:57.86, 1:42.70, 1:43.65, 1:37.00 |
 
@@ -110,7 +110,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 28.56 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 28.31, 29.36, 27.95, 30.68, 28.02 |
+| 28.53 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 29.01, 27.95, 33.57, 27.65, 28.63 |
 | 30.07 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 32.06, 30.43, 30.16, 29.61, 28.96 |
 | 36.69 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 36.06, 33.49, 43.10, 38.86, 35.15 |
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |

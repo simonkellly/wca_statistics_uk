@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -75,9 +75,9 @@
 | 2:21.35 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 2:22.78 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 | 2:26.09 | [Ethan Horspool](https://www.worldcubeassociation.org/persons/2016HORS01) |
+| 2:26.39 | [Brayden Bushay](https://www.worldcubeassociation.org/persons/2023BUSH04) |
 | 2:27.15 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 2:27.72 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
-| 2:28.26 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 
 ### 7x7x7 Cube
 
@@ -147,12 +147,12 @@
 | 1:01.77 | [Christopher Kilgallon](https://www.worldcubeassociation.org/persons/2022KILG02) |
 | 1:02.09 | [Logan Tonon](https://www.worldcubeassociation.org/persons/2023TONO02) |
 | 1:05.31 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
+| 1:07.81 | [Timothy Johnstone](https://www.worldcubeassociation.org/persons/2024JOHN49) |
 | 1:10.38 | [Etim Okpoyo](https://www.worldcubeassociation.org/persons/2024OKPO01) |
 | 1:12.09 | [Liam Pintat](https://www.worldcubeassociation.org/persons/2024PINT15) |
 | 1:12.20 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 1:13.77 | [Rayan Islam](https://www.worldcubeassociation.org/persons/2022ISLA08) |
 | 1:15.06 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) |
-| 1:15.08 | [Zachary Fogg](https://www.worldcubeassociation.org/persons/2022FOGG01) |
 
 ### Pyraminx
 
@@ -174,6 +174,7 @@
 | First single | Person |
 | ---: | :--- |
 | 6.04 | [Ed Scholey](https://www.worldcubeassociation.org/persons/2020SCHO03) |
+| 6.22 | [James Phan](https://www.worldcubeassociation.org/persons/2024PHAN08) |
 | 7.31 | [Mark Smith](https://www.worldcubeassociation.org/persons/2009SMIT06) |
 | 7.57 | [Rian Revening](https://www.worldcubeassociation.org/persons/2022REVE02) |
 | 7.78 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
@@ -182,7 +183,6 @@
 | 8.11 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) |
 | 8.45 | [Nuriel Pinela](https://www.worldcubeassociation.org/persons/2023PINE04) |
 | 8.51 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 8.52 | [Daniel Hamilton](https://www.worldcubeassociation.org/persons/2023HAMI12) |
 
 ### Skewb
 
