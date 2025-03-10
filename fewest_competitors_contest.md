@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -107,6 +107,7 @@
 | 1 | [Belgian Winter 2017](https://www.worldcubeassociation.org/competitions/BelgianWinter2017) |
 | 1 | [Bengaluru Cool Down 2019](https://www.worldcubeassociation.org/competitions/BengaluruCoolDown2019) |
 | 1 | [Bergen Fall 2023](https://www.worldcubeassociation.org/competitions/BergenFall2023) |
+| 1 | [Bergen Spring 2025](https://www.worldcubeassociation.org/competitions/BergenSpring2025) |
 | 1 | [Berkeley Fall 2013](https://www.worldcubeassociation.org/competitions/BerkeleyFall2013) |
 | 1 | [Berkeley Fall 2019](https://www.worldcubeassociation.org/competitions/BerkeleyFall2019) |
 | 1 | [Berkeley Spring 2012](https://www.worldcubeassociation.org/competitions/BerkeleySpring2012) |
@@ -377,6 +378,7 @@
 | 1 | [Going Back to the Gong 2024](https://www.worldcubeassociation.org/competitions/GoingBacktotheGong2024) |
 | 1 | [Gold Coast Spring 2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019) |
 | 1 | [Good Old Days Ankara 2019](https://www.worldcubeassociation.org/competitions/GoodOldDaysAnkara2019) |
+| 1 | [Gort-a Go Fast 2025](https://www.worldcubeassociation.org/competitions/GortaGoFast2025) |
 | 1 | [Gøy på Landet 2024](https://www.worldcubeassociation.org/competitions/GoypaLandet2024) |
 | 1 | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) |
 | 1 | [Greece Winter Open 2015](https://www.worldcubeassociation.org/competitions/GreeceWinterOpen2015) |
