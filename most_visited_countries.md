@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -20,8 +20,8 @@
 | 10 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 10 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
 | 10 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
+| 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 8 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
-| 8 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 8 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) |
 | 8 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) |
 | 8 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
@@ -32,6 +32,7 @@
 | 7 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) |
 | 7 | [Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01) |
 | 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) |
+| 7 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 7 | [Laurence Livsey](https://www.worldcubeassociation.org/persons/2012LIVS01) |
 | 7 | [Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01) |
 | 7 | [Felix Rowan](https://www.worldcubeassociation.org/persons/2023ROWA01) |
@@ -41,11 +42,10 @@
 | 6 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 6 | [Steve Clarke](https://www.worldcubeassociation.org/persons/2015CLAR13) |
 | 6 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) |
-| 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
+| 6 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 6 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) |
 | 6 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) |
-| 6 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
-| 6 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
+| 6 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
 | 6 | [Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06) |
 | 6 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) |
 | 6 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |

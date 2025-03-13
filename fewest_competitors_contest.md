@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -225,7 +225,6 @@
 | 1 | [Cuboss Open 2024](https://www.worldcubeassociation.org/competitions/CubossOpen2024) |
 | 1 | [Cupcake Cubing 2013](https://www.worldcubeassociation.org/competitions/CupcakeCubing2013) |
 | 1 | [Cyber Open 2011](https://www.worldcubeassociation.org/competitions/CyberOpen2011) |
-| 1 | [Cyprus Nationals 2024](https://www.worldcubeassociation.org/competitions/CyprusNationals2024) |
 | 1 | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) |
 | 1 | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) |
 | 1 | [Dalhousie Open 2018](https://www.worldcubeassociation.org/competitions/DalhousieOpen2018) |
@@ -1168,6 +1167,7 @@
 | 2 | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |
 | 2 | [Cubing with the KK Cats Sun 2024](https://www.worldcubeassociation.org/competitions/CubingwiththeKKCatsSunday2024) |
 | 2 | [Cyber Open 2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012) |
+| 2 | [Cyprus Cubing League I 2025](https://www.worldcubeassociation.org/competitions/CyprusCubingLeagueI2025) |
 | 2 | [Cyprus Winter Cup 2023](https://www.worldcubeassociation.org/competitions/CyprusWinterCup2023) |
 | 2 | [Czech Open 2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010) |
 | 2 | [Danish Championship 2023](https://www.worldcubeassociation.org/competitions/DanishChampionship2023) |

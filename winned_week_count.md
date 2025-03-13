@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 
 ### Rubik's Cube
@@ -45,8 +45,8 @@
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 13 |
 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 12 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 12 |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 11 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 10 |
-| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 10 |
 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 10 |
 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | 10 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 9 |
@@ -225,9 +225,9 @@
 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | 9 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 8 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 8 |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 8 |
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 7 |
-| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 7 |
 
 ### Megaminx
 
@@ -313,14 +313,14 @@
 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 24 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 24 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 18 |
-| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 14 |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 15 |
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 13 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 10 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 9 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 9 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 8 |
-| [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 7 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
+| [Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02) | 7 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 7 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 6 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 6 |

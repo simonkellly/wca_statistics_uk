@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -76,6 +76,7 @@
 | 2 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | New Zealand | [Twisty Taranaki 2021](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2021) |
 | 2 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010) |
 | 2 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Swiss Science Open 2018](https://www.worldcubeassociation.org/competitions/SwissScienceOpen2018) |
+| 2 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | United Kingdom | [Cyprus Cubing League I 2025](https://www.worldcubeassociation.org/competitions/CyprusCubingLeagueI2025) |
 | 2 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | United Kingdom | [Come Back to Landvetter 2024](https://www.worldcubeassociation.org/competitions/ComeBacktoLandvetter2024) |
 | 2 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | United Kingdom | [Příbram Cube 2023](https://www.worldcubeassociation.org/competitions/PribramCube2023) |
 | 2 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | South Africa | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017) |
@@ -159,8 +160,8 @@
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [Berkeley Summer 2013](https://www.worldcubeassociation.org/competitions/BerkeleySummer2013) |
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011) |
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) |
-| 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019) |
 | 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
+| 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019) |
 | 1 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | United Kingdom | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [German Side Events 2021](https://www.worldcubeassociation.org/competitions/GermanSideEvents2021) |
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |

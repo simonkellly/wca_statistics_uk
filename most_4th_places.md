@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -39,9 +39,9 @@
 | 21 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 20 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 19 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
+| 19 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 19 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 18 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
-| 18 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 18 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
 | 17 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 17 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) |

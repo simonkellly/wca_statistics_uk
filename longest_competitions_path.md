@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -25,7 +25,7 @@
 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | 76 268 km |
 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | 75 141 km |
 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 73 425 km |
-| [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 64 607 km |
+| [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) | 67 863 km |
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 55 642 km |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | 52 402 km |
 | [Steve Clarke](https://www.worldcubeassociation.org/persons/2015CLAR13) | 52 155 km |
@@ -65,13 +65,13 @@
 | [Stefan Chao](https://www.worldcubeassociation.org/persons/2013CHAO01) | 29 236 km |
 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | 28 801 km |
 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | 28 228 km |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 28 032 km |
 | [Nicolas Rojas](https://www.worldcubeassociation.org/persons/2019ROJA08) | 26 482 km |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 25 706 km |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 25 635 km |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 25 418 km |
 | [Emily Marshall](https://www.worldcubeassociation.org/persons/2023MARS02) | 25 247 km |
 | [Christopher Bode](https://www.worldcubeassociation.org/persons/2012BODE01) | 24 663 km |
-| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 24 584 km |
 | [Jamaal Burah](https://www.worldcubeassociation.org/persons/2017BURA01) | 24 297 km |
 | [Thea Lancaster](https://www.worldcubeassociation.org/persons/2023LANC06) | 24 207 km |
 | [Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01) | 23 833 km |
@@ -249,7 +249,6 @@
 | [Parth Rastogi](https://www.worldcubeassociation.org/persons/2023RAST01) | 6 773 km |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 6 675 km |
 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 6 571 km |
-| [Roman Zakoulov](https://www.worldcubeassociation.org/persons/2024ZAKO01) | 6 529 km |
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 6 503 km |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 6 470 km |
 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | 6 431 km |
@@ -1005,6 +1004,7 @@
 | [Adam Drapeza Raimondo](https://www.worldcubeassociation.org/persons/2012RAIM01) | 556 km |
 | [Jake Craig Watson](https://www.worldcubeassociation.org/persons/2024WATS12) | 556 km |
 | [Luke Terzich](https://www.worldcubeassociation.org/persons/2019TERZ01) | 555 km |
+| [Thomas Mayes](https://www.worldcubeassociation.org/persons/2023MAYE01) | 555 km |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

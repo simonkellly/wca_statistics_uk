@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -72,11 +72,11 @@
 | 9 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 6x6x6 Cube | [Essex Spring 2023](https://www.worldcubeassociation.org/competitions/EssexSpring2023) | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023) |
 | 8 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | Master Magic | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010) | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [UK Open 2010](https://www.worldcubeassociation.org/competitions/UKOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |

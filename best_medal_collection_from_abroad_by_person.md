@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -38,6 +38,7 @@
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **4** | 4 | 1 | 9 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4** | 3 | 4 | 11 |
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **4** | 2 | 3 | 9 |
+| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **3** | 9 | 11 | 23 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | **3** | 7 | 3 | 13 |
 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | **3** | 6 | 4 | 13 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | **3** | 4 | 5 | 12 |
@@ -60,7 +61,6 @@
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **2** | 0 | 0 | 2 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | **2** | 0 | 0 | 2 |
 | [Tristan Penson](https://www.worldcubeassociation.org/persons/2009PENS02) | **2** | 0 | 0 | 2 |
-| [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **1** | 6 | 10 | 17 |
 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | **1** | 4 | 6 | 11 |
 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) | **1** | 4 | 4 | 9 |
 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1** | 4 | 1 | 6 |
