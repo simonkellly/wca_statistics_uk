@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -60,20 +60,20 @@
 | 16 | [Peijie Zhao (赵培杰)](https://www.worldcubeassociation.org/persons/2019ZHAP04) |
 | 16 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) |
 | 16 | [Mathis Engelbrecht](https://www.worldcubeassociation.org/persons/2022ENGE02) |
+| 16 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 16 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
 | 15 | [Hazel Hughes](https://www.worldcubeassociation.org/persons/2015HUGH04) |
 | 15 | [Anjor Ghule](https://www.worldcubeassociation.org/persons/2023GHUL01) |
 | 15 | [Oliver Crook](https://www.worldcubeassociation.org/persons/2022CROO02) |
 | 15 | [Shun Ishikawa](https://www.worldcubeassociation.org/persons/2011ISHI02) |
-| 15 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 15 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) |
 | 15 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) |
 | 14 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) |
+| 14 | [Vihaan Palsapure](https://www.worldcubeassociation.org/persons/2023PALS01) |
 | 14 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Eli Gorodnitzky](https://www.worldcubeassociation.org/persons/2023GORO01) |
 | 14 | [Daniel Hussain Mohammadi](https://www.worldcubeassociation.org/persons/2017MOHA13) |
-| 14 | [Vihaan Palsapure](https://www.worldcubeassociation.org/persons/2023PALS01) |
 | 14 | [Joh Fujita (藤田丈)](https://www.worldcubeassociation.org/persons/2022FUJI02) |
 | 13 | [David Forsell](https://www.worldcubeassociation.org/persons/2022FORS07) |
 | 13 | [James Blackwell](https://www.worldcubeassociation.org/persons/2022BLAC02) |
@@ -83,9 +83,9 @@
 | 12 | [Joe Yearl](https://www.worldcubeassociation.org/persons/2014YEAR01) |
 | 12 | [Eniko Luca Bachrati](https://www.worldcubeassociation.org/persons/2023BACH03) |
 | 12 | [Finja Engelbrecht](https://www.worldcubeassociation.org/persons/2022ENGE03) |
+| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 12 | [Zhimei Liu (刘智美)](https://www.worldcubeassociation.org/persons/2022LIUZ04) |
 | 12 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
-| 12 | [Jordan Mostert](https://www.worldcubeassociation.org/persons/2023MOST01) |
 | 12 | [Adejuwon Adebusuyi Oluwemimo](https://www.worldcubeassociation.org/persons/2022OLUW01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) |
@@ -100,9 +100,9 @@
 | 10 | [Junhan Wen](https://www.worldcubeassociation.org/persons/2022WENJ02) |
 | 10 | [Efe Pasaogullari](https://www.worldcubeassociation.org/persons/2022PASA02) |
 | 10 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
-| 10 | [Sichan Joseph Lee](https://www.worldcubeassociation.org/persons/2024LEES04) |
 | 10 | [Richard Mang](https://www.worldcubeassociation.org/persons/2023RICH24) |
 | 10 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
+| 10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 10 | [Harvey Constanti-Smith](https://www.worldcubeassociation.org/persons/2023CONS06) |
 
 

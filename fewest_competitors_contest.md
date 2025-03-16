@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -630,6 +630,7 @@
 | 1 | [Minx Open 2014](https://www.worldcubeassociation.org/competitions/MinxOpen2014) |
 | 1 | [Minyons de Terrassa Open 2015](https://www.worldcubeassociation.org/competitions/MinyonsdeTerrassaOpen2015) |
 | 1 | [Mishawaka Winter 2017](https://www.worldcubeassociation.org/competitions/MishawakaWinter2017) |
+| 1 | [Mississauga Newcomers B 2025](https://www.worldcubeassociation.org/competitions/MississaugaNewcomersB2025) |
 | 1 | [Missouri Summer Kickoff 2024](https://www.worldcubeassociation.org/competitions/MissouriSummerKickoff2024) |
 | 1 | [MIT Fall 2011](https://www.worldcubeassociation.org/competitions/MITFall2011) |
 | 1 | [MIT Fall 2012](https://www.worldcubeassociation.org/competitions/MITFall2012) |
@@ -891,6 +892,7 @@
 | 1 | [Singapore Clock Clash 2024](https://www.worldcubeassociation.org/competitions/SingaporeClockClash2024) |
 | 1 | [Singapore Freeze 2024](https://www.worldcubeassociation.org/competitions/SingaporeFreeze2024) |
 | 1 | [Singapore Hougang Open 2024](https://www.worldcubeassociation.org/competitions/SingaporeHougangOpen2024) |
+| 1 | [Singapore March Classics 2025](https://www.worldcubeassociation.org/competitions/SingaporeMarchClassics2025) |
 | 1 | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023) |
 | 1 | [Singapore MentalMatrix Open 2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019) |
 | 1 | [Singapore Open 2015](https://www.worldcubeassociation.org/competitions/SingaporeOpen2015) |
@@ -1221,6 +1223,7 @@
 | 2 | [Kolla Summer Cup 2023](https://www.worldcubeassociation.org/competitions/KollaSummerCup2023) |
 | 2 | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) |
 | 2 | [Kubkvarna 2022](https://www.worldcubeassociation.org/competitions/Kubkvarna2022) |
+| 2 | [Kungkuben 2025](https://www.worldcubeassociation.org/competitions/Kungkuben2025) |
 | 2 | [Larnaca Open 2019](https://www.worldcubeassociation.org/competitions/LarnacaOpen2019) |
 | 2 | [Lexington Fall 2014](https://www.worldcubeassociation.org/competitions/LexingtonFall2014) |
 | 2 | [Lexington Spring 2014](https://www.worldcubeassociation.org/competitions/LexingtonSpring2014) |

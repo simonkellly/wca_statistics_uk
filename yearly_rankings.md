@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### Rubik's Cube - Single
@@ -14,7 +14,7 @@
 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | **5.53** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 5.53, 7.05, 6.49, 8.70, 7.43 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **5.56** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 5.97, 5.56, 7.60, 7.04, 7.61 |
 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) | **5.61** | United Kingdom | [Leersum Squared 2025](https://www.worldcubeassociation.org/competitions/LeersumSquared2025) | 8.94, 10.06, 13.94, 5.61, 9.57 |
-| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **5.67** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 6.48, 8.84, 5.67, 7.30, 8.72 |
+| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **5.61** | United Kingdom | [Mississauga Newcomers B 2025](https://www.worldcubeassociation.org/competitions/MississaugaNewcomersB2025) | 5.61, 7.17, 7.46, 6.54, 8.14 |
 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | **5.68** | United Kingdom | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 8.97, 8.22, 5.68, 17.74, DNF |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **5.74** | United Kingdom | [Crewe Winter 2025](https://www.worldcubeassociation.org/competitions/CreweWinter2025) | 9.07, 8.23, 7.84, 5.74, 6.84 |
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **5.86** | Hong Kong, China | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 7.49, 5.86, 6.61, 8.42, 7.50 |
@@ -28,7 +28,7 @@
 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | **6.73** | United Kingdom | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 6.82, 6.60, 6.30, 6.93, 6.77 |
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **6.76** | United Kingdom | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025) | 6.82, 6.73, 7.65, 6.74, 6.52 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **6.87** | United Kingdom | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025) | 5.97, 5.56, 7.60, 7.04, 7.61 |
-| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **7.11** | United Kingdom | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025) | 7.04, 6.38, 9.02, 7.50, 6.79 |
+| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **7.06** | United Kingdom | [Mississauga Newcomers B 2025](https://www.worldcubeassociation.org/competitions/MississaugaNewcomersB2025) | 5.61, 7.17, 7.46, 6.54, 8.14 |
 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) | **7.15** | United Kingdom | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 7.58, 6.39, 6.06, 10.01, 7.47 |
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **7.20** | Hong Kong, China | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 7.49, 5.86, 6.61, 8.42, 7.50 |
 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | **7.36** | United Kingdom | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 6.81, 7.66, 6.62, 8.00, 7.60 |

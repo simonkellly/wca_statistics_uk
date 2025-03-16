@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -60,12 +60,12 @@
 | 27 | [Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01) | [Cambridge Open 2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013) | [London Open 2019](https://www.worldcubeassociation.org/competitions/LondonOpen2019) |
 | 27 | [Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01) | [UK Championship 2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014) | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) |
 | 27 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | [GDSY Open 2018](https://www.worldcubeassociation.org/competitions/GDSYOpen2018) | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |
+| 27 | [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |  |
 | 27 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) | [Stevenage April 2024](https://www.worldcubeassociation.org/competitions/StevenageApril2024) |
 | 27 | [Sophie Gilbert](https://www.worldcubeassociation.org/persons/2022GILB05) | [Norwich Summer 2022](https://www.worldcubeassociation.org/competitions/NorwichSummer2022) |  |
 | 26 | [Ronald Mansveld](https://www.worldcubeassociation.org/persons/2015MANS04) | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Guildford Open 2020](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020) |
 | 26 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
 | 26 | [Nathan Olano](https://www.worldcubeassociation.org/persons/2018OLAN01) | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024) |
-| 26 | [Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03) | [Lincoln Open 2019](https://www.worldcubeassociation.org/competitions/LincolnOpen2019) |  |
 | 26 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
 | 26 | [Sebastian Costa](https://www.worldcubeassociation.org/persons/2022COST12) | [Chippenham Autumn 2022](https://www.worldcubeassociation.org/competitions/ChippenhamAutumn2022) |  |
 | 26 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) | [Rubik's UK Championship FMC 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionshipFMC2023) |

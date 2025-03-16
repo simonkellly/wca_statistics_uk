@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### Rubik's Cube
@@ -20,7 +20,7 @@
 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | 17 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | 14 |
 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) | 13 |
-| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 11 |
+| [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 12 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 10 |
 | [Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01) | 9 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 9 |
@@ -172,9 +172,9 @@
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 9 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 7 |
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 7 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 7 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |

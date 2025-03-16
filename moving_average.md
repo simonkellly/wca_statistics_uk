@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 
 ### Rubik's Cube
@@ -19,7 +19,7 @@
 | 7.34 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) |
 | 7.41 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 7.44 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
-| 7.67 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
+| 7.54 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 7.92 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
 | 7.96 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 8.05 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
@@ -572,7 +572,7 @@
 | 6.00 | [Adam Stringer](https://www.worldcubeassociation.org/persons/2023STRI02) |
 | 6.08 | [Sam Jones](https://www.worldcubeassociation.org/persons/2023JONE09) |
 | 6.22 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
-| 6.36 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
+| 6.38 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 6.49 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
 | 6.55 | [Thomas Bevan](https://www.worldcubeassociation.org/persons/2017BEVA01) |
 | 6.65 | [Cameron Littlejohn](https://www.worldcubeassociation.org/persons/2022LITT01) |

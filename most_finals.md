@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 13 March 2025*
+*Updated on 16 March 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -28,14 +28,14 @@
 | 456 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 428 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 426 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
-| 400 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
+| 411 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 | 393 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 390 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 386 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 386 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 362 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 353 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
-| 336 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
+| 337 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 324 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
 | 319 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
 | 318 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
