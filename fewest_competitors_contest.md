@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -217,6 +217,7 @@
 | 1 | [Cubing Returns Delhi 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsDelhi2022) |
 | 1 | [Cubing Returns Pune 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsPune2022) |
 | 1 | [Cubing Saturday in SSN 2022](https://www.worldcubeassociation.org/competitions/CubingSaturdayinSSN2022) |
+| 1 | [Cubing Simple in Temple 2025](https://www.worldcubeassociation.org/competitions/CubingSimpleinTemple2025) |
 | 1 | [CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018) |
 | 1 | [Northwest Championship 2018](https://www.worldcubeassociation.org/competitions/CubingUSANorthwestChamps2018) |
 | 1 | [Cubing with the Cows 2020](https://www.worldcubeassociation.org/competitions/CubingwiththeCows2020) |
@@ -461,6 +462,7 @@
 | 1 | [Hvidovre i Mange Træk 2024](https://www.worldcubeassociation.org/competitions/HvidovreiMangeTraek2024) |
 | 1 | [Hvidovre Julecubing 2024](https://www.worldcubeassociation.org/competitions/HvidovreJulecubing2024) |
 | 1 | [Hvidovre Mini Januar 2025](https://www.worldcubeassociation.org/competitions/HvidovreMiniJanuar2025) |
+| 1 | [Hvidovre Side Events Marts 2025](https://www.worldcubeassociation.org/competitions/HvidovreSideEventsMarts2025) |
 | 1 | [Hvidovre Sommer 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommer2024) |
 | 1 | [Hvidovre Sommer & Efterår 2024](https://www.worldcubeassociation.org/competitions/HvidovreSommerEfterar2024) |
 | 1 | [Hyderabad Cube Open 2019](https://www.worldcubeassociation.org/competitions/HyderabadCubeOpen2019) |
@@ -587,6 +589,7 @@
 | 1 | [Malaysian Cube Championship 2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017) |
 | 1 | [Malaysian Open 2010](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2010) |
 | 1 | [Malaysian Cube Open 2015](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2015) |
+| 1 | [Malaysia Newcomer 2025](https://www.worldcubeassociation.org/competitions/MalaysiaNewcomer2025) |
 | 1 | [Malmö Cube Contest 2022](https://www.worldcubeassociation.org/competitions/MalmoCubeContest2022) |
 | 1 | [Malmø Opvarmning 2022](https://www.worldcubeassociation.org/competitions/MalmoOpvarmning2022) |
 | 1 | [Malta Open 2019](https://www.worldcubeassociation.org/competitions/MaltaOpen2019) |
@@ -1341,6 +1344,7 @@
 | 2 | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) |
 | 2 | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) |
 | 2 | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022) |
+| 2 | [Wiler Würfelfäst 2025](https://www.worldcubeassociation.org/competitions/WilerWurfelfast2025) |
 | 2 | [Wiler Würfelfest 2016](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2016) |
 | 2 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022) |
 | 2 | [Xi'an 10th Anniversary 2019](https://www.worldcubeassociation.org/competitions/Xian10thAnniversary2019) |

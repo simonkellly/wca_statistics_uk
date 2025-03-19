@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -54,14 +54,14 @@
 | ---: | :--- | :--- |
 | 42.86 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2019MORG10) |
 | 44.13 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
+| 44.98 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025/results/by_person#2022PART02) |
 | 45.25 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
 | 45.39 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2019MORG10) |
+| 45.67 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025/results/by_person#2022PART02) |
 | 45.96 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
 | 46.24 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Lincoln Summer 2022](https://www.worldcubeassociation.org/competitions/LincolnSummer2022/results/by_person#2014JAYE01) |
 | 46.28 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
-| 46.67 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2019MORG10) |
-| 46.70 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
-| 46.72 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2014JAYE01) |
+| 46.62 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2019MORG10) |
 
 ### 3x3x3 One-Handed
 
@@ -83,15 +83,15 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 27.72 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024/results/by_person#2018GRAI01) |
+| 27.81 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2018GRAI01) |
 | 27.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.31 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 | 28.35 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/by_person#2018GRAI01) |
+| 28.45 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2018GRAI01) |
 | 28.63 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2018GRAI01) |
 | 28.65 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018GRAI01) |
 | 28.81 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 | 28.82 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Wiltshire November 2024](https://www.worldcubeassociation.org/competitions/WiltshireNovember2024/results/by_person#2018GRAI01) |
-| 28.91 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2018GRAI01) |
-| 29.01 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | [Chichester January 2025](https://www.worldcubeassociation.org/competitions/ChichesterJanuary2025/results/by_person#2018GRAI01) |
 
 ### Pyraminx
 
@@ -112,16 +112,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 2.67 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2019MORG10) |
 | 2.70 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester Pyraminx Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterPyraminxDay2024/results/by_person#2022DUNN03) |
+| 2.74 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025/results/by_person#2022DUNN03) |
+| 2.75 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2019MORG10) |
 | 2.76 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2022DUNN03) |
 | 2.79 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
 | 2.80 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
 | 2.82 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
 | 2.83 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Manchester January 2025](https://www.worldcubeassociation.org/competitions/ManchesterJanuary2025/results/by_person#2022DUNN03) |
 | 2.84 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Stevenage October 2024](https://www.worldcubeassociation.org/competitions/StevenageOctober2024/results/by_person#2019MORG10) |
-| 2.88 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2022DUNN03) |
-| 2.89 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2017CHAM09) |
-| 2.91 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/by_person#2019MORG10) |
 
 ### Skewb
 

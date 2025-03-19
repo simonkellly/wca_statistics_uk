@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -132,12 +132,12 @@
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 30.18 | **32.55** | [UK Open 2007](https://www.worldcubeassociation.org/competitions/UKOpen2007/results/podiums#e333oh) | 3 |
 | [Christopher Ness](https://www.worldcubeassociation.org/persons/2007NESS01) | 25.49 | **31.72** | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009/results/podiums#e333oh) | 3 |
 | [Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01) | 25.88 | **31.21** | [Eden Village Winter 2017](https://www.worldcubeassociation.org/competitions/EdenVillageWinter2017/results/podiums#e333oh) | 2 |
+| [Rylan Cheng-Brown](https://www.worldcubeassociation.org/persons/2023CHEN16) | 27.70 | **30.99** | [Glasgow Fav Evening III 2025](https://www.worldcubeassociation.org/competitions/GlasgowFavEveningIII2025/results/podiums#e333oh) | 3 |
+| [Ruben McEwan](https://www.worldcubeassociation.org/persons/2022MCEW01) | 22.22 | **30.82** | [Glasgow Fav Evening III 2025](https://www.worldcubeassociation.org/competitions/GlasgowFavEveningIII2025/results/podiums#e333oh) | 2 |
 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | 25.05 | **30.51** | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015/results/podiums#e333oh) | 3 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 27.03 | **29.01** | [UK Masters 2009](https://www.worldcubeassociation.org/competitions/UKMasters2009/results/podiums#e333oh) | 2 |
 | [Rowan Kinneavy](https://www.worldcubeassociation.org/persons/2008KINN01) | 25.58 | **28.96** | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009/results/podiums#e333oh) | 2 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | 20.34 | **28.68** | [UK Nationals 2010](https://www.worldcubeassociation.org/competitions/UKNationals2010/results/podiums#e333oh) | 2 |
-| [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 26.77 | **28.66** | [UK Open 2008](https://www.worldcubeassociation.org/competitions/UKOpen2008/results/podiums#e333oh) | 1 |
-| [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | 24.71 | **28.28** | [UK Open 2009](https://www.worldcubeassociation.org/competitions/UKOpen2009/results/podiums#e333oh) | 1 |
 
 ### Megaminx
 

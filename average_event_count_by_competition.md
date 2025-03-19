@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -56,8 +56,8 @@
 | [Fontwell Open 2019](https://www.worldcubeassociation.org/competitions/FontwellOpen2019) | 6.02 | 121 | United Kingdom |
 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) | 6.01 | 216 | United Kingdom |
 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) | 6.00 | 114 | United Kingdom |
-| [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) | 6.00 | 78 | United Kingdom |
 | [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023) | 6.00 | 36 | United Kingdom |
+| [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) | 6.00 | 78 | United Kingdom |
 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 5.95 | 116 | United Kingdom |
 | [Edinburgh Spring 2015](https://www.worldcubeassociation.org/competitions/EdinburghSpring2015) | 5.93 | 28 | United Kingdom |
 | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016) | 5.86 | 78 | United Kingdom |

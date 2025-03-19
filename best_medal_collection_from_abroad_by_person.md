@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -9,16 +9,16 @@
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | **46** | 36 | 26 | 108 |
 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | **42** | 59 | 43 | 144 |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | **33** | 25 | 18 | 76 |
-| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **28** | 34 | 26 | 88 |
+| [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | **29** | 34 | 26 | 89 |
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | **26** | 29 | 26 | 81 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **26** | 13 | 5 | 44 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 35 | 41 | 100 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **24** | 18 | 19 | 61 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21** | 6 | 1 | 28 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **20** | 38 | 36 | 94 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **18** | 30 | 28 | 76 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **18** | 26 | 40 | 84 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
-| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **16** | 27 | 28 | 71 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **14** | 17 | 31 | 62 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **13** | 10 | 5 | 28 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | **10** | 6 | 1 | 17 |
@@ -48,6 +48,7 @@
 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) | **3** | 1 | 7 | 11 |
 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | **3** | 0 | 1 | 4 |
 | [Murad Asgarov](https://www.worldcubeassociation.org/persons/2022ASGA01) | **3** | 0 | 1 | 4 |
+| [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | **2** | 4 | 6 | 12 |
 | [Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01) | **2** | 3 | 7 | 12 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | **2** | 3 | 1 | 6 |
 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) | **2** | 2 | 3 | 7 |
@@ -57,11 +58,11 @@
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **2** | 1 | 0 | 3 |
 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | **2** | 1 | 0 | 3 |
 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **2** | 0 | 1 | 3 |
+| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **2** | 0 | 1 | 3 |
 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | **2** | 0 | 1 | 3 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **2** | 0 | 0 | 2 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | **2** | 0 | 0 | 2 |
 | [Tristan Penson](https://www.worldcubeassociation.org/persons/2009PENS02) | **2** | 0 | 0 | 2 |
-| [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | **1** | 4 | 6 | 11 |
 | [Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02) | **1** | 4 | 4 | 9 |
 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | **1** | 4 | 1 | 6 |
 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | **1** | 4 | 0 | 5 |
@@ -84,13 +85,13 @@
 | [Subhadeep Sarkar](https://www.worldcubeassociation.org/persons/2017SARK01) | **1** | 0 | 5 | 6 |
 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | **1** | 0 | 4 | 5 |
 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) | **1** | 0 | 3 | 4 |
+| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 2 | 3 |
 | [Christopher Ness](https://www.worldcubeassociation.org/persons/2007NESS01) | **1** | 0 | 1 | 2 |
 | [Jaidon Adams](https://www.worldcubeassociation.org/persons/2018ADAM11) | **1** | 0 | 1 | 2 |
 | [William Didelot](https://www.worldcubeassociation.org/persons/2023DIDE03) | **1** | 0 | 1 | 2 |
 | [Adejuwon Adebusuyi Oluwemimo](https://www.worldcubeassociation.org/persons/2022OLUW01) | **1** | 0 | 0 | 1 |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **1** | 0 | 0 | 1 |
 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) | **1** | 0 | 0 | 1 |
-| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 0 | 1 |
 | [Sebastian Williams](https://www.worldcubeassociation.org/persons/2020WILL09) | **1** | 0 | 0 | 1 |
 | [Thomas Visaya-Neville](https://www.worldcubeassociation.org/persons/2014VISA01) | **1** | 0 | 0 | 1 |
 | [Zhong Yi Yan](https://www.worldcubeassociation.org/persons/2022YANZ02) | **1** | 0 | 0 | 1 |
@@ -104,7 +105,6 @@
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | **0** | 2 | 0 | 2 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | **0** | 2 | 0 | 2 |
 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | **0** | 2 | 0 | 2 |
-| [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **0** | 2 | 0 | 2 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

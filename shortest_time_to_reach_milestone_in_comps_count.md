@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### 200 Competitions
@@ -44,6 +44,7 @@
 | Days | Person |
 | ---: | :--- |
 | 526 | [Kyle Kayden Hayles](https://www.worldcubeassociation.org/persons/2022HAYL02) |
+| 673 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) |
 | 785 | [Oliver Hexter](https://www.worldcubeassociation.org/persons/2022HEXT01) |
 | 792 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 974 | [Blue James](https://www.worldcubeassociation.org/persons/2022JAME01) |
@@ -62,7 +63,6 @@
 | 2038 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 2059 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 2066 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
-| 2122 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
 
 ### 25 Competitions
 

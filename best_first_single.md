@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 8.88 | [Lalitranjan Vigneswaran](https://www.worldcubeassociation.org/persons/2022VIGN02) |
 | 9.20 | [Mickey Chan Sin Kei](https://www.worldcubeassociation.org/persons/2024KEIM01) |
 | 9.23 | [Danyar Ahmed](https://www.worldcubeassociation.org/persons/2024AHME22) |
+| 9.41 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 9.60 | [Nithin Ezhilan](https://www.worldcubeassociation.org/persons/2023EZHI01) |
 | 9.63 | [Samuel Lai](https://www.worldcubeassociation.org/persons/2017LAIS01) |
 | 9.78 | [Harishan Ramanan](https://www.worldcubeassociation.org/persons/2018RAMA26) |
-| 9.94 | [Jason Hoang Vu](https://www.worldcubeassociation.org/persons/2024VUJA01) |
 
 ### 2x2x2 Cube
 
@@ -53,6 +53,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 54.99 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 1:06.85 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
 | 1:08.02 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 1:12.27 | [Bertie Cartwright](https://www.worldcubeassociation.org/persons/2015CART01) |
@@ -62,7 +63,6 @@
 | 1:18.52 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
 | 1:19.24 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 1:20.19 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
-| 1:20.49 | [Leo Palfrey](https://www.worldcubeassociation.org/persons/2016PALF01) |
 
 ### 6x6x6 Cube
 
@@ -128,6 +128,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 11.16 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 15.14 | [Jason Hoang Vu](https://www.worldcubeassociation.org/persons/2024VUJA01) |
 | 15.66 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
 | 16.93 | [Danyar Ahmed](https://www.worldcubeassociation.org/persons/2024AHME22) |
@@ -137,7 +138,6 @@
 | 18.29 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 18.47 | [Ryan Tang](https://www.worldcubeassociation.org/persons/2022TANG05) |
 | 18.77 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
-| 19.08 | [Kino Deligero](https://www.worldcubeassociation.org/persons/2018DELI01) |
 
 ### Megaminx
 

@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Pairs
@@ -20,10 +20,10 @@
 | 36 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) |
 | 35 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 34 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
+| 32 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 31 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 30 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 29 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 29 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 29 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) & [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 28 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 28 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
@@ -54,6 +54,7 @@
 | 15 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
 | 15 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) & [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) |
 | 15 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 15 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 15 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 14 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
 | 14 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) & [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
@@ -65,11 +66,11 @@
 | 14 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 14 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01) |
 | 13 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
-| 13 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 13 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 13 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 13 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 | 12 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
+| 12 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 12 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 12 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) & [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 12 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
@@ -79,21 +80,21 @@
 | 11 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 11 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 11 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) & [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) |
+| 11 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 11 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 | 11 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) & [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) |
 | 11 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 11 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 11 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) & [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 11 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) & [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) |
 | 11 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) |
 | 11 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 10 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 10 | [Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01) & [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 10 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 10 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) & [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 10 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) & [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
 | 10 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) & [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
 | 10 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) & [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
-| 10 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) & [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 10 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) & [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) |
 | 10 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 10 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) & [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
@@ -106,7 +107,6 @@
 | 9 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 9 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
 | 9 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) |
-| 9 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 
 ### Triples
 
@@ -173,6 +173,7 @@
 | 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 3 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) & [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
+| 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) & [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 3 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) & [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) & [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) |
 | 3 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) & [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) & [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 3 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) & [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) & [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
@@ -211,7 +212,6 @@
 | 2 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) & [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 2 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) & [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 2 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) & [Ashwyn Wadhawan](https://www.worldcubeassociation.org/persons/2022WADH02) & [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
-| 2 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) & [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) & [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
