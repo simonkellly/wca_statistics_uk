@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -169,8 +169,9 @@
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Swisscubing Cup III 2024](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2024) |
 | 1 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | United Kingdom | [LYN Cubing Days 2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019) |
 | 1 | [Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06) | United Kingdom | [Bengaluru Cool Down 2019](https://www.worldcubeassociation.org/competitions/BengaluruCoolDown2019) |
-| 1 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | Ukraine | [Riga Special 2018](https://www.worldcubeassociation.org/competitions/RigaSpecial2018) |
+| 1 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | United Kingdom | [Western Ontario Winter 2025](https://www.worldcubeassociation.org/competitions/WesternOntarioWinter2025) |
 | 1 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | Ukraine | [Ukrainian Nationals 2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019) |
+| 1 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | Ukraine | [Riga Special 2018](https://www.worldcubeassociation.org/competitions/RigaSpecial2018) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [FMC Europe 2019](https://www.worldcubeassociation.org/competitions/FMCEurope2019) |
 | 1 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | United Kingdom | [British Blind Off 2019](https://www.worldcubeassociation.org/competitions/TGBBO2019) |

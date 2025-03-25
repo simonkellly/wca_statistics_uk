@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -10,13 +10,13 @@
 | 5.30 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage June 2024](https://www.worldcubeassociation.org/competitions/StevenageJune2024/results/by_person#2018ALON07) |
 | 5.45 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire March 2024](https://www.worldcubeassociation.org/competitions/WiltshireMarch2024/results/by_person#2018ALON07) |
 | 5.48 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2018ALON07) |
+| 5.50 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | [Western Ontario Winter 2025](https://www.worldcubeassociation.org/competitions/WesternOntarioWinter2025/results/by_person#2015SCHO05) |
 | 5.52 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2018ALON07) |
 | 5.56 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Wiltshire Spring 2023](https://www.worldcubeassociation.org/competitions/WiltshireSpring2023/results/by_person#2014MILL04) |
 | 5.56 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Battersea Autumn 2024](https://www.worldcubeassociation.org/competitions/BatterseaAutumn2024/results/by_person#2018ALON07) |
 | 5.61 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2018ALON07) |
 | 5.64 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Stevenage January 2025](https://www.worldcubeassociation.org/competitions/StevenageJanuary2025/results/by_person#2018ALON07) |
 | 5.66 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Wiltshire December 2023](https://www.worldcubeassociation.org/competitions/WiltshireDecember2023/results/by_person#2018ALON07) |
-| 5.67 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2014MILL04) |
 
 ### 2x2x2 Cube
 
@@ -54,14 +54,14 @@
 | ---: | :--- | :--- |
 | 42.86 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Crewe Favourites 2025](https://www.worldcubeassociation.org/competitions/CreweFavourites2025/results/by_person#2019MORG10) |
 | 44.13 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
+| 44.94 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2022PART02) |
 | 44.98 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025/results/by_person#2022PART02) |
+| 45.17 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2019MORG10) |
 | 45.25 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025/results/by_person#2019MORG10) |
 | 45.39 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024/results/by_person#2019MORG10) |
 | 45.67 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025/results/by_person#2022PART02) |
+| 45.89 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2019MORG10) |
 | 45.96 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
-| 46.24 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Lincoln Summer 2022](https://www.worldcubeassociation.org/competitions/LincolnSummer2022/results/by_person#2014JAYE01) |
-| 46.28 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2014JAYE01) |
-| 46.62 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025/results/by_person#2019MORG10) |
 
 ### 3x3x3 One-Handed
 

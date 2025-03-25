@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 106 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 105 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 104 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 101 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 102 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
 | 85 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 73 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 60 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
@@ -20,8 +20,8 @@
 | 48 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 48 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 46 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 45 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
-| 44 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
+| 46 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
+| 45 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 37 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 33 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 32 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |

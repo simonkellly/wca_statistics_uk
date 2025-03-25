@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- | :--- |
 | 5.77 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 4.88, 7.09, 9.94, 5.30, 4.92 |
 | 5.95 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 6.50, 5.56, 5.34, 6.85, 5.79 |
+| 5.96 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.07, 4.91, 5.50, 8.41, 6.31 |
 | 7.04 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 6.88, 7.24, 9.20, 6.99, 3.69 |
 | 7.10 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 8.16, 5.50, 11.37, 6.82, 6.31 |
 | 7.35 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 7.35, 6.91, 8.68, 7.62, 7.09 |
@@ -40,9 +41,9 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 45.19 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 43.39, 47.53, 44.13, 50.80, 43.90 |
-| 46.31 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 46.28, 45.21, 45.96, 50.65, 46.70 |
+| 45.96 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 45.21, 45.96, 50.65, 46.70, 44.19 |
 | 46.82 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 44.98, 56.78, 49.82, 45.67, 43.96 |
-| 48.86 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 47.29, 50.28, 51.68, 49.01, 46.30 |
+| 48.45 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 51.64, 48.61, 48.09, 48.66, 47.21 |
 | 49.14 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.83, 50.81, 44.88, 47.23, 50.35 |
 | 49.83 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 47.73, 46.25, 58.97, 54.68, 47.08 |
 | 52.93 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 52.10, 56.39, 53.24, 51.97, 53.46 |
@@ -53,8 +54,8 @@
 | ---: | :--- | :--- |
 | 1:27.61 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:27.21, 1:21.89, 1:29.46, 1:32.24, 1:26.17 |
 | 1:28.71 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:28.35, 1:45.69, 1:23.79, 1:31.46, 1:26.32 |
+| 1:29.38 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:21.29, 1:28.26, 1:34.30, 1:36.30, 1:25.58 |
 | 1:30.67 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:30.59, 1:30.52, 1:34.06, 1:30.91, 1:29.67 |
-| 1:32.95 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 1:39.62, 1:21.29, 1:28.26, 1:34.30, 1:36.30 |
 | 1:41.71 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 1:38.78, 1:57.86, 1:42.70, 1:43.65, 1:37.00 |
 
 ### 7x7x7 Cube
@@ -63,7 +64,8 @@
 | ---: | :--- | :--- |
 | 2:09.38 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:11.40, 2:14.07, 2:03.16, 1:59.83, 2:13.58 |
 | 2:12.75 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:03.41, 2:16.40, 2:22.59, 2:04.36, 2:17.48 |
-| 2:24.76 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:20.12, 2:41.28, 2:20.91, 2:27.73, 2:25.63 |
+| 2:15.88 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 2:19.31, 2:15.74, 2:16.53, 2:15.37, 2:12.95 |
+| 2:27.16 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2:41.15, 2:21.73, 2:30.15, 2:29.59, 2:18.31 |
 | 2:28.16 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:34.84, 2:22.08, 2:25.89, 2:32.76, 2:25.84 |
 
 ### 3x3x3 Blindfolded
@@ -111,14 +113,14 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 28.53 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 29.01, 27.95, 33.57, 27.65, 28.63 |
-| 30.07 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 32.06, 30.43, 30.16, 29.61, 28.96 |
+| 29.94 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 35.17, 29.35, 29.56, 30.92, 28.94 |
 | 36.69 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | 36.06, 33.49, 43.10, 38.86, 35.15 |
 | 37.51 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) | 35.06, 43.96, 34.41, 36.85, 40.63 |
 | 39.47 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 41.54, 40.17, 42.28, 36.69, 35.87 |
 | 40.33 | [Sarah Durling](https://www.worldcubeassociation.org/persons/2022DURL01) | 46.50, 39.14, 39.01, 40.01, 41.83 |
 | 40.48 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | 45.59, 39.20, 37.93, 44.31, 37.90 |
 | 40.68 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 39.45, 36.88, 42.28, 52.09, 40.30 |
-| 43.94 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 37.65, 53.65, 38.90, 53.13, 39.79 |
+| 43.40 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 43.15, 50.80, 47.06, 39.99, 39.72 |
 | 47.25 | [Rory Menary](https://www.worldcubeassociation.org/persons/2022MENA01) | 45.71, 50.52, 47.79, 47.57, 46.40 |
 
 ### Pyraminx

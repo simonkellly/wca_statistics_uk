@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -258,6 +258,7 @@
 | 1 | [Dnepr Never Fails 2018](https://www.worldcubeassociation.org/competitions/DneprNeverFails2018) |
 | 1 | [Dolmen Open 2012](https://www.worldcubeassociation.org/competitions/DolmenOpen2012) |
 | 1 | [Dolphin Coast Autumn 2023](https://www.worldcubeassociation.org/competitions/DolphinCoastAutumn2023) |
+| 1 | [Don't DNF March Singapore 2025](https://www.worldcubeassociation.org/competitions/DontDNFMarchSingapore2025) |
 | 1 | [Don't Fail Kinsale 2023](https://www.worldcubeassociation.org/competitions/DontFailKinsale2023) |
 | 1 | [Don't Move Copenhagen 2022](https://www.worldcubeassociation.org/competitions/DontMoveCopenhagen2022) |
 | 1 | [Downtown Vancouver Spring 2019](https://www.worldcubeassociation.org/competitions/DowntownVancouverSpring2019) |
@@ -572,6 +573,7 @@
 | 1 | [London Winter A 2023](https://www.worldcubeassociation.org/competitions/LondonWinterA2023) |
 | 1 | [Lonely Denmark 2020](https://www.worldcubeassociation.org/competitions/LonelyDenmark2020) |
 | 1 | [Lördagskuben Skillingaryd 2023](https://www.worldcubeassociation.org/competitions/LordagskubenSkillingaryd2023) |
+| 1 | [Lundakuben 2025](https://www.worldcubeassociation.org/competitions/Lundakuben2025) |
 | 1 | [Lužice 3x3 Day 2023](https://www.worldcubeassociation.org/competitions/Luzice3x3Day2023) |
 | 1 | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) |
 | 1 | [Lyon Sinterklaas Open 2010](https://www.worldcubeassociation.org/competitions/LyonSinterklaasOpen2010) |
@@ -580,6 +582,7 @@
 | 1 | [Lyttelton Spring 2022](https://www.worldcubeassociation.org/competitions/LytteltonSpring2022) |
 | 1 | [Lyttelton Spring 2023](https://www.worldcubeassociation.org/competitions/LytteltonSpring2023) |
 | 1 | [Magic Revenge 2015](https://www.worldcubeassociation.org/competitions/MagicRevenge2015) |
+| 1 | [Mainzelcubing 2025](https://www.worldcubeassociation.org/competitions/Mainzelcubing2025) |
 | 1 | [Malaysia 10th Cube Open 2019](https://www.worldcubeassociation.org/competitions/Malaysia10thCubeOpen2019) |
 | 1 | [Malaysia Cube Championship 2018](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2018) |
 | 1 | [Malaysia Cube Championship 2019](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019) |
@@ -898,6 +901,7 @@
 | 1 | [Singapore March Classics 2025](https://www.worldcubeassociation.org/competitions/SingaporeMarchClassics2025) |
 | 1 | [Singapore Masters 2023](https://www.worldcubeassociation.org/competitions/SingaporeMasters2023) |
 | 1 | [Singapore MentalMatrix Open 2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019) |
+| 1 | [Singapore Newcomers 2025](https://www.worldcubeassociation.org/competitions/SingaporeNewcomers2025) |
 | 1 | [Singapore Open 2015](https://www.worldcubeassociation.org/competitions/SingaporeOpen2015) |
 | 1 | [Singapore Special 2013](https://www.worldcubeassociation.org/competitions/SingaporeSpecial2013) |
 | 1 | [SJC Winter 2012](https://www.worldcubeassociation.org/competitions/SJCWinter2012) |
@@ -1109,6 +1113,7 @@
 | 1 | [Wellspring Open 2017](https://www.worldcubeassociation.org/competitions/WellspringOpen2017) |
 | 1 | [WCCT Cupertino 2018](https://www.worldcubeassociation.org/competitions/WestCoastCubingTourCupertino2018) |
 | 1 | [Western Championship 2019](https://www.worldcubeassociation.org/competitions/WesternChampionship2019) |
+| 1 | [Western Ontario Winter 2025](https://www.worldcubeassociation.org/competitions/WesternOntarioWinter2025) |
 | 1 | [Westminster Spring 2023](https://www.worldcubeassociation.org/competitions/WestminsterSquannersSpring2023) |
 | 1 | [Weston Spring 2017](https://www.worldcubeassociation.org/competitions/WestonSpring2017) |
 | 1 | [West Seattle Favorites 2019](https://www.worldcubeassociation.org/competitions/WestSeattleFavorites2019) |
@@ -1201,6 +1206,7 @@
 | 2 | [Franconia Fall 2019](https://www.worldcubeassociation.org/competitions/FranconiaFall2019) |
 | 2 | [Fremantle Fast Fingers 2021](https://www.worldcubeassociation.org/competitions/FremantleFastFingers2021) |
 | 2 | [French Open 2011](https://www.worldcubeassociation.org/competitions/FrenchOpen2011) |
+| 2 | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) |
 | 2 | [GEMS Modern Academy Open 2018](https://www.worldcubeassociation.org/competitions/GEMSModernAcademyOpen2018) |
 | 2 | [German Open 2005](https://www.worldcubeassociation.org/competitions/GermanOpen2005) |
 | 2 | [Germany 2008](https://www.worldcubeassociation.org/competitions/Germany2008) |

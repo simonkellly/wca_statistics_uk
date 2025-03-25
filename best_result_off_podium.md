@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -55,6 +55,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 48.32 | **51.71** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e555_f) | 13 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 46.59 | **51.87** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 4 |
+| [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 49.59 | **52.19** | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/all#e555_f) | 4 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 50.47 | **52.28** | [Weston-super-Mare Autumn 2024](https://www.worldcubeassociation.org/competitions/WestonsuperMareAutumn2024/results/all#e555_c) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 47.60 | **52.97** | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/all#e555_f) | 4 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 51.06 | **53.19** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 6 |
@@ -62,12 +63,12 @@
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 52.32 | **54.85** | [UK Championship 2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#e555_f) | 4 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 50.70 | **55.35** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e555_f) | 5 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 51.60 | **55.79** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e555_f) | 7 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 54.77 | **55.99** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e555_f) | 6 |
 
 ### 6x6x6 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:31.37 | **1:33.13** | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/all#e666_f) | 5 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:31.03 | **1:37.32** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e666_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:33.52 | **1:38.20** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e666_f) | 17 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 1:27.51 | **1:39.45** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e666_f) | 7 |
@@ -77,13 +78,13 @@
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 1:35.95 | **1:42.59** | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/all#e666_f) | 5 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | 1:41.97 | **1:43.76** | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/all#e666_c) | 4 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 1:35.98 | **1:43.86** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 4 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1:38.66 | **1:44.33** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e666_f) | 5 |
 
 ### 7x7x7 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:11.40 | **2:22.05** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e777_f) | 8 |
+| [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 2:18.31 | **2:26.02** | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/all#e777_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:18.59 | **2:27.85** | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/all#e777_f) | 4 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:24.27 | **2:33.54** | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/all#e777_f) | 17 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:18.42 | **2:34.67** | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/all#e777_f) | 10 |
@@ -92,7 +93,6 @@
 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) | 2:24.28 | **2:36.33** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e777_f) | 4 |
 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 2:31.07 | **2:38.35** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e777_f) | 4 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | 2:13.58 | **2:39.39** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#e777_f) | 5 |
-| [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2:33.29 | **2:39.81** | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/all#e777_f) | 5 |
 
 ### 3x3x3 Blindfolded
 

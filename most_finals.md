@@ -1,30 +1,30 @@
 ## Most finals
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 | Finals | Person |
 | ---: | :--- |
 | 1513 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
-| 1339 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
+| 1348 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 1092 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |
 | 1016 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) |
 | 939 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) |
 | 904 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
-| 862 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
-| 779 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
+| 866 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) |
+| 780 | [Billie Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01) |
 | 773 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
 | 769 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 759 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 698 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
 | 687 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 616 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
-| 594 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
+| 598 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) |
 | 541 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 512 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
-| 508 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 497 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
+| 512 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
+| 498 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
+| 488 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 487 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
-| 484 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 456 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 432 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 428 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
@@ -35,28 +35,28 @@
 | 386 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 362 | [Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01) |
 | 353 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) |
-| 337 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
+| 342 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 329 | [Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02) |
-| 324 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
+| 328 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
+| 321 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 320 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) |
 | 319 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) |
-| 318 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 312 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 311 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) |
 | 309 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
+| 295 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 295 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
-| 294 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
+| 287 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) |
 | 285 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
-| 285 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) |
 | 282 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
 | 275 | [Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02) |
 | 274 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 258 | [Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01) |
-| 251 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
+| 254 | [Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08) |
 | 250 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 242 | [Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01) |
+| 241 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 240 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) |
-| 238 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 235 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 231 | [Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01) |
 | 219 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) |
