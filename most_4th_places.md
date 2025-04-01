@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -36,7 +36,7 @@
 | 22 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 22 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 22 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) |
-| 21 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 22 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 20 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 19 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) |
 | 19 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |

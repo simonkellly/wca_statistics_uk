@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -420,8 +420,8 @@
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 9 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 8 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 8 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 7 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 6 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | 6 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | 5 |
 | [Chu Yiu On (朱耀安)](https://www.worldcubeassociation.org/persons/2019ONCH01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 4 |

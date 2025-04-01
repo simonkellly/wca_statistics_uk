@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -89,8 +89,8 @@
 | 2 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | Lithuania | [Telšiai Open 2019](https://www.worldcubeassociation.org/competitions/TelsiaiOpen2019) |
 | 2 | [Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01) | Lithuania | [Vilnius Winter Open 2023](https://www.worldcubeassociation.org/competitions/VilniusWinterOpen2023) |
 | 2 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | Malaysia | [Mentallinn 2019](https://www.worldcubeassociation.org/competitions/Mentallinn2019) |
-| 2 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | United Kingdom | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 2 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | United Kingdom | [West London Open 2022](https://www.worldcubeassociation.org/competitions/WestLondonOpen2022) |
+| 2 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | United Kingdom | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 2 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | United Kingdom | [Dublin Open Sunday 2022](https://www.worldcubeassociation.org/competitions/DublinOpenSunday2022) |
 | 1 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | United Kingdom | [Cubing Returns Bengaluru 2022](https://www.worldcubeassociation.org/competitions/CubingReturnsBengaluru2022) |
 | 1 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | United Kingdom | [REC Cube Open 2024](https://www.worldcubeassociation.org/competitions/RECCubeOpen2024) |
@@ -109,6 +109,11 @@
 | 1 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | United Kingdom | [Gort-a Go Fast 2024](https://www.worldcubeassociation.org/competitions/GortaGoFast2024) |
 | 1 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | United Kingdom | [Bristol Winter Beginners 2024](https://www.worldcubeassociation.org/competitions/BristolWinterBeginners2024) |
 | 1 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | United Kingdom | [Denmark & Friends 2019](https://www.worldcubeassociation.org/competitions/DenmarkFriends2019) |
+| 1 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | Hong Kong, China | [Glasgow 3x3 Evening March 2025](https://www.worldcubeassociation.org/competitions/Glasgow3x3EveningMarch2025) |
+| 1 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | Hong Kong, China | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025) |
+| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) |
+| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) |
+| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Canadian Open 2011](https://www.worldcubeassociation.org/competitions/CanadianOpen2011) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [German Nationals 2011](https://www.worldcubeassociation.org/competitions/GermanNationals2011) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [German Open 2009](https://www.worldcubeassociation.org/competitions/GermanOpen2009) |
@@ -117,9 +122,6 @@
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Lemgo Open 2010](https://www.worldcubeassociation.org/competitions/LemgoOpen2010) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [NEMO Amsterdam Open 2011](https://www.worldcubeassociation.org/competitions/NemoAmsterdamOpen2011) |
 | 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
-| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [US Nationals 2011](https://www.worldcubeassociation.org/competitions/USNationals2011) |
-| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) |
-| 1 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | United Kingdom | [World Championship 2009](https://www.worldcubeassociation.org/competitions/WC2009) |
 | 1 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Chouchenn Open 2017](https://www.worldcubeassociation.org/competitions/ChouchennOpen2017) |
 | 1 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [German Open 2016](https://www.worldcubeassociation.org/competitions/GermanOpen2016) |
 | 1 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | United Kingdom | [Liechtenstein Open 2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019) |
@@ -161,8 +163,8 @@
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [Berkeley Summer 2013](https://www.worldcubeassociation.org/competitions/BerkeleySummer2013) |
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [Helsinki Open 2011](https://www.worldcubeassociation.org/competitions/HelsinkiOpen2011) |
 | 1 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | United Kingdom | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) |
-| 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019) |
 | 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
+| 1 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | United Kingdom | [Wiler Würfelfest 2019](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2019) |
 | 1 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | United Kingdom | [German Nationals 2019](https://www.worldcubeassociation.org/competitions/GermanNationals2019) |
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [German Side Events 2021](https://www.worldcubeassociation.org/competitions/GermanSideEvents2021) |
 | 1 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | Switzerland | [Manchester MBLD Day 2024](https://www.worldcubeassociation.org/competitions/ManchesterMBLDDay2024) |

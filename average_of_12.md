@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -23,7 +23,6 @@
 | 1.45 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 0.70, 1.15, 1.08, 1.58, 1.99, 1.12, 1.28, 1.54, 1.54, DNF, 1.62, 1.61 |
 | 1.93 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2.40, 1.41, 2.69, 2.44, 0.93, 2.08, 2.32, 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 2.42 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 1.48, 1.68, 1.60, 2.92, 3.02, 2.94, 2.55, 3.09, 1.23, 6.40, 2.49, 2.39 |
-| 3.63 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 3.19, 4.03, 3.82, 3.97, 3.49, 4.29, 3.77, 3.28, 3.22, 5.01, 3.25, 2.72 |
 
 ### 4x4x4 Cube
 
@@ -78,7 +77,6 @@
 | 26.52 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 23.55, 26.20, 25.62, DNF, 30.83, 24.70, 24.87, 28.97, 21.14, 24.28, 32.86, 23.33 |
 | 26.76 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 25.66, 24.74, 23.76, 18.69, 20.10, 20.06, 27.01, 27.83, 25.17, 25.84, DNF, 47.39 |
 | 28.12 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 25.51, 28.28, 27.34, 24.75, 25.75, 24.74, DNF, 27.76, 23.38, 28.89, 30.37, 37.80 |
-| 53.62 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 1:00.85, 32.58, 34.92, DNF, 35.04, 43.51, 39.78, 1:47.80, 1:25.40, 44.04, 45.07, 39.83 |
 
 ### 3x3x3 Fewest Moves
 

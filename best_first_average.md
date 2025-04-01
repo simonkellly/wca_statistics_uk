@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 
 | First average | Person |
 | ---: | :--- |
+| 37.80 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 38.83 | [Yik Hei Wong (黃奕希)](https://www.worldcubeassociation.org/persons/2025WONG02) |
 | 39.74 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 40.26 | [Tomas Lin](https://www.worldcubeassociation.org/persons/2023LINT09) |
@@ -47,7 +48,6 @@
 | 42.67 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) |
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 44.23 | [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) |
-| 44.83 | [Ray Chen](https://www.worldcubeassociation.org/persons/2022CHEN10) |
 
 ### 5x5x5 Cube
 
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 1:55.13 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 2:07.84 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
+| 2:08.65 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 2:18.38 | [Bochang Lu (卢伯畅)](https://www.worldcubeassociation.org/persons/2018LUBO01) |
 | 2:20.73 | [Max Joseph](https://www.worldcubeassociation.org/persons/2015JOSE03) |
 | 2:23.20 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
@@ -77,12 +78,12 @@
 | 2:24.97 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 2:24.99 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) |
 | 2:29.32 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
-| 2:29.49 | [Oliver Richards](https://www.worldcubeassociation.org/persons/2022RICH02) |
 
 ### 7x7x7 Cube
 
 | First average | Person |
 | ---: | :--- |
+| 2:59.53 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 3:33.11 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
 | 3:38.75 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 3:42.08 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
@@ -92,7 +93,6 @@
 | 3:55.55 | [Aidan McMillan](https://www.worldcubeassociation.org/persons/2018MCMI02) |
 | 3:58.02 | [Jonathan Ayre](https://www.worldcubeassociation.org/persons/2018AYRE01) |
 | 3:58.37 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
-| 4:01.12 | [Finley Norris](https://www.worldcubeassociation.org/persons/2022NORR01) |
 
 ### 3x3x3 Blindfolded
 

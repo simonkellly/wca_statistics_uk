@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Finals | Person |
 | ---: | :--- |
@@ -22,14 +22,14 @@
 | 541 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) |
 | 512 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 512 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) |
-| 498 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
+| 499 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) |
 | 488 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) |
 | 487 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) |
 | 456 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
-| 432 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
+| 433 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) |
 | 428 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 411 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) |
-| 400 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 401 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 393 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) |
 | 386 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) |
 | 386 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
@@ -44,7 +44,7 @@
 | 312 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 311 | [Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01) |
 | 309 | [Jaye Sloan](https://www.worldcubeassociation.org/persons/2022SLOA01) |
-| 295 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
+| 296 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) |
 | 295 | [Matt Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04) |
 | 287 | [Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12) |
 | 285 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) |
@@ -98,9 +98,9 @@
 | 141 | [Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01) |
 | 141 | [Dan Turner](https://www.worldcubeassociation.org/persons/2022TURN10) |
 | 139 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) |
-| 137 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
+| 138 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
+| 137 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 137 | [CJ Brooke](https://www.worldcubeassociation.org/persons/2022BROO02) |
-| 136 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 135 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) |
 | 135 | [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01) |
 | 135 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) |

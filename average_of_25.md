@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -23,7 +23,6 @@
 | 1.59 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 1.12, 1.00, 1.02, 1.64, 1.17, 3.41, 1.24, 2.94, 0.87, 1.58, 4.33, 0.93, 1.15, 2.31, 1.31, 1.14, 2.68, 1.36, 1.24, 1.63, 3.37, 1.39, 1.23, 1.43, 1.44 |
 | 2.13 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.76, 1.09, 1.99, 2.47, 1.49, 2.85, 2.93, 1.51, 2.04, 6.42, 10.51, 1.29, 3.15, 2.40, 1.41, 2.69, 2.44, 0.93, 2.08, 2.32, 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 2.68 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 4.03, 2.60, 2.40, 2.56, 4.25, 1.28, 2.23, 2.80, 3.43, 1.54, 2.31, 2.41, 2.25, 4.19, 2.37, 2.65, 3.21, 2.77, 3.02, 3.39, 3.13, 2.31, 2.64, 1.81, 2.02 |
-| 3.87 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 3.61, 3.23, 3.95, 2.46, 3.51, 3.78, 3.18, 4.58, 3.03, 8.00, 5.04, 3.35, 5.36, 3.55, 3.25, 4.09, 3.37, 4.24, 4.71, 3.60, 4.49, 3.72, 3.45, 6.92, 3.17 |
 
 ### 4x4x4 Cube
 

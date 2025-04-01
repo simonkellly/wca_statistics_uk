@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube - Single
@@ -167,7 +167,7 @@
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **2:37.45** | United Kingdom | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025) | 3:07.80, 2:43.61, 2:37.45 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **2:37.58** | United Kingdom | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025) | 2:49.13, 2:40.09, 2:37.58 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | **2:41.92** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | 3:05.60, 2:51.43, 2:41.92 |
-| [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **2:45.93** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 3:25.38, 2:58.04, 2:45.93 |
+| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **2:45.61** | Hong Kong, China | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025) | 2:53.59, 2:51.23, 2:45.61 |
 
 ### 7x7x7 Cube - Average
 
@@ -181,8 +181,8 @@
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **2:42.27** | United Kingdom | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025) | 2:49.13, 2:40.09, 2:37.58 |
 | [Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06) | **2:45.81** | United Kingdom | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025) | 2:43.82, 2:33.96, 2:59.66 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **2:49.62** | United Kingdom | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025) | 3:07.80, 2:43.61, 2:37.45 |
+| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **2:50.14** | Hong Kong, China | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025) | 2:53.59, 2:51.23, 2:45.61 |
 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) | **2:52.98** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | 3:05.60, 2:51.43, 2:41.92 |
-| [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **2:53.40** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | 2:51.46, 2:49.51, 2:59.24 |
 
 ### 3x3x3 Blindfolded - Single
 
@@ -470,9 +470,9 @@
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | **18/21 59:04** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 18/21 59:04 |
 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | **17/19 59:56** | United Kingdom | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 17/19 59:56 |
 | [Daniel Kidd](https://www.worldcubeassociation.org/persons/2023KIDD02) | **15/17 58:30** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | DNF, 15/17 58:30, 12/17 1:00:00 |
+| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **15/18 58:26** | Ireland | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | 15/18 58:26, DNF |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **12/13 51:13** | Japan | [Crewe FMC Day 2025](https://www.worldcubeassociation.org/competitions/CreweFMCDay2025) | 12/13 51:13 |
 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | **14/17 55:22** | Bulgaria | [Hampshire Winter 2025](https://www.worldcubeassociation.org/competitions/HampshireWinter2025) | 14/17 55:22 |
-| [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) | **14/18 52:18** | Ireland | [Don't DNF Dublin 2025](https://www.worldcubeassociation.org/competitions/DontDNFDublin2025) | 14/18 52:18, DNF |
 | [Chris Bonnello](https://www.worldcubeassociation.org/persons/2019BONN05) | **11/12 58:14** | United Kingdom | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 11/12 58:14 |
 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) | **13/17 56:19** | United Kingdom | [Glasgow Spring - SBO 2025](https://www.worldcubeassociation.org/competitions/GlasgowSpringSBO2025) | 12/17 55:03, 13/17 56:19, DNF |
 

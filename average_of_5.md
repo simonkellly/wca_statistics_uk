@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -23,7 +23,6 @@
 | 1.20 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 0.98, 0.98, 1.50, 1.26, 1.37 |
 | 1.61 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 1.94 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 3.36, 2.66, 1.90, 1.04, 1.25 |
-| 3.24 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | 3.92, 0.74, 2.49, 3.48, 3.75 |
 
 ### 4x4x4 Cube
 
@@ -80,7 +79,6 @@
 | 24.59 | [Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03) | 25.27, 23.47, 25.02, DNF, 22.88 |
 | 24.83 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 24.68, 33.18, 24.65, 22.74, 25.17 |
 | 27.76 | [Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01) | 25.19, 31.26, 29.25, 28.84, 24.54 |
-| 30.76 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | 30.64, 29.03, DNF, 32.61, 25.99 |
 
 ### 3x3x3 Fewest Moves
 

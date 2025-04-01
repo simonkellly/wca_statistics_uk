@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -137,6 +137,7 @@
 | 1 | [Bremium Winter 2019](https://www.worldcubeassociation.org/competitions/BremiumWinter2019) |
 | 1 | [Brisbane Summer 2023](https://www.worldcubeassociation.org/competitions/BrisbaneSummer2023) |
 | 1 | [Brisbane Winter 2018](https://www.worldcubeassociation.org/competitions/BrisbaneWinter2018) |
+| 1 | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) |
 | 1 | [BrizZon Side Open II 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2021) |
 | 1 | [Brugge Beginners Open 2024](https://www.worldcubeassociation.org/competitions/BruggeBeginnersOpen2024) |
 | 1 | [Brussels Summer Open 2009](https://www.worldcubeassociation.org/competitions/BrusselsSummerOpen2009) |
@@ -1080,6 +1081,7 @@
 | 1 | [Vår i Hvidovre 2024](https://www.worldcubeassociation.org/competitions/VariHvidovre2024) |
 | 1 | [Värnamo Cube Days 2019](https://www.worldcubeassociation.org/competitions/VarnamoCubeDays2019) |
 | 1 | [Velbert Easter Open 2014](https://www.worldcubeassociation.org/competitions/VelbertEasterOpen2014) |
+| 1 | [VERK IV 2025](https://www.worldcubeassociation.org/competitions/VERKIV2025) |
 | 1 | [Versatile Cube Open 2018](https://www.worldcubeassociation.org/competitions/VersatileCubeOpen2018) |
 | 1 | [Vestegnen Open 2017](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017) |
 | 1 | [Vestkyst Cubing 2021](https://www.worldcubeassociation.org/competitions/VestkystCubing2021) |
@@ -1260,6 +1262,7 @@
 | 2 | [Munich Open 2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019) |
 | 2 | [MySkool Cube Open BLR Aug 2024](https://www.worldcubeassociation.org/competitions/MySkoolCubeOpenBLRAug2024) |
 | 2 | [Nanaimo Swing into Spring 2023](https://www.worldcubeassociation.org/competitions/NanaimoSwingintoSpring2023) |
+| 2 | [Newchâtel 2025](https://www.worldcubeassociation.org/competitions/Newchatel2025) |
 | 2 | [New England Championship 2024](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2024) |
 | 2 | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017) |
 | 2 | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018) |
@@ -1357,6 +1360,7 @@
 | 2 | [Xlingen Open 2019](https://www.worldcubeassociation.org/competitions/XlingenOpen2019) |
 | 2 | [Zottegem Afternoon 2023](https://www.worldcubeassociation.org/competitions/ZottegemAfternoon2023) |
 | 3 | [Antwerp Open 2016](https://www.worldcubeassociation.org/competitions/AntwerpOpen2016) |
+| 3 | [Arraiolos Open 2025](https://www.worldcubeassociation.org/competitions/ArraiolosOpen2025) |
 | 3 | [Belfort Open 2018](https://www.worldcubeassociation.org/competitions/BelfortOpen2018) |
 | 3 | [Belgian Open 2008](https://www.worldcubeassociation.org/competitions/BelgianOpen2008) |
 | 3 | [Belgian Open 2010](https://www.worldcubeassociation.org/competitions/BelgianOpen2010) |

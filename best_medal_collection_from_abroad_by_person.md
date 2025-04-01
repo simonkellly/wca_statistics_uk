@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -38,6 +38,7 @@
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **4** | 4 | 1 | 9 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4** | 3 | 4 | 11 |
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **4** | 2 | 3 | 9 |
+| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **4** | 2 | 2 | 8 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **3** | 9 | 11 | 23 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | **3** | 7 | 3 | 13 |
 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | **3** | 6 | 4 | 13 |
@@ -58,7 +59,6 @@
 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | **2** | 1 | 0 | 3 |
 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) | **2** | 1 | 0 | 3 |
 | [Ali Antar](https://www.worldcubeassociation.org/persons/2019ANTA02) | **2** | 0 | 1 | 3 |
-| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **2** | 0 | 1 | 3 |
 | [Patrick Drew Dwyer](https://www.worldcubeassociation.org/persons/2019DWYE01) | **2** | 0 | 1 | 3 |
 | [Akash Jain (ジェン明志)](https://www.worldcubeassociation.org/persons/2023JAIN31) | **2** | 0 | 0 | 2 |
 | [Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01) | **2** | 0 | 0 | 2 |

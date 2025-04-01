@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 | 34 | [Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02) | [Belgian Easter 2018](https://www.worldcubeassociation.org/competitions/BelgianEaster2018) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024) |
 | 34 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) | [ABHC 2022](https://www.worldcubeassociation.org/competitions/ABHC2022) |  |
 | 33 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
-| 33 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | [Zentralschweiz 2018](https://www.worldcubeassociation.org/competitions/Zentralschweiz2018) |  |
+| 33 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) | [Zentralschweiz 2018](https://www.worldcubeassociation.org/competitions/Zentralschweiz2018) | [Newchâtel 2025](https://www.worldcubeassociation.org/competitions/Newchatel2025) |
 | 33 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) | [Welcome Back to Guildford 2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015) | [Birmingham Summer 2024](https://www.worldcubeassociation.org/competitions/BirminghamSummer2024) |
 | 33 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016) | [Stevenage Summer 2022](https://www.worldcubeassociation.org/competitions/StevenageSummer2022) |
 | 33 | [James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) | [Bristol Summer 2024](https://www.worldcubeassociation.org/competitions/BristolSummer2024) |

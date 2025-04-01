@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -19,7 +19,7 @@
 | 7.27 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) |
 | 7.28 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) |
 | 7.41 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 7.41 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) |
+| 7.56 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) |
 | 7.81 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) |
 | 7.92 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) |
 | 8.05 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) |
@@ -49,6 +49,7 @@
 | 8.84 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
 | 8.85 | [Musa Marsh](https://www.worldcubeassociation.org/persons/2023MARS21) |
 | 8.86 | [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) |
+| 8.98 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
 | 8.98 | [Rufus Cripps](https://www.worldcubeassociation.org/persons/2022CRIP01) |
 | 8.99 | [Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01) |
 | 9.05 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
@@ -59,11 +60,10 @@
 | 9.19 | [Bertie Cartwright](https://www.worldcubeassociation.org/persons/2015CART01) |
 | 9.19 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) |
 | 9.23 | [James Airey](https://www.worldcubeassociation.org/persons/2022AIRE02) |
-| 9.24 | [Adam Black](https://www.worldcubeassociation.org/persons/2022BLAC01) |
+| 9.30 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 9.33 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 | 9.37 | [Tom Salmon](https://www.worldcubeassociation.org/persons/2015SALM03) |
 | 9.37 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) |
-| 9.38 | [Luan Philippe Da Silva](https://www.worldcubeassociation.org/persons/2022SILV08) |
 
 ### 2x2x2 Cube
 

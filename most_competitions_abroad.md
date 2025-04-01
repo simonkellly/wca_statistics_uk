@@ -1,20 +1,20 @@
 ## Most competitions abroad
 
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
 | 202 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) |
 | 107 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) |
 | 89 | [Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01) |
-| 66 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
+| 67 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) |
 | 64 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) |
 | 57 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) |
 | 57 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) |
 | 47 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) |
 | 47 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) |
+| 46 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 46 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) |
-| 45 | [Alasdair Paton](https://www.worldcubeassociation.org/persons/2015PATO01) |
 | 44 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) |
 | 44 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) |
 | 44 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) |
@@ -30,8 +30,8 @@
 | 29 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) |
 | 29 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) |
 | 27 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) |
+| 27 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 26 | [Sean Findlay](https://www.worldcubeassociation.org/persons/2016FIND01) |
-| 26 | [James McCambridge](https://www.worldcubeassociation.org/persons/2019MCCA09) |
 | 25 | [Brendan Burgess](https://www.worldcubeassociation.org/persons/2019BURG06) |
 | 25 | [Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03) |
 | 23 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) |

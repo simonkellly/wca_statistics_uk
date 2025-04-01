@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 March 2025*
+*Updated on  1 April 2025*
 
 
 ### Rubik's Cube
@@ -69,6 +69,7 @@
 | First single | Person |
 | ---: | :--- |
 | 1:52.01 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) |
+| 2:01.42 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 2:08.34 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) |
 | 2:13.59 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 2:20.20 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
@@ -77,12 +78,12 @@
 | 2:26.09 | [Ethan Horspool](https://www.worldcubeassociation.org/persons/2016HORS01) |
 | 2:26.39 | [Brayden Bushay](https://www.worldcubeassociation.org/persons/2023BUSH04) |
 | 2:27.15 | [Ryan Chan](https://www.worldcubeassociation.org/persons/2023CHAN16) |
-| 2:27.72 | [Harvie Partridge](https://www.worldcubeassociation.org/persons/2015PART04) |
 
 ### 7x7x7 Cube
 
 | First single | Person |
 | ---: | :--- |
+| 2:52.27 | [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) |
 | 3:30.78 | [Harry Dixon](https://www.worldcubeassociation.org/persons/2023DIXO02) |
 | 3:40.00 | [William Cadwell Walker](https://www.worldcubeassociation.org/persons/2022WALK02) |
 | 3:40.59 | [Aidan McMillan](https://www.worldcubeassociation.org/persons/2018MCMI02) |
@@ -92,7 +93,6 @@
 | 3:48.82 | [Samuel Davies](https://www.worldcubeassociation.org/persons/2022DAVI15) |
 | 3:50.67 | [James Ballantine](https://www.worldcubeassociation.org/persons/2018BALL01) |
 | 3:53.72 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) |
-| 3:54.25 | [James Tuppenney](https://www.worldcubeassociation.org/persons/2018TUPP02) |
 
 ### 3x3x3 Blindfolded
 
