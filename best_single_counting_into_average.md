@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -26,12 +26,12 @@
 | 0.93 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2020BURN06) |
 | 0.95 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2023TULL04) |
 | 0.96 | [Alan Fang](https://www.worldcubeassociation.org/persons/2023FANG02) | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2023FANG02) |
+| 0.97 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Bolton Spring 2025](https://www.worldcubeassociation.org/competitions/BoltonSpring2025/results/by_person#2023TULL04) |
 | 0.98 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018ALON07) |
 | 1.00 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Spring 2024](https://www.worldcubeassociation.org/competitions/ManchesterSpring2024/results/by_person#2020BURN06) |
 | 1.02 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Leicestershire Autumn 2024](https://www.worldcubeassociation.org/competitions/LeicestershireAutumn2024/results/by_person#2020BURN06) |
 | 1.05 | [Max Tully](https://www.worldcubeassociation.org/persons/2023TULL04) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2023TULL04) |
 | 1.06 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [Manchester Winter 2024](https://www.worldcubeassociation.org/competitions/ManchesterWinter2024/results/by_person#2020BURN06) |
-| 1.07 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | [ABHM 2023](https://www.worldcubeassociation.org/competitions/ABHM2023/results/by_person#2020BURN06) |
 
 ### 4x4x4 Cube
 

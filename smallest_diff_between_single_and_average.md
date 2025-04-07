@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -31,8 +31,8 @@
 | 0.05 | [Levi Way](https://www.worldcubeassociation.org/persons/2014WAYL01) | 3.08 | 3.13 | [UK Championship 2016](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/by_person#2014WAYL01) |
 | 0.06 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 1.49 | 1.55 | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025/results/by_person#2022CALD07) |
 | 0.06 | [Nicholas Archer](https://www.worldcubeassociation.org/persons/2020ARCH01) | 1.80 | 1.86 | [ABHC 2023](https://www.worldcubeassociation.org/competitions/ABHC2023/results/by_person#2020ARCH01) |
+| 0.06 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 1.94 | 2.00 | [Bolton Spring 2025](https://www.worldcubeassociation.org/competitions/BoltonSpring2025/results/by_person#2022DUNN03) |
 | 0.06 | [Matthew Ayre](https://www.worldcubeassociation.org/persons/2018AYRE02) | 3.65 | 3.71 | [Kewbz UK Championship 2022](https://www.worldcubeassociation.org/competitions/KewbzUKChampionship2022/results/by_person#2018AYRE02) |
-| 0.06 | [Kendall Picton](https://www.worldcubeassociation.org/persons/2024PICT01) | 3.86 | 3.92 | [Puerto Real Camaleón Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2024/results/by_person#2024PICT01) |
 
 ### 4x4x4 Cube
 
@@ -190,6 +190,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.09 | [Bella Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17) | 19.84 | 19.93 | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/by_person#2018CAMP17) |
 | 0.12 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 10.39 | 10.51 | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024/results/by_person#2018GRAI01) |
+| 0.14 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 8.48 | 8.62 | [Glasgow Side Events Spring 2025](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsSpring2025/results/by_person#2019ECKE02) |
 | 0.17 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 8.79 | 8.96 | [Wiltshire Autumn 2023](https://www.worldcubeassociation.org/competitions/WiltshireAutumn2023/results/by_person#2014SCHW02) |
 | 0.18 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | 16.45 | 16.63 | [Belfast Summer 2024](https://www.worldcubeassociation.org/competitions/BelfastSummer2024/results/by_person#2017OWEN01) |
 | 0.22 | [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 10.09 | 10.31 | [Bolton Spring 2024](https://www.worldcubeassociation.org/competitions/BoltonSpring2024/results/by_person#2023DORI01) |
@@ -197,7 +198,6 @@
 | 0.27 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 11.36 | 11.63 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2023LOUF01) |
 | 0.28 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.28 | 7.56 | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018/results/by_person#2014STAR05) |
 | 0.29 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 9.21 | 9.50 | [Rubik's UK Championship 2023](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2023/results/by_person#2019ECKE02) |
-| 0.31 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | 7.86 | 8.17 | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023/results/by_person#2014STAR05) |
 
 ### 4x4x4 Blindfolded
 

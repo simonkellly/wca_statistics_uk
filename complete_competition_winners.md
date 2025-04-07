@@ -1,7 +1,7 @@
 ## Complete competition winners
 
 *Note: A complete win means taking the first place in every event on the given competition.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Events count | Person | Citizen of | Competition |
 | ---: | :--- | :--- | :--- |
@@ -29,6 +29,7 @@
 | 4 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | United Kingdom | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023) |
 | 4 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | United Kingdom | [Mallorca Open 2022](https://www.worldcubeassociation.org/competitions/MallorcaOpen2022) |
 | 3 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | United Kingdom | [Kungkuben 2025](https://www.worldcubeassociation.org/competitions/Kungkuben2025) |
+| 3 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | United Kingdom | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) |
 | 3 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | United Kingdom | [Bristol Squock Day 2024](https://www.worldcubeassociation.org/competitions/BristolSquockDay2024) |
 | 3 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Borneo Championship 2017](https://www.worldcubeassociation.org/competitions/BorneoChampionship2017) |
 | 3 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Malaysia | [Foon Yew Open 2015](https://www.worldcubeassociation.org/competitions/FoonYewOpen2015) |
@@ -194,6 +195,7 @@
 | 1 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [Poznan Open 2009](https://www.worldcubeassociation.org/competitions/PoznanOpen2009) |
 | 1 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | United Kingdom | [Swedish Cubedays 2010](https://www.worldcubeassociation.org/competitions/SwedishCubedays2010) |
 | 1 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | United Kingdom | [Glasgow 3x3 Evening 2024](https://www.worldcubeassociation.org/competitions/Glasgow3x3Evening2024) |
+| 1 | [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | United Kingdom | [Mega Mania Cape Town 2025](https://www.worldcubeassociation.org/competitions/MegaManiaCapeTown2025) |
 | 1 | [Krishna Sookun](https://www.worldcubeassociation.org/persons/2017SOOK01) | United Kingdom | [Back in Mauritius 2023](https://www.worldcubeassociation.org/competitions/BackinMauritius2023) |
 | 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [FMC Cubing China 2024](https://www.worldcubeassociation.org/competitions/FMCCubingChina2024) |
 | 1 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | China | [Hong Kong FMC Championship 2024](https://www.worldcubeassociation.org/competitions/HongKongFMCChampionship2024) |

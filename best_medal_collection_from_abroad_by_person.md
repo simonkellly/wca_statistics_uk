@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -14,16 +14,16 @@
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | **26** | 13 | 5 | 44 |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | **24** | 35 | 41 | 100 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **24** | 18 | 19 | 61 |
+| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **21** | 30 | 28 | 79 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | **21** | 6 | 1 | 28 |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | **20** | 38 | 36 | 94 |
-| [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | **18** | 30 | 28 | 76 |
 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | **18** | 26 | 41 | 85 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | **18** | 19 | 25 | 62 |
 | [Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01) | **14** | 17 | 31 | 62 |
 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | **14** | 10 | 7 | 31 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **10** | 8 | 3 | 21 |
 | [Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01) | **10** | 6 | 1 | 17 |
 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | **9** | 6 | 4 | 19 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | **7** | 7 | 2 | 16 |
 | [Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24) | **7** | 6 | 8 | 21 |
 | [Lichi Fang (方力驰)](https://www.worldcubeassociation.org/persons/2018FANG03) | **7** | 1 | 2 | 10 |
 | [Katie Moughan](https://www.worldcubeassociation.org/persons/2017DAVI03) | **6** | 3 | 4 | 13 |
@@ -35,10 +35,10 @@
 | [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | **4** | 10 | 16 | 30 |
 | [Tan Jun (陈俊)](https://www.worldcubeassociation.org/persons/2018JUNT01) | **4** | 10 | 13 | 27 |
 | [Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01) | **4** | 6 | 15 | 25 |
+| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **4** | 5 | 2 | 11 |
 | [Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01) | **4** | 4 | 1 | 9 |
 | [Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01) | **4** | 3 | 4 | 11 |
 | [Daniel Chiu](https://www.worldcubeassociation.org/persons/2022CHIU06) | **4** | 2 | 3 | 9 |
-| [Branson Lau](https://www.worldcubeassociation.org/persons/2025LAUB01) | **4** | 2 | 2 | 8 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | **3** | 9 | 11 | 23 |
 | [Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02) | **3** | 7 | 3 | 13 |
 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | **3** | 6 | 4 | 13 |
@@ -74,6 +74,7 @@
 | [Andrew Coghill](https://www.worldcubeassociation.org/persons/2009COGH01) | **1** | 2 | 0 | 3 |
 | [Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04) | **1** | 2 | 0 | 3 |
 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | **1** | 2 | 0 | 3 |
+| [Johnny Morello Kerlaff](https://www.worldcubeassociation.org/persons/2023KERL01) | **1** | 2 | 0 | 3 |
 | [Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01) | **1** | 2 | 0 | 3 |
 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | **1** | 2 | 0 | 3 |
 | [Rob Stuart](https://www.worldcubeassociation.org/persons/2011STUA01) | **1** | 2 | 0 | 3 |
@@ -104,7 +105,6 @@
 | [Ashton Cerasoli](https://www.worldcubeassociation.org/persons/2013CERA01) | **0** | 2 | 0 | 2 |
 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | **0** | 2 | 0 | 2 |
 | [Harry Owen](https://www.worldcubeassociation.org/persons/2017OWEN01) | **0** | 2 | 0 | 2 |
-| [Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03) | **0** | 2 | 0 | 2 |
 
 
 <a href="https://github.com/simonkellly/wca_statistics_uk" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

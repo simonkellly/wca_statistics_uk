@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -172,9 +172,9 @@
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 10 |
 | [Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01) | 7 |
 | [Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08) | 7 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 7 |
 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | 7 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 6 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 6 |
 | [Ezra Hirschi](https://www.worldcubeassociation.org/persons/2019HIRS01) | 6 |
 | [Oliver Price](https://www.worldcubeassociation.org/persons/2014PRIC01) | 5 |
 | [Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01) | 5 |
@@ -300,9 +300,9 @@
 | [Ryan Jones](https://www.worldcubeassociation.org/persons/2012JONE03) | 6 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 6 |
 | [Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01) | 5 |
+| [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 5 |
 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 5 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 4 |
-| [Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01) | 4 |
 
 ### Skewb
 
@@ -349,7 +349,7 @@
 | [Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01) | 7 |
 | [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02) | 7 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7 |
-| [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | 6 |
+| [Isaac Corker](https://www.worldcubeassociation.org/persons/2024CORK01) | 7 |
 | [Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01) | 5 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 5 |
 | [Austin Ritchie](https://www.worldcubeassociation.org/persons/2022RITC01) | 5 |
@@ -370,9 +370,9 @@
 | [William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07) | 5 |
 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | 5 |
 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | 4 |
+| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 4 |
 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | 3 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3 |
-| [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | 3 |
 | [Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01) | 2 |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 2 |
 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | 2 |

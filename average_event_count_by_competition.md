@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Competition | Average event count | Competitors | Country |
 | :--- | ---: | ---: | :--- |
@@ -56,8 +56,8 @@
 | [Fontwell Open 2019](https://www.worldcubeassociation.org/competitions/FontwellOpen2019) | 6.02 | 121 | United Kingdom |
 | [UK Championship 2018](https://www.worldcubeassociation.org/competitions/UKC2018) | 6.01 | 216 | United Kingdom |
 | [ABHC 2019](https://www.worldcubeassociation.org/competitions/ABHC2019) | 6.00 | 114 | United Kingdom |
-| [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023) | 6.00 | 36 | United Kingdom |
 | [Welsh Open 2019](https://www.worldcubeassociation.org/competitions/WelshOpen2019) | 6.00 | 78 | United Kingdom |
+| [Isle of Wight Summer 2023](https://www.worldcubeassociation.org/competitions/IsleofWightSummer2023) | 6.00 | 36 | United Kingdom |
 | [Doncaster Open 2020](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020) | 5.95 | 116 | United Kingdom |
 | [Edinburgh Spring 2015](https://www.worldcubeassociation.org/competitions/EdinburghSpring2015) | 5.93 | 28 | United Kingdom |
 | [Birmingham Open 2016](https://www.worldcubeassociation.org/competitions/BirminghamOpen2016) | 5.86 | 78 | United Kingdom |
@@ -69,7 +69,6 @@
 | [North Wales Summer 2023](https://www.worldcubeassociation.org/competitions/NorthWalesSummer2023) | 5.69 | 52 | United Kingdom |
 | [Bolton Spring 2023](https://www.worldcubeassociation.org/competitions/BoltonSpring2023) | 5.69 | 97 | United Kingdom |
 | [WGC 2015](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2015) | 5.68 | 75 | United Kingdom |
-| [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) | 5.66 | 53 | United Kingdom |
 | [Welcome To Cambridge 2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014) | 5.65 | 40 | United Kingdom |
 | [Leeds Open 2019](https://www.worldcubeassociation.org/competitions/LeedsOpen2019) | 5.65 | 93 | United Kingdom |
 | [Droitwich Spa Autumn 2022](https://www.worldcubeassociation.org/competitions/DroitwichSpaAutumn2022) | 5.64 | 105 | United Kingdom |
@@ -78,6 +77,7 @@
 | [UK Open 2012](https://www.worldcubeassociation.org/competitions/UKOpen2012) | 5.61 | 72 | United Kingdom |
 | [Stratford-upon-Avon Open 2018](https://www.worldcubeassociation.org/competitions/SUAO2018) | 5.60 | 105 | United Kingdom |
 | [UK Championship 2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015) | 5.59 | 153 | United Kingdom |
+| [Glasgow Side Events Autumn 2024](https://www.worldcubeassociation.org/competitions/GlasgowSideEventsAutumn2024) | 5.59 | 54 | United Kingdom |
 | [Weston-super-Mare Winter 2025](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2025) | 5.58 | 76 | United Kingdom |
 | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024) | 5.55 | 33 | United Kingdom |
 | [Manchester Open 2017](https://www.worldcubeassociation.org/competitions/ManchesterOpen2017) | 5.54 | 70 | United Kingdom |
@@ -91,10 +91,10 @@
 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023) | 5.45 | 22 | United Kingdom |
 | [Welsh Open 2018](https://www.worldcubeassociation.org/competitions/WelshOpen2018) | 5.45 | 75 | United Kingdom |
 | [Stevenage February 2024](https://www.worldcubeassociation.org/competitions/StevenageFebruary2024) | 5.43 | 192 | United Kingdom |
-| [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) | 5.42 | 139 | United Kingdom |
+| [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023) | 5.40 | 140 | United Kingdom |
 | [Bristol Winter 2024](https://www.worldcubeassociation.org/competitions/BristolWinter2024) | 5.39 | 95 | United Kingdom |
 | [Hastings Open 2018](https://www.worldcubeassociation.org/competitions/HastingsOpen2018) | 5.37 | 84 | United Kingdom |
-| [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 5.35 | 426 | United Kingdom |
+| [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024) | 5.34 | 427 | United Kingdom |
 | [Guildford Open 2018](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018) | 5.34 | 112 | United Kingdom |
 | [UK New Year Countdown 2023](https://www.worldcubeassociation.org/competitions/UKNewYearCountdown2023) | 5.33 | 36 | United Kingdom |
 | [Wakefield Open 2022](https://www.worldcubeassociation.org/competitions/WakefieldOpen2022) | 5.33 | 163 | United Kingdom |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -11,6 +11,7 @@
 | 5.77 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 4.88, 7.09, 9.94, 5.30, 4.92 |
 | 5.95 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 6.50, 5.56, 5.34, 6.85, 5.79 |
 | 5.96 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 6.07, 4.91, 5.50, 8.41, 6.31 |
+| 6.25 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 6.03, 6.12, 7.58, 4.90, 6.60 |
 | 7.04 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 6.88, 7.24, 9.20, 6.99, 3.69 |
 | 7.10 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 8.16, 5.50, 11.37, 6.82, 6.31 |
 | 7.35 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 7.35, 6.91, 8.68, 7.62, 7.09 |
@@ -21,6 +22,7 @@
 | ---: | :--- | :--- |
 | 1.10 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 1.12, 1.00, 1.02, 1.64, 1.17 |
 | 1.20 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 0.98, 0.98, 1.50, 1.26, 1.37 |
+| 1.45 | [Harry Allen](https://www.worldcubeassociation.org/persons/2023ALLE01) | 1.77, 1.56, 1.09, 1.30, 1.48 |
 | 1.61 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 1.94 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 3.36, 2.66, 1.90, 1.04, 1.25 |
 
@@ -44,8 +46,7 @@
 | 46.82 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 44.98, 56.78, 49.82, 45.67, 43.96 |
 | 48.45 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 51.64, 48.61, 48.09, 48.66, 47.21 |
 | 49.14 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.83, 50.81, 44.88, 47.23, 50.35 |
-| 49.83 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 47.73, 46.25, 58.97, 54.68, 47.08 |
-| 52.93 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 52.10, 56.39, 53.24, 51.97, 53.46 |
+| 51.76 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 1:02.83, 49.47, 51.40, 51.55, 52.34 |
 
 ### 6x6x6 Cube
 
@@ -126,6 +127,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 1.57 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.38, 2.02, 1.64, 1.68, 1.29 |
+| 1.73 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 1.76, 2.80, 1.34, 1.75, 1.68 |
 | 1.75 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 2.01, 1.86, 1.40, 1.69, 1.71 |
 | 1.96 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | 1.55, 1.83, 4.75, 1.58, 2.47 |
 | 2.03 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) | 2.99, 1.83, 1.78, 2.12, 2.14 |

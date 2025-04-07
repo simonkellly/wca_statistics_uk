@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -158,6 +158,7 @@
 | 1 | [Cape Cubes Challenge 2024](https://www.worldcubeassociation.org/competitions/CapeCubesChallenge2024) |
 | 1 | [Capital Cubing Canberra Sat 2024](https://www.worldcubeassociation.org/competitions/CapitalCubingCanberraSat2024) |
 | 1 | [Cardinal Bird 2018](https://www.worldcubeassociation.org/competitions/CardinalBirdFiesta2018) |
+| 1 | [Cardinal Cube Day 2024](https://www.worldcubeassociation.org/competitions/CardinalCubeDay2024) |
 | 1 | [Carolina Clock 'Stravaganza 2022](https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2022) |
 | 1 | [Carolina Season Starter 2018](https://www.worldcubeassociation.org/competitions/CarolinaSeasonStarter2018) |
 | 1 | [Carte Blanche Kube Open 2017](https://www.worldcubeassociation.org/competitions/CarteBlancheKubeOpen2017) |
@@ -310,7 +311,6 @@
 | 1 | [Esprit Cube Open Bayonne 2022](https://www.worldcubeassociation.org/competitions/EspritCubeOpenBayonne2022) |
 | 1 | [Estonian Open 2012](https://www.worldcubeassociation.org/competitions/EstonianOpen2012) |
 | 1 | [Estonian Open 2023](https://www.worldcubeassociation.org/competitions/EstonianOpen2023) |
-| 1 | [Et Nyt År i Hvidovre 2025](https://www.worldcubeassociation.org/competitions/EtNytAriHvidovre2025) |
 | 1 | [Euro 2006](https://www.worldcubeassociation.org/competitions/Euro2006) |
 | 1 | [Even Sydney Gathering 2022](https://www.worldcubeassociation.org/competitions/EvenBetterSydneyGathering2022) |
 | 1 | [Even Day in Bacolod 2022](https://www.worldcubeassociation.org/competitions/EvenDayinBacolod2022) |
@@ -474,6 +474,7 @@
 | 1 | [IISER Pune Autumn Open 2024](https://www.worldcubeassociation.org/competitions/IISERPuneAutumnOpen2024) |
 | 1 | [IISER Pune Cube Open 2019](https://www.worldcubeassociation.org/competitions/IISERPuneCubeOpen2019) |
 | 1 | [IISER Pune Cube Open 2022](https://www.worldcubeassociation.org/competitions/IISERPuneCubeOpen2022) |
+| 1 | [IISER Pune Summer Open 2025](https://www.worldcubeassociation.org/competitions/IISERPuneSummerOpen2025) |
 | 1 | [IISER Pune Winter Open 2024](https://www.worldcubeassociation.org/competitions/IISERPuneWinterOpen2024) |
 | 1 | [Ikast Winter Cubing 2023](https://www.worldcubeassociation.org/competitions/IkastWinterCubing2023) |
 | 1 | [Ileseum Cube Open 2025](https://www.worldcubeassociation.org/competitions/IleseumCubeOpen2025) |
@@ -606,6 +607,7 @@
 | 1 | [Matale Cubing Year-End 2023](https://www.worldcubeassociation.org/competitions/MataleCubingYearEnd2023) |
 | 1 | [Mauritius Open 2020](https://www.worldcubeassociation.org/competitions/MauritiusOpen2020) |
 | 1 | [MCC Cube Open 2023](https://www.worldcubeassociation.org/competitions/MCCCubeOpen2023) |
+| 1 | [Mega Mania Cape Town 2025](https://www.worldcubeassociation.org/competitions/MegaManiaCapeTown2025) |
 | 1 | [Meizhou Open 2018](https://www.worldcubeassociation.org/competitions/MeizhouOpen2018) |
 | 1 | [Melaka Open 2014](https://www.worldcubeassociation.org/competitions/MelakaOpen2014) |
 | 1 | [Melbourne Autumn 2015](https://www.worldcubeassociation.org/competitions/MelbourneAutumn2015) |
@@ -685,6 +687,7 @@
 | 1 | [Newark's On Track 2023](https://www.worldcubeassociation.org/competitions/NewarksOnTrack2023) |
 | 1 | [Newcastle Open 2023](https://www.worldcubeassociation.org/competitions/NewcastleOpen2023) |
 | 1 | [Newcastle Winter 2015](https://www.worldcubeassociation.org/competitions/NewcastleWinter2015) |
+| 1 | [New England Championship 2023](https://www.worldcubeassociation.org/competitions/NewEnglandChampionship2023) |
 | 1 | [Newport Cube Day 2014](https://www.worldcubeassociation.org/competitions/NewportCubeDay2014) |
 | 1 | [A New Year in Auckland 2021](https://www.worldcubeassociation.org/competitions/NewYearAuckland2021) |
 | 1 | [New Year's in the Dolomites 2023](https://www.worldcubeassociation.org/competitions/NewYearsintheDolomites2023) |
@@ -805,6 +808,7 @@
 | 1 | [Prague Open 2015](https://www.worldcubeassociation.org/competitions/PragueOpen2015) |
 | 1 | [Pretzel Mania Summer 2023](https://www.worldcubeassociation.org/competitions/PretzelManiaSummer2023) |
 | 1 | [Prienai Open 2022](https://www.worldcubeassociation.org/competitions/PrienaiOpen2022) |
+| 1 | [Princeton Fall 2023](https://www.worldcubeassociation.org/competitions/PrincetonFall2023) |
 | 1 | [PSC Open 2018](https://www.worldcubeassociation.org/competitions/PSCOpen2018) |
 | 1 | [Puerto Real Camaleón Open 2024](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2024) |
 | 1 | [Puget Sound Fall 2019](https://www.worldcubeassociation.org/competitions/PugetSoundFall2019) |
@@ -1029,6 +1033,7 @@
 | 1 | [Thailand Championship 2015](https://www.worldcubeassociation.org/competitions/ThailandChampionship2015) |
 | 1 | [Thailand Championship 2018](https://www.worldcubeassociation.org/competitions/ThailandChampionship2018) |
 | 1 | [Thankful for Cubing RPV 2023](https://www.worldcubeassociation.org/competitions/ThankfulforCubingRPV2023) |
+| 1 | [The Battle of Concord 2024](https://www.worldcubeassociation.org/competitions/TheBattleofConcord2024) |
 | 1 | [The Big Cube Melbourne 2024](https://www.worldcubeassociation.org/competitions/TheBigCubeMelbourne2024) |
 | 1 | [The Nairobi Open 2023](https://www.worldcubeassociation.org/competitions/TheNairobiOpen2023) |
 | 1 | [Tianjin Summer Solstice 2021](https://www.worldcubeassociation.org/competitions/TianjinSummerSolstice2021) |
@@ -1052,7 +1057,6 @@
 | 1 | [Twist 'n Turn Tallinn 2022](https://www.worldcubeassociation.org/competitions/TwistNTurnTallinn2022) |
 | 1 | [Twisty Taranaki 2021](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2021) |
 | 1 | [Twisty Taranaki 2022](https://www.worldcubeassociation.org/competitions/TwistyTaranaki2022) |
-| 1 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) |
 | 1 | [UBC Open 2020](https://www.worldcubeassociation.org/competitions/UBCOpen2020) |
 | 1 | [Udaan Rubik's Cube Open 2018](https://www.worldcubeassociation.org/competitions/UdaanRubiksCubeOpen2018) |
 | 1 | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) |
@@ -1110,7 +1114,6 @@
 | 1 | [World Championship 2005](https://www.worldcubeassociation.org/competitions/WC2005) |
 | 1 | [African Championship 2022](https://www.worldcubeassociation.org/competitions/WCAAfricanChampionship2022) |
 | 1 | [Welcome Back Ayase Winter 2020](https://www.worldcubeassociation.org/competitions/WelcomeBackAyaseWinter2020) |
-| 1 | [Welcome Back Hong Kong 2024](https://www.worldcubeassociation.org/competitions/WelcomeBackHongKong2024) |
 | 1 | [Wellington Mind Games 2021](https://www.worldcubeassociation.org/competitions/WellingtonMindGames2021) |
 | 1 | [Wellspring Open 2017](https://www.worldcubeassociation.org/competitions/WellspringOpen2017) |
 | 1 | [WCCT Cupertino 2018](https://www.worldcubeassociation.org/competitions/WestCoastCubingTourCupertino2018) |
@@ -1196,6 +1199,7 @@
 | 2 | [Egyptian Championship 2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019) |
 | 2 | [Eindhoven Spring 2013](https://www.worldcubeassociation.org/competitions/EindhovenSpring2013) |
 | 2 | [Enjoyable Sydney Gathering 2020](https://www.worldcubeassociation.org/competitions/EnjoyableSydneyGathering2020) |
+| 2 | [Et Nyt År i Hvidovre 2025](https://www.worldcubeassociation.org/competitions/EtNytAriHvidovre2025) |
 | 2 | [Festlig Farvel til 2024](https://www.worldcubeassociation.org/competitions/FestligFarveltil2024) |
 | 2 | [Finnish Championship 2016](https://www.worldcubeassociation.org/competitions/FinnishChampionship2016) |
 | 2 | [First Friday First FMC Täby 2024](https://www.worldcubeassociation.org/competitions/FirstFridayFirstFMCTaby2024) |
@@ -1267,6 +1271,7 @@
 | 2 | [New Zealand Nationals 2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017) |
 | 2 | [Nordic Championship 2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018) |
 | 2 | [Norrlandsmästerskapet 2024](https://www.worldcubeassociation.org/competitions/Norrlandsmasterskapet2024) |
+| 2 | [Norrland Tour: Umekuben 2025](https://www.worldcubeassociation.org/competitions/NorrlandTourUmekuben2025) |
 | 2 | [Northpark Adelaide 2014](https://www.worldcubeassociation.org/competitions/NorthparkAdelaide2014) |
 | 2 | [Norwegian Championship 2021](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2021) |
 | 2 | [NSW Open 2022](https://www.worldcubeassociation.org/competitions/NSWOpen2022) |
@@ -1342,6 +1347,7 @@
 | 2 | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
 | 2 | [Tulip Open 2016](https://www.worldcubeassociation.org/competitions/TulipOpen2016) |
 | 2 | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |
+| 2 | [Twixmas Flen 2024](https://www.worldcubeassociation.org/competitions/TwixmasFlen2024) |
 | 2 | [Uppsalaligan 2: Leap - 2024](https://www.worldcubeassociation.org/competitions/Uppsalaligan2Leap2024) |
 | 2 | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) |
 | 2 | [US Nationals 2015](https://www.worldcubeassociation.org/competitions/USNationals2015) |
@@ -1353,6 +1359,7 @@
 | 2 | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) |
 | 2 | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) |
 | 2 | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022) |
+| 2 | [Welcome Back Hong Kong 2024](https://www.worldcubeassociation.org/competitions/WelcomeBackHongKong2024) |
 | 2 | [Wiler Würfelfäst 2025](https://www.worldcubeassociation.org/competitions/WilerWurfelfast2025) |
 | 2 | [Wiler Würfelfest 2016](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2016) |
 | 2 | [Wonderful Williamstown 2022](https://www.worldcubeassociation.org/competitions/WonderfulWilliamstown2022) |
@@ -1517,6 +1524,7 @@
 | 7 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 7 | [Irish Championship 2015](https://www.worldcubeassociation.org/competitions/IrishChampionship2015) |
 | 7 | [Irish Championship 2017](https://www.worldcubeassociation.org/competitions/IrishChampionship2017) |
+| 7 | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) |
 | 7 | [Norwegian Championship 2024](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2024) |
 | 7 | [Swisscubing Cup III 2018](https://www.worldcubeassociation.org/competitions/SwisscubingCupIII2018) |
 | 7 | [UCD Cube Days 2024](https://www.worldcubeassociation.org/competitions/UCDCubeDays2024) |

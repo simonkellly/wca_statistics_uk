@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -179,10 +179,10 @@
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.15 | **4.18** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 4 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 3.72 | **4.21** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 5 |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | 3.31 | **4.26** | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/all#eclock_f) | 4 |
+| [Kris Lim](https://www.worldcubeassociation.org/persons/2022LIMK01) | 4.14 | **4.39** | [Bolton Spring 2025](https://www.worldcubeassociation.org/competitions/BoltonSpring2025/results/all#eclock_f) | 4 |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | 2.76 | **4.56** | [Kewbz UK Open 2024](https://www.worldcubeassociation.org/competitions/KewbzUKOpen2024/results/all#eclock_f) | 6 |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 4.03 | **4.57** | [Lincolnshire Summer 2024](https://www.worldcubeassociation.org/competitions/LincolnshireSummer2024/results/all#eclock_c) | 4 |
 | [Matthew Stephenson](https://www.worldcubeassociation.org/persons/2022STEP04) | 4.13 | **4.64** | [Rubik's UK Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksUKChampionship2024/results/all#eclock_f) | 6 |
-| [Dorian Chan](https://www.worldcubeassociation.org/persons/2023DORI01) | 4.41 | **4.69** | [Wiltshire September 2024](https://www.worldcubeassociation.org/competitions/WiltshireSeptember2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 

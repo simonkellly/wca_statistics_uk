@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -11,6 +11,7 @@
 | 6.07 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 6.12, 6.14, 5.42, 6.32, 10.80, 5.83, 5.56, 5.94, 6.53, 5.81, 6.42, 5.98 |
 | 6.49 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 6.04, 5.95, 7.35, 6.75, 6.77, 6.14, 6.37, 5.70, 6.75, 7.43, 6.63, 6.13 |
 | 6.89 | [George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05) | 7.26, 6.71, 6.89, 6.77, 7.63, 6.07, 4.91, 5.50, 8.41, 6.31, 8.20, 7.59 |
+| 6.89 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 6.67, 7.42, 7.82, 5.68, 8.19, 9.68, 6.74, 6.03, 6.12, 7.58, 4.90, 6.60 |
 | 7.73 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 7.84, 5.74, 6.84, 10.08, 10.28, 7.98, 8.07, 6.85, 7.85, 7.79, 7.94, 6.05 |
 | 7.91 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 7.76, 7.57, 7.49, 6.85, 9.95, 7.56, 9.87, 7.94, 7.68, 8.94, 7.35, 6.91 |
 | 7.95 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | 7.30, 8.23, 6.42, 7.73, 8.02, 7.52, 8.84, 7.85, 8.01, 9.02, 7.39, 8.64 |
@@ -21,6 +22,7 @@
 | ---: | :--- | :--- |
 | 1.31 | [James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07) | 1.36, 0.86, 1.44, 1.45, 1.33, 1.16, 4.16, 1.63, 0.98, 0.98, 1.50, 1.26 |
 | 1.45 | [Luke Burns](https://www.worldcubeassociation.org/persons/2020BURN06) | 0.70, 1.15, 1.08, 1.58, 1.99, 1.12, 1.28, 1.54, 1.54, DNF, 1.62, 1.61 |
+| 1.56 | [Harry Allen](https://www.worldcubeassociation.org/persons/2023ALLE01) | 1.31, 4.08, 1.64, 1.28, 1.92, 1.70, 1.40, 1.72, 1.77, 1.56, 1.09, 1.30 |
 | 1.93 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 2.40, 1.41, 2.69, 2.44, 0.93, 2.08, 2.32, 3.99, 1.43, 1.09, 1.80, 1.61 |
 | 2.42 | [Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04) | 1.48, 1.68, 1.60, 2.92, 3.02, 2.94, 2.55, 3.09, 1.23, 6.40, 2.49, 2.39 |
 
@@ -44,8 +46,7 @@
 | 50.51 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | 45.60, 55.80, 45.29, 49.39, 58.48, 51.66, 58.70, 51.64, 48.61, 48.09, 48.66, 47.21 |
 | 50.55 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 52.82, 51.33, 52.91, 1:01.16, 49.74, 50.01, 44.98, 56.78, 49.82, 45.67, 43.96, 51.43 |
 | 51.70 | [Dean David](https://www.worldcubeassociation.org/persons/2022DAVI06) | 49.21, 52.15, 55.91, 52.27, 55.46, 1:01.28, 53.76, 49.83, 50.81, 44.88, 47.23, 50.35 |
-| 53.65 | [Jake Brown](https://www.worldcubeassociation.org/persons/2020BROW01) | 58.33, 56.96, 50.61, 55.62, 50.94, 51.53, 50.75, 51.28, 54.34, 57.22, 54.65, 53.23 |
-| 54.76 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 56.93, 52.10, 56.39, 53.24, 51.97, 53.46, 58.00, 57.32, 59.49, 50.79, 53.62, 54.55 |
+| 54.28 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 53.36, DNF, 57.84, 53.78, 51.56, 54.57, 53.58, 1:02.83, 49.47, 51.40, 51.55, 52.34 |
 
 ### 6x6x6 Cube
 
@@ -126,6 +127,7 @@
 | 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
 | 1.90 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.77, 1.84, 2.14, 1.80, 1.71, 1.75, 2.40, 1.96, 1.74, DNF, 1.64, 1.87 |
 | 2.24 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | 1.74, 2.18, 3.03, 2.21, 1.44, 3.27, 1.83, 2.27, 2.40, 1.85, 2.73, 2.17 |
+| 2.33 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 3.01, 2.20, 3.46, 2.74, 2.19, 2.85, 1.76, 2.80, 1.34, 1.75, 1.68, 2.35 |
 | 2.43 | [Nathan Olano](https://www.worldcubeassociation.org/persons/2018OLAN01) | 2.15, 2.19, 2.21, 10.67, 2.35, 3.27, 1.94, 2.55, 2.23, 3.24, 2.13, 1.80 |
 | 2.51 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) | 2.99, 1.83, 1.78, 2.12, 2.14, 2.57, 2.92, 2.16, 2.94, DNF, 2.84, 2.56 |
 | 2.84 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | 2.18, 2.63, 1.20, 4.96, 1.77, 3.10, 2.65, 3.67, 1.60, 5.78, 2.18, 3.65 |

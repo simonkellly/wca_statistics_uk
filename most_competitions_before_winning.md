@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -250,6 +250,7 @@
 | ---: | :--- | :--- |
 | 21 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [Wiltshire December 2023](https://www.worldcubeassociation.org/competitions/WiltshireDecember2023) |
 | 17 | [Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01) | [Fontwell Open 2020](https://www.worldcubeassociation.org/competitions/FontwellOpen2020) |
+| 16 | [Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02) | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) |
 | 14 | [Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01) | [Glasgow Winter 2023](https://www.worldcubeassociation.org/competitions/GlasgowWinter2023) |
 | 13 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | [Guildford Winter 2023](https://www.worldcubeassociation.org/competitions/GuildfordWinter2023) |
 | 11 | [Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06) | [Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018) |
@@ -257,7 +258,6 @@
 | 10 | [Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01) | [Weston-super-Mare Open 2018](https://www.worldcubeassociation.org/competitions/WSMO2018) |
 | 8 | [Thomas Patterson](https://www.worldcubeassociation.org/persons/2014PATT02) | [Norwich Winter 2024](https://www.worldcubeassociation.org/competitions/NorwichWinter2024) |
 | 7 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | [Oxford Open 2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014) |
-| 7 | [Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03) | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) |
 
 ### 3x3x3 With Feet
 
