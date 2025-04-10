@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 
 ### Rubik's Cube
@@ -127,11 +127,9 @@
 | 1.86 | [Daniel Partridge](https://www.worldcubeassociation.org/persons/2022PART02) | 1.28, 2.87, 1.92, 2.49, 4.42, 1.77, 1.38, 2.02, 1.64, 1.68, 1.29, 1.54 |
 | 1.90 | [Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03) | 1.77, 1.84, 2.14, 1.80, 1.71, 1.75, 2.40, 1.96, 1.74, DNF, 1.64, 1.87 |
 | 2.24 | [Bo Forsell](https://www.worldcubeassociation.org/persons/2022FORS06) | 1.74, 2.18, 3.03, 2.21, 1.44, 3.27, 1.83, 2.27, 2.40, 1.85, 2.73, 2.17 |
-| 2.33 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | 3.01, 2.20, 3.46, 2.74, 2.19, 2.85, 1.76, 2.80, 1.34, 1.75, 1.68, 2.35 |
 | 2.43 | [Nathan Olano](https://www.worldcubeassociation.org/persons/2018OLAN01) | 2.15, 2.19, 2.21, 10.67, 2.35, 3.27, 1.94, 2.55, 2.23, 3.24, 2.13, 1.80 |
 | 2.51 | [Oliver Hutchings](https://www.worldcubeassociation.org/persons/2023HUTC01) | 2.99, 1.83, 1.78, 2.12, 2.14, 2.57, 2.92, 2.16, 2.94, DNF, 2.84, 2.56 |
 | 2.84 | [Joel Keenan](https://www.worldcubeassociation.org/persons/2018KEEN02) | 2.18, 2.63, 1.20, 4.96, 1.77, 3.10, 2.65, 3.67, 1.60, 5.78, 2.18, 3.65 |
-| 3.25 | [Satya Bhavesh Gala](https://www.worldcubeassociation.org/persons/2022GALA03) | 3.49, 2.54, 3.75, 3.39, 2.07, 3.38, 7.22, 4.15, 3.70, 2.44, 2.38, 3.27 |
 | 3.28 | [James Kyoichi Curry (ジェイムス 恭一)](https://www.worldcubeassociation.org/persons/2023CURR06) | 3.18, 4.18, 3.11, 3.57, 2.48, 2.98, 2.03, 4.25, 5.04, 3.39, 2.68, 2.94 |
 
 ### Rubik's Clock

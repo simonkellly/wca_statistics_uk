@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -630,6 +630,7 @@
 | 1 | [Mental Breakdown Capelle 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownCapelle2019) |
 | 1 | [Mental Breakdown Hoorn 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownHoorn2024) |
 | 1 | [Mentallinn 2019](https://www.worldcubeassociation.org/competitions/Mentallinn2019) |
+| 1 | [Midwest Cubing Classic 2025](https://www.worldcubeassociation.org/competitions/MidwestCubingClassic2025) |
 | 1 | [Mind Games 2017](https://www.worldcubeassociation.org/competitions/MindGames2017) |
 | 1 | [Mini Mental Milano II 2025](https://www.worldcubeassociation.org/competitions/MiniMentalMilanoII2025) |
 | 1 | [Mini Mental Uppsala 2024](https://www.worldcubeassociation.org/competitions/MiniMentalUppsala2024) |
