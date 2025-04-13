@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -76,10 +76,10 @@
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [N8W8 Summer 2013](https://www.worldcubeassociation.org/competitions/N8W8Summer2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 3x3x3 One-Handed | [ABHC 2014](https://www.worldcubeassociation.org/competitions/AugustBank2014) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 5x5x5 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
+| 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 4x4x4 Cube | [The Glorious North 2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 8 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | Megaminx | [ABHC 2016](https://www.worldcubeassociation.org/competitions/ABHC2016) | [London Open 2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017) |
 | 8 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | Clock | [Taylor's Cube 2013](https://www.worldcubeassociation.org/competitions/TaylorOpen2013) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 8 | [Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01) | 3x3x3 With Feet | [Oxford Winter 2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |

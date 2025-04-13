@@ -1,6 +1,6 @@
 ## Fewest competitors contest
 
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 | Competitors | Competition |
 | ---: | :--- |
@@ -1345,6 +1345,7 @@
 | 2 | [Texas Out of School 2019](https://www.worldcubeassociation.org/competitions/TexasOutofSchool2019) |
 | 2 | [Thailand Championship 2016](https://www.worldcubeassociation.org/competitions/ThailandChampionship2016) |
 | 2 | [The Big Cube Melbourne 2023](https://www.worldcubeassociation.org/competitions/TheBigCubeMelbourne2023) |
+| 2 | [Tip of Skåne 2025](https://www.worldcubeassociation.org/competitions/TipofSkane2025) |
 | 2 | [Trondheim Cube Week 2023](https://www.worldcubeassociation.org/competitions/TrondheimCubeWeek2023) |
 | 2 | [Tulip Open 2016](https://www.worldcubeassociation.org/competitions/TulipOpen2016) |
 | 2 | [Turnin' in Termonfeckin Sat 2024](https://www.worldcubeassociation.org/competitions/TurnininTermonfeckinSaturday2024) |

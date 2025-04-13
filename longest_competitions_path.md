@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -13,7 +13,7 @@
 | [Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01) | 186 325 km |
 | [Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20) | 148 857 km |
 | [Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01) | 129 058 km |
-| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 116 570 km |
+| [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | 116 610 km |
 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | 111 979 km |
 | [Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01) | 108 357 km |
 | [Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07) | 107 552 km |
@@ -329,6 +329,7 @@
 | [Yoav Stern](https://www.worldcubeassociation.org/persons/2014STER02) | 3 860 km |
 | [Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02) | 3 843 km |
 | [Matthew Hart](https://www.worldcubeassociation.org/persons/2019HART11) | 3 838 km |
+| [Thomas Allinson](https://www.worldcubeassociation.org/persons/2023ALLI04) | 3 835 km |
 | [Filip Klonowski](https://www.worldcubeassociation.org/persons/2022KLON01) | 3 821 km |
 | [Jack Ledger](https://www.worldcubeassociation.org/persons/2022LEDG01) | 3 820 km |
 | [Fabio Rossi](https://www.worldcubeassociation.org/persons/2022ROSS02) | 3 786 km |
@@ -395,7 +396,6 @@
 | [Edward Nutter](https://www.worldcubeassociation.org/persons/2018NUTT01) | 2 899 km |
 | [Noah Calderon-Kamata](https://www.worldcubeassociation.org/persons/2022CALD07) | 2 878 km |
 | [Kirsty Grainger](https://www.worldcubeassociation.org/persons/2022GRAI02) | 2 855 km |
-| [Thomas Allinson](https://www.worldcubeassociation.org/persons/2023ALLI04) | 2 796 km |
 | [Theo Greenwood](https://www.worldcubeassociation.org/persons/2022GREE02) | 2 754 km |
 | [Traian Barbu-Smith](https://www.worldcubeassociation.org/persons/2021BARB02) | 2 732 km |
 | [George Railton](https://www.worldcubeassociation.org/persons/2022RAIL01) | 2 706 km |

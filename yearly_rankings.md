@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 
 ### Rubik's Cube - Single
@@ -342,7 +342,7 @@
 | [Caleb Wolf Dunn](https://www.worldcubeassociation.org/persons/2022DUNN03) | **2.30** | United Kingdom | [Bolton Spring 2025](https://www.worldcubeassociation.org/competitions/BoltonSpring2025) | 4.28, 3.15, 5.01, 2.30, DNF |
 | [Danny Morgan](https://www.worldcubeassociation.org/persons/2019MORG10) | **2.46** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | 2.46, 3.78, 5.42, 3.15, 3.33 |
 | [Fengyuan Kelvin Lou (楼丰源)](https://www.worldcubeassociation.org/persons/2023LOUF01) | **2.71** | United Kingdom | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 2.71, 4.15, 4.31, 4.57, 3.33 |
-| [Thomas Allinson](https://www.worldcubeassociation.org/persons/2023ALLI04) | **2.85** | United Kingdom | [Leeds Spring 2025](https://www.worldcubeassociation.org/competitions/LeedsSpring2025) | 4.43, 3.55, DNF, 4.05, 2.85 |
+| [Thomas Allinson](https://www.worldcubeassociation.org/persons/2023ALLI04) | **2.75** | United Kingdom | [Tip of Skåne 2025](https://www.worldcubeassociation.org/competitions/TipofSkane2025) | DNF, 8.31, 2.75, 3.29, DNF |
 | [Aidan Grainger](https://www.worldcubeassociation.org/persons/2018GRAI01) | **2.86** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | 2.86, 3.25, 3.38, DNF, DNF |
 | [Monty Fox](https://www.worldcubeassociation.org/persons/2023FOXM01) | **2.99** | United Kingdom | [Stevenage March 2025](https://www.worldcubeassociation.org/competitions/StevenageMarch2025) | 7.86, DNF, 4.89, 3.43, 2.99 |
 | [Cham J. Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09) | **3.00** | United Kingdom | [Wiltshire Spring 2025](https://www.worldcubeassociation.org/competitions/WiltshireSpring2025) | DNF, 3.00, 3.39, 5.58, 3.09 |
