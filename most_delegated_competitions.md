@@ -4,7 +4,7 @@
 
 | Delegated | Person | List on WCA |
 | ---: | :--- | :--: |
-| 104 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=695) |
+| 105 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=695) |
 | 101 | [James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=116) |
 | 98 | [Edward Hollingdale](https://www.worldcubeassociation.org/persons/2011HOLL04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=50063) |
 | 85 | [AJ Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=10337) |

@@ -10,7 +10,7 @@
 | 36.52 | 5 | 0.14 | [Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=82) |
 | 34.02 | 19 | 0.56 | [Ryan Eckersley](https://www.worldcubeassociation.org/persons/2019ECKE02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=99346) |
 | 33.51 | 20 | 0.60 | [Ada Cooke](https://www.worldcubeassociation.org/persons/2020COOK03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=187493) |
-| 33.29 | 104 | 3.12 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=695) |
+| 33.00 | 105 | 3.18 | [Callum James Goodyear-Jørgensen](https://www.worldcubeassociation.org/persons/2012GOOD02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=695) |
 | 31.39 | 44 | 1.40 | [Rich Casey](https://www.worldcubeassociation.org/persons/2023CASE06) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=339434) |
 | 30.51 | 72 | 2.36 | [Eleanor Sinnott](https://www.worldcubeassociation.org/persons/2016SINN01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=28722) |
 | 26.06 | 73 | 2.80 | [Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=34177) |
